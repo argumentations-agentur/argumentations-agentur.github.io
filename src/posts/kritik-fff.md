@@ -1,6 +1,6 @@
 ---
 title: Irreführende Kritik an Fridays for Future
-description: Vertreter\*innen der Fridays for Future Bewegung fordern, dass politische Maßnahmen getroffen werden, mit denen die Treibhausgasemissionen bis 2035 vollständig reduziert werden. Der Klimawissenschaftler Hans von Storch zieht in einem Gespräch mit dem SPIEGEL (43/2019) in Zweifel, dass die Forderungen aus der Zivilgesellschaft sachlich fundiert seien. Stimmt das?
+description: Vertreter*innen der Fridays for Future Bewegung fordern, dass politische Maßnahmen getroffen werden, mit denen die Treibhausgasemissionen bis 2035 vollständig reduziert werden. Der Klimawissenschaftler Hans von Storch zieht in einem Gespräch mit dem SPIEGEL (43/2019) in Zweifel, dass die Forderungen aus der Zivilgesellschaft sachlich fundiert seien. Stimmt das?
 author: Eugen Pissarskoi
 date: 2022-10-11
 ---
