@@ -4,11 +4,9 @@ title: Argumentationstraining
 
 Wir stärken Ihre Fähigkeit, reflektiert zu urteilen, indem wir Sie darin unterstützen, argumentative Strukturen zu identifizieren, zu rekonstruieren, zu analysieren und zu kommunizieren. In individuell zugeschnittenen Workshops trainieren wir folgende Kompetenzen: 
 
-	
 + Hermeneutik: Positionen Anderer erfassen
 + Argumentation: Argumentative Strukturen erkennen und eigene Argumente formulieren
 + Entscheidungsfindung: Entscheidungen argumentativ begründen
-
 
 Diese Grundkompetenzen kritischen und reflektierten Urteilens trainieren wir in Workshops, die auf verschiedene Anwendungsfelder zugeschnitten sind: 
 
@@ -16,8 +14,7 @@ Diese Grundkompetenzen kritischen und reflektierten Urteilens trainieren wir in 
 + Argumente nutzen, um in Wertkonflikten zu vermitteln
 + Argumente nutzen, um strategische Entscheidungen zu finden
 + Argumente kommunizieren
-+ Argumentation und Rhetorik: was tun, wenn andere schlecht argumentieren?
-
++ Argumentation und Rhetorik: was tun, wenn Andere destruktiv argumentieren?
 
 ## Argumentationskompetenzen: ein Werkzeugkasten für kritisches Denken
 
@@ -44,8 +41,7 @@ In diesem Workshop trainieren wir Grundkompetenzen kritischen Urteilens. Sie erh
 + rhetorische Fallstricke und Fehlschlüsse zu erkennen;
 + argumentative Kompetenzen im Lichte unserer Psychologie zur Geltung zu bringen
 
-
-## Argumente nutzen, um in Wertkonflikten zu vermitteln
+## Argumente nutzen, um bei Wertkonflikten zu vermitteln
 
 Auseinandersetzungen, in denen vordergründig Werte miteinander im Konflikt stehen, haben meist die folgende Form: Ein Teil einer Gruppe möchte nach rechts gehen, um den kürzeren Weg zum Ziel einzuschlagen; ein anderer Teil möchte nach links gehen, um den schöneren Weg zu gehen. Die Gruppe muss eine Entscheidung finden, wo sie gemeinsam langgeht. 
 Argumentationsanalyse kann Sie dabei unterstützen, um bei Meinungsverschiedenheiten dieser Form zu vermitteln. In diesem zwei-tägigen Workshop trainieren wir argumentativen Umgang mit Wertkonflikten. 
@@ -58,7 +54,6 @@ Aufbau:
 + Rhetorik und Wertkonflikte
 + Vertiefung von Fallbeispielen (Ende Tag 2)
 
-
 ## Argumente nutzen, um strategische Entscheidungen zu finden
 
 Strategische Entscheidungen sind häufig kontrovers, weil sie mit zwei Arten von Unsicherheiten behaftet sind: normative und empirische Unsicherheit. Manchmal sind die Ziele oder ihre Gewichtung unsicher, die mit der Entscheidung verfolgt werden sollen (normative Unsicherheit). Manchmal ist es unsicher, welche Mittel mit welchen Kosten zu den festgelegten Ziele führen werden (empirische Unsicherheit). 
@@ -68,12 +63,11 @@ Aufbau:
 
 + Sammeln von Fallbeispielen für strategische Entscheidungen
 + Argumentationsanalyse von strategischen Entscheidungen
-    + Umgang mit normativer Unsicherheit
-	+ Umgang mit empirischer Unsicherheit
+  + Umgang mit normativer Unsicherheit
+  + Umgang mit empirischer Unsicherheit
 + Anwendung auf die Fallbeispiele (Ende Tag 1)
 + Kommunikation von Argumenten bei der Begründung von strategischen Entscheidungen
 + Vertiefung von Fallbeispielen (Ende Tag 2)
-
 
 <!-- 
 ## Argumente kommunizieren
