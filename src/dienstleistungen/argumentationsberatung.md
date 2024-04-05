@@ -4,7 +4,7 @@ title: Argumentationsberatung
 
 Wir unterstützen Sie mit unseren Kompetenzen in der Argumentationstheorie und -praxis bei Ihrer strategischen Positionierung sowie Ihrer Kommunikation.
 
-## Argumentative Strategieberatung
+# Argumentative Strategieberatung
 
 Ein reflektiert begründetes Urteil erfordert,
 
@@ -22,7 +22,7 @@ Dieses Ideal ist schwer zu erreichen. Wir können Sie dabei unterstützen, bei I
 	
 
 
-## Argumentative Kommunikationsberatung
+# Argumentative Kommunikationsberatung
 
 Wir unterstützen Sie dabei, in der Kommunikation ihrer Positionen – sei es nach innen, sei es nach außen – die Gründe für Ihre Position möglichst deutlich und überzeugend zu vermitteln. 
 Kommunikation der Gründe für eine Position kann erfordern, dass die Gründe erst identifiziert und präzisiert werden. Dann bietet wir an, mit der argumentativen Strategieberatung zu beginnen. 

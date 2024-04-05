@@ -7,29 +7,29 @@ description: Capitalize on low hanging fruit to identify a ballpark value added
 ---
 
 
-## Argumentationsanalyse
+# Argumentationsanalyse
 
 Wir **identifizieren, rekonstruieren, analysieren und visualisieren die argumentative Struktur** einer Debatte.
 
 
 👉 [erfahren Sie mehr...]({{'/dienstleistungen/argumentationsanalyse' | url }})
 
-## Argumentationstraining
+# Argumentationstraining
 
 Wir stärken Ihre Fähigkeit, reflektiert zu urteilen, indem wir Sie darin unterstützen, argumentative Strukturen zu identifizieren, zu rekonstruieren, zu analysieren und zu kommunizieren. In individuell zugeschnittenen Workshops trainieren wir Ihre Argumentationskompetenzen: 
 
 👉 [erfahren Sie mehr...]({{ '/dienstleistungen/argumentationstraining' | url}})
 
 
-## Argumentationsberatung
+# Argumentationsberatung
 
 Wir unterstützen Sie mit unseren Kompetenzen in der Argumentationstheorie und -praxis bei Ihrer strategischen Positionierung sowie Ihrer Kommunikation.
 
 👉 [erfahren Sie mehr...]({{ '/dienstleistungen/argumentationsberatung' | url}})
 
 
-## Argumentationsmoderation
+# Argumentationsmoderation
 
 Wir moderieren Debatten, welche darauf abzielen, kontroverse Positionen in einer Debatte miteinander ins Gespräch zu bringen. Wir moderieren inhaltlich neutral, doch argumentativ strukturierend.
 
-👉 [erfahre mehr...]({{ '/dienstleistungen/argumentationsmoderation'}})
+👉 [erfahren Sie mehr...]({{ '/dienstleistungen/argumentationsmoderation'}})
