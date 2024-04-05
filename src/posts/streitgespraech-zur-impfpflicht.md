@@ -38,7 +38,16 @@ Weitere Argumente liegen in Montogmerys Formulierung „Impfpflicht ist der Schl
 > **GG-A2 Schutz der Körperintegrität wiegt schwerer als Rückkehr zur Normalität (Rostalski)**: Schutz des Körpers ist moralisch und juristisch derart gewichtig, dass unfreiwillige Eingriffe in den Körper nur zu ganz spezifischen Zwecken legitim sind. Alle Zwecke, zu denen staatliche Verletzungen der Körperintegrität erlaubt wären, wie beispielsweise zur Erhaltung des Gesundheitssystems, können anders als durch Verletzung der Körperintegrität erreicht werden können (beispielsweise das Gesundheitssystem kann durch Maskenpflicht und Kontaktbeschränkungen erhalten werden).
 
 ```argdown
-[XXX]: ...
+===
+webComponent:
+  withoutLogo: true
+===
+# 2. Argument: Impfpflicht als Schlüssel zur Normalität
+
+[Pflicht zur Impfung gegen Sars-Cov2]: Es sollte die Pflicht zur Impfung gegen das Sars-Cov2-Virus eingeführt werden.
+  + <A2 "Impfpflicht ist der Schlüssel zur Normalität" - 1. Interpretation>: Wenn wir die Impfpflicht einführen, kehrt die Gesellschaft schnell zur Normalität zurück. #Mont
+    + [Vorteile der Impfpflicht überwiegen die Nachteile]: Die Vorteile einer schnellen Rückkehr zur Normalität sind moralisch gewichtiger als Verletzung der körperlichen Integrität durch eine unfreiwillige Impfung. #Mont
+      - <GG-A2 Schutz der Körperintegrität wiegt schwerer als Rückkehr zur Normalität>: Schutz des Körpers ist moralisch und juristisch deutlich gewichtiger als eine Ermöglichung des gewöhnlichen Alltags ohne Kontaktbeschränkungen. #Ros
 ```
 
 > **A3 „Impfpflicht ist der Schlüssel zur Normalität“ – 2. Interpretation (Montgomery)**: Impfpflicht sollte eingeführt werden, weil ihre Einführung notwendig dafür ist, dass die Gesellschaft zur Normalität ohne Kontaktbeschränkungen zurückkehrt (Impfpflicht ist notwendig für die Normalisierung). Wenn sich eine große Gesellschaftsgruppe weigert, eine Handlung zu tun, bei der es notwendig ist, dass nahezu die gesamte Gesellschaft sie tut, damit ein moralisch gebotenes Ziel – Rückkehr zur Normalität – erreicht wird, und es keine vernünftigen Gründe dafür gibt, diese Handlung nicht zu tun, dann ist es geboten, dass der Staat alle Mitglieder der Gesellschaft dazu verpflichtet, die Handlung zu tun.
