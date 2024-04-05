@@ -16,14 +16,14 @@ Diese Grundkompetenzen kritischen und reflektierten Urteilens trainieren wir in 
 + Argumente kommunizieren
 + Argumentation und Rhetorik: was tun, wenn Andere destruktiv argumentieren?
 
-## Argumentationskompetenzen: ein Werkzeugkasten für kritisches Denken
+# Argumentationskompetenzen: ein Werkzeugkasten für kritisches Denken
 
 Diesen Workshop bieten wir in zwei Formaten an: 
 
 + als Kennenlern-Workshop (4h)
 + als ein Kompetenzstärkungsworkshop (2 oder 3 Tage in einem Zeitraum von 6 Monaten)
 
-### Kennenlern-Workshop
+## Kennenlern-Workshop
 
 In diesem Workshop bieten wir einen Überblick über argumentative Kompetenzen fürs kritische Urteilen:
 
@@ -33,7 +33,7 @@ In diesem Workshop bieten wir einen Überblick über argumentative Kompetenzen f
 
 Dieser Workshop kann dazu genutzt werden, die für Sie relevante Kompetenzen und Schwerpunkte zu identifizieren, die in einem Vertiefungsworkshop trainiert werden. 
 
-### Kompetenzstärkungsworkshop
+## Kompetenzstärkungsworkshop
 
 In diesem Workshop trainieren wir Grundkompetenzen kritischen Urteilens. Sie erhalten Werkzeuge, um
 
@@ -41,7 +41,7 @@ In diesem Workshop trainieren wir Grundkompetenzen kritischen Urteilens. Sie erh
 + rhetorische Fallstricke und Fehlschlüsse zu erkennen;
 + argumentative Kompetenzen im Lichte unserer Psychologie zur Geltung zu bringen
 
-## Argumente nutzen, um bei Wertkonflikten zu vermitteln
+# Argumente nutzen, um bei Wertkonflikten zu vermitteln
 
 Auseinandersetzungen, in denen vordergründig Werte miteinander im Konflikt stehen, haben meist die folgende Form: Ein Teil einer Gruppe möchte nach rechts gehen, um den kürzeren Weg zum Ziel einzuschlagen; ein anderer Teil möchte nach links gehen, um den schöneren Weg zu gehen. Die Gruppe muss eine Entscheidung finden, wo sie gemeinsam langgeht. 
 Argumentationsanalyse kann Sie dabei unterstützen, um bei Meinungsverschiedenheiten dieser Form zu vermitteln. In diesem zwei-tägigen Workshop trainieren wir argumentativen Umgang mit Wertkonflikten. 
@@ -54,7 +54,7 @@ Aufbau:
 + Rhetorik und Wertkonflikte
 + Vertiefung von Fallbeispielen (Ende Tag 2)
 
-## Argumente nutzen, um strategische Entscheidungen zu finden
+# Argumente nutzen, um strategische Entscheidungen zu finden
 
 Strategische Entscheidungen sind häufig kontrovers, weil sie mit zwei Arten von Unsicherheiten behaftet sind: normative und empirische Unsicherheit. Manchmal sind die Ziele oder ihre Gewichtung unsicher, die mit der Entscheidung verfolgt werden sollen (normative Unsicherheit). Manchmal ist es unsicher, welche Mittel mit welchen Kosten zu den festgelegten Ziele führen werden (empirische Unsicherheit). 
 Zu diesen Herausforderungen bietet die etablierte Entscheidungstheorie wichtige Ansätze. Argumentationstheorie erlaubt einen umfassenderen Blick auf strategische Entscheidungen. Sie bietet Werkzeuge, um herauszufinden, wie im Lichte der bestehenden Unsicherheiten (seien sie normativ oder empirisch) eine Entscheidung rational begründet werden kann. Das wiederum erlaubt die Auswahl von geeigneten Ansätzen aus der strategischen Planung, Die entsprechenden Werkzeuge aus der Argumentationstheorie stellen wir in diesem zweitägigen Workshop vor und trainieren ihre Anwendung an Fallbeispielen. 
