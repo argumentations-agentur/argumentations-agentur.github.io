@@ -18,6 +18,9 @@ Montgomery bringt vier Argumente für die Einführung der Impfpflicht. Rostalski
 
 ```argdown-map
 ===
+model: 
+  removeTagsFromText: true
+
 webComponent:
   withoutLogo: true
 ===
@@ -37,8 +40,10 @@ Weitere Argumente liegen in Montogmerys Formulierung „Impfpflicht ist der Schl
 
 > **GG-A2 Schutz der Körperintegrität wiegt schwerer als Rückkehr zur Normalität (Rostalski)**: Schutz des Körpers ist moralisch und juristisch derart gewichtig, dass unfreiwillige Eingriffe in den Körper nur zu ganz spezifischen Zwecken legitim sind. Alle Zwecke, zu denen staatliche Verletzungen der Körperintegrität erlaubt wären, wie beispielsweise zur Erhaltung des Gesundheitssystems, können anders als durch Verletzung der Körperintegrität erreicht werden können (beispielsweise das Gesundheitssystem kann durch Maskenpflicht und Kontaktbeschränkungen erhalten werden).
 
-```argdown
+```argdown-map
 ===
+model:
+  removeTagsFromText: true
 webComponent:
   withoutLogo: true
 ===
@@ -57,6 +62,8 @@ webComponent:
 
 ```argdown-map
 ===
+model:
+  removeTagsFromText: true
 webComponent:
   withoutLogo: true
 ===
@@ -77,6 +84,8 @@ webComponent:
 
 ```argdown-map
 ===
+model:
+  removeTagsFromText: true
 webComponent:
   withoutLogo: true
 ===
@@ -94,6 +103,8 @@ webComponent:
 
 ```argdown-map
 ===
+model:
+  removeTagsFromText: true
 webComponent:
   withoutLogo: true
 ===
