@@ -4,7 +4,8 @@
   "description": "Website of Argumentationsagentur",
   "scripts": {
     "serve": "eleventy --serve",
-    "deploy": "gh-pages -d _site -t true"
+    "deploy": "gh-pages -d _site -t true",
+    "build": "eleventy"
   },
   "author": "ttntm",
   "license": "MIT",

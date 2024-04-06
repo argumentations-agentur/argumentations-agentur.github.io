@@ -12,13 +12,16 @@ Website based on the 11ty starter <https://github.com/ttntm/11ty-landing-page>.
 
 All other dependencies are either linked from a CDN or included in this repository.
 
-**Running locally:**
+**Running locally (for testing):**
 
 1. Fork, clone or download
 2. `cd` into the root folder
 3. run `npm install`
 4. run `npm run serve`
 5. open a browser and go to `http://localhost:8080`
+
+
+After you have done that once, you only need to repeat step 4 & 5 to run the website locally.
 
 **Basic configuration:**
 
@@ -54,3 +57,8 @@ Images are stored in `./static/img/`; everything in there can be considered a pl
 
 ## Deployment on Github Pages
 
+The basic idea is to publish from a separate github branch by using [gh-pages](https://www.npmjs.com/package/gh-pages). The configuration is based on [https://dev.to/ddhogan/publishing-an-eleventy-site-to-github-pages-40c5](https://dev.to/ddhogan/publishing-an-eleventy-site-to-github-pages-40c5).
+
+1. Install gh-pages (when deploying for the first time): `npm install gh-pages --save-dev`.
+2. Build the website: `npm run build` (generates fresh output into the directory `_site`).
+3. Deploy on githup: `npm run deploy`.
