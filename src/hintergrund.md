@@ -4,32 +4,30 @@ title: Hintergund
 description: Hier beschreiben wir unseren Hintergrund.
 ---
 
-
 Wenn Menschen miteinander diskutieren, Meinungsverschiedenheiten austragen, Auseinandersetzungen führen, andere zu überzeugen suchen oder an gesellschaftlichen Debatten teilhaben, geht es idealerweise stets darum, Gründe zu artikulieren. Wenn wir unsere Meinungen daraufhin überprüfen, ob sie gerechtfertigt sind, suchen wir idealerweise nach Gründen für unsere Meinungen und bewerten diese Gründe.
 
 Argumentationstheorie ist das theoretische Werkzeug, mit dem die argumentativen Strukturen von Begründungen, Debatten, Diskussionen, Meinungsverschiedenheiten, Kontroversen, Dissense oder Misshelligkeiten analysiert und im Hinblick auf ihre Qualität werden können. Wir -- die Gründer*inen der ArgumentationsAgentur -- haben in unserer akademischen Arbeit
 
-- theoretische Beiträge zur Argumentationstheorie geleistet (Bastis Diss, weitere Beiträge (Konferenzbeiträge, Publikationen)?),
-  
-- an computer-gestützen Methoden zur Visualisierung von Argumentstrukturen gearbeitet (Basti zu argunet und argdown),
-  
-- Logik und Argumentationstheorie an Universitäten in verschiedenen Fachbereichen gelehrt und
-  
-- vielfach die Theorie genutzt, um in akademische und öffentlichen Kontroversen aufzuzeigen, wie sie konstruktiv wieter geführt werden können:
-  
-  - Analyse des Kosten-Nutzen-Arguments in Bezug auf den Klimaschutz
-    
-  - Analyse der Argumente in Bezug auf Forschung, Entwicklung und Einsatz von Geoengineering;
-    
-  - ...
+ + theoretische Beiträge zur Argumentationstheorie geleistet (Bastis Diss, weitere Beiträge (Konferenzbeiträge, Publikationen)?),
+ + an computer-gestützen Methoden zur Visualisierung von Argumentstrukturen gearbeitet (Basti zu argunet und argdown),
+ + Logik und Argumentationstheorie an Universitäten in verschiedenen Fachbereichen gelehrt und
+ + vielfach die Theorie genutzt, um in akademische und öffentlichen Kontroversen aufzuzeigen, wie sie konstruktiv wieter geführt werden können:
+   + Analyse des Kosten-Nutzen-Arguments in Bezug auf den Klimaschutz 
+   + Analyse der Argumente in Bezug auf Forschung, Entwicklung und Einsatz von Geoengineering; 
+   + ...
     
 
 Mit der ArgumentationsAgentur wollen wir unsere Kompetenzen
+ * einbringen, um zur Aufklärung gesellschaftlicher Kontroversen beizutragen (siehe DL 1) 
+ * an möglichst viele gesellschaftliche Akteure weitergeben (siehe DL Training und Beratung)
+  
 
-- einbringen, um zur Aufklärung gesellschaftlicher Kontroversen beizutragen (siehe DL 1)
-  
-- an möglichst viele gesellschaftliche Akteure weitergeben (siehe DL Training und Beratung)
-  
+## Menschen lassen sich doch nicht von Argumenten überzeugen. Wozu dann Argumente rekonstruieren oder Argumentationsfähigkeiten stärken?
+
+Suche nach am besten begründeten Überzeugungen ist nicht alles, was Reflexion und Diskussion ausmacht. Beispielsweise geht es in politischen Auseinandersetzungen teilweise darum, Zustimmung zur eigenen Position zu erzeugen. Darüber hinaus zeigt die psychologische Forschung, dass unser Denken von Aspekten beeifnlussbar ist, die nichts mit der argumentativen Qualität zu tun haben: die Art und Weise, wie uns ein Problem dargestellt wird (framing), in welcher Reihenfolge uns Optionen vorgestellt werden etc. beeinflussen unsere Entscheidungen. Hinzu kommt, dass unser kognitives Vermögen beschränkt ist (wir vergessen Relevantes) und wir häufig unter Zeitdruck denken und entscheiden müssen.
+
+Diese psychologischen Verzerrungen und kommunikativen Interessen zeigen, dass die Argumentationstheorie kein Allheilmittel für gelungene Refelxion und Diskussion ist. Sie ist aber ein notwendiges Mittel.
+
 
 ## Wie hängt die Argumentationstheorie mit anderen Ansätzen zum Denken, Entscheiden und Kommunizieren zusammen?
 
@@ -39,7 +37,7 @@ Der Schwerpunkt der ArgumentationsAgentur liegt auf der Stärkung dessen, wie Re
 
 ### Kritisches Denken und Argumentation
 
-Kritisches Denken ist die Fähigkeit, gründlich über Lösungen eines Problems nachzudenken und den am besten gerechtfertigten Lösungsweg auszuwählen (Ennis 2015: 32; [Hitchcock 2022]((https://plato.stanford.edu/entries/critical-thinking/)). Diese Fähigkeit ist eine Grundvoraussetzung für selbstbestimmte -- oder autonome -- Personen.
+Kritisches Denken ist die Fähigkeit, gründlich über Lösungen eines Problems nachzudenken und den am besten gerechtfertigten Lösungsweg auszuwählen (Ennis 2015: 32; [Hitchcock 2022](https://plato.stanford.edu/entries/critical-thinking/)). Diese Fähigkeit ist eine Grundvoraussetzung für selbstbestimmte -- oder autonome -- Personen.
 
 Inzwischen hat sich ein akademisches Feld herausgebildet, das sich der Systematisierung und der Vermittlung dieser Fähigkeit widmet. Es giblt zahlreiche Akteure, die Kritisches Denken außerhalb von Universitäten trainieren.
 
@@ -59,11 +57,8 @@ Zum Kreativen Denken gibt es eigene Methoden -- Brainstorming, Design Thinking s
 
 ### Entscheidungsfindung und Argumentationstheorie
 
-## Menschen lassen sich doch nicht von Argumenten überzeugen. Wozu dann Argumente rekonstruieren oder Argumentationsfähigkeiten stärken?
+... [to be added]
 
-Suche nach am besten begründeten Überzeugungen ist nicht alles, was Reflexion und Diskussion ausmacht. Beispielsweise geht es in politischen Auseinandersetzungen teilweise darum, Zustimmung zur eigenen Position zu erzeugen. Darüber hinaus zeigt die psychologische Forschung, dass unser Denken von Aspekten beeifnlussbar ist, die nichts mit der argumentativen Qualität zu tun haben: die Art und Weise, wie uns ein Problem dargestellt wird (framing), in welcher Reihenfolge uns Optionen vorgestellt werden etc. beeinflussen unsere Entscheidungen. Hinzu kommt, dass unser kognitives Vermögen beschränkt ist (wir vergessen Relevantes) und wir häufig unter Zeitdruck denken und entscheiden müssen.
-
-Diese psychologischen Verzerrungen und kommunikativen Interessen zeigen, dass die Argumentationstheorie kein Allheilmittel für gelungene Refelxion und Diskussion ist. Sie ist aber ein notwendiges Mittel.
 
 ## Es gibt keine ideologiefreie Kritik. Welcher Ideologie unterliegt die ArgumentationsAgentur, wenn sie politische Argumente analysiert?
 
