@@ -8,26 +8,24 @@ Wenn Menschen miteinander diskutieren, Meinungsverschiedenheiten austragen, Ause
 
 Argumentationstheorie ist das theoretische Werkzeug, mit dem die argumentativen Strukturen von Begründungen, Debatten, Diskussionen, Meinungsverschiedenheiten, Kontroversen, Dissense oder Misshelligkeiten analysiert und im Hinblick auf ihre Qualität werden können. Wir -- die Gründer*inen der ArgumentationsAgentur -- haben in unserer akademischen Arbeit
 
- + theoretische Beiträge zur Argumentationstheorie geleistet (Bastis Diss, weitere Beiträge (Konferenzbeiträge, Publikationen)?),
- + an computer-gestützen Methoden zur Visualisierung von Argumentstrukturen gearbeitet (Basti zu argunet und argdown),
- + Logik und Argumentationstheorie an Universitäten in verschiedenen Fachbereichen gelehrt und
- + vielfach die Theorie genutzt, um in akademische und öffentlichen Kontroversen aufzuzeigen, wie sie konstruktiv wieter geführt werden können:
-   + Analyse des Kosten-Nutzen-Arguments in Bezug auf den Klimaschutz 
-   + Analyse der Argumente in Bezug auf Forschung, Entwicklung und Einsatz von Geoengineering; 
-   + ...
-    
++ theoretische Beiträge zur Argumentationstheorie geleistet (Bastis Diss, weitere Beiträge (Konferenzbeiträge, Publikationen)?),
++ an computer-gestützen Methoden zur Visualisierung von Argumentstrukturen gearbeitet (Basti zu argunet und argdown),
++ Logik und Argumentationstheorie an Universitäten in verschiedenen Fachbereichen gelehrt und
++ vielfach die Theorie genutzt, um in akademische und öffentlichen Kontroversen aufzuzeigen, wie sie konstruktiv wieter geführt werden können:
+  + Analyse des Kosten-Nutzen-Arguments in Bezug auf den Klimaschutz 
+  + Analyse der Argumente in Bezug auf Forschung, Entwicklung und Einsatz von Geoengineering; 
+  + ...
 
 Mit der ArgumentationsAgentur wollen wir unsere Kompetenzen
- * einbringen, um zur Aufklärung gesellschaftlicher Kontroversen beizutragen (siehe DL 1) 
- * an möglichst viele gesellschaftliche Akteure weitergeben (siehe DL Training und Beratung)
-  
+
+* einbringen, um zur Aufklärung gesellschaftlicher Kontroversen beizutragen (siehe DL 1) 
+* an möglichst viele gesellschaftliche Akteure weitergeben (siehe DL Training und Beratung)
 
 ## Menschen lassen sich doch nicht von Argumenten überzeugen. Wozu dann Argumente rekonstruieren oder Argumentationsfähigkeiten stärken?
 
 Suche nach am besten begründeten Überzeugungen ist nicht alles, was Reflexion und Diskussion ausmacht. Beispielsweise geht es in politischen Auseinandersetzungen teilweise darum, Zustimmung zur eigenen Position zu erzeugen. Darüber hinaus zeigt die psychologische Forschung, dass unser Denken von Aspekten beeifnlussbar ist, die nichts mit der argumentativen Qualität zu tun haben: die Art und Weise, wie uns ein Problem dargestellt wird (framing), in welcher Reihenfolge uns Optionen vorgestellt werden etc. beeinflussen unsere Entscheidungen. Hinzu kommt, dass unser kognitives Vermögen beschränkt ist (wir vergessen Relevantes) und wir häufig unter Zeitdruck denken und entscheiden müssen.
 
 Diese psychologischen Verzerrungen und kommunikativen Interessen zeigen, dass die Argumentationstheorie kein Allheilmittel für gelungene Refelxion und Diskussion ist. Sie ist aber ein notwendiges Mittel.
-
 
 ## Wie hängt die Argumentationstheorie mit anderen Ansätzen zum Denken, Entscheiden und Kommunizieren zusammen?
 
@@ -59,7 +57,6 @@ Zum Kreativen Denken gibt es eigene Methoden -- Brainstorming, Design Thinking s
 
 ... [to be added]
 
-
 ## Es gibt keine ideologiefreie Kritik. Welcher Ideologie unterliegt die ArgumentationsAgentur, wenn sie politische Argumente analysiert?
 
 Rekonstruktion von Argumenten unterliegt hermeneutischen Prinzipien: Akkuratheit und Wohlwollen. Sie unterliegt keinen politischen Werten oder Prinzipien und somit keiner politischen Ideologie.
@@ -80,20 +77,20 @@ Innerhalb der akademischen Forschung gibt es unterschiedliche Auffassungen bezü
 ## Brainstorming
 
 - Psychology of Reasoning:
-  
+
   - Mercier and Sperber, Enigma of Reasons (Buch nachrecherchieren)
 - Defeasible Reasoning
-  
+
 - Verortung von:
-  
+
   - Decision Theory
-    
+
   - Rational Choice Theory
-    
+
   - Risk Theory
-    
+
 - Stellungnahme zu Kommunikation: hilft Argumentationstheorie bei der Kommunikation?
-  
+
   - Kommt darauf an, ob das, was Sie kommunizieren wollen, gut gerechtfertigt ist.
 
 -->

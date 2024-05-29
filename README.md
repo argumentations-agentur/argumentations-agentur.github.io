@@ -2,7 +2,6 @@
 
 Website based on the 11ty starter <https://github.com/ttntm/11ty-landing-page>.
 
-
 ## Changing content
 
 **Requirements:**
@@ -19,7 +18,6 @@ All other dependencies are either linked from a CDN or included in this reposito
 3. run `npm install`
 4. run `npm run serve`
 5. open a browser and go to `http://localhost:8080`
-
 
 After you have done that once, you only need to repeat step 4 & 5 to run the website locally.
 
