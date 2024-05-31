@@ -3,24 +3,24 @@
     "title": "Argumentationsanalyse",
     "icon": "icon7.svg",
     "content": "Wir analysieren komplexe Argumentationen und bereiten die Ergebnisse in unterschiedlichen Formaten auf.",
-    "link": "/portfolio/argumentationsanalyse/"
+    "link": "/dienstleistungen/argumentationsanalyse/"
   },
   {
     "title": "Argumentationstraining",
     "icon": "icon6.svg",
     "content": "Stärken Sie Argumentationskompetenz und Überzeugunskraft in unseren Argumentationsworkshops.",
-    "link": "/portfolio/argumentationstraining/"
+    "link": "/dienstleistungen/argumentationstraining/"
   },
   {
     "title": "Argumentationsberatung",
     "icon": "icon8.svg",
     "content": "Lassen Sie sich individuell von uns beraten, um ihre Argumentation in Texten und Reden zu schärfen.",
-    "link": "/portfolio/argumentationsberatung/"
+    "link": "/dienstleistungen/argumentationsberatung/"
   },
   {
     "title": "Argumentationsmoderation",
     "icon": "icon1.svg",
     "content": "Wir moderieren Entscheidungsprozesse und Deliberationen neutral und strukturierend.",
-    "link": "/portfolio/argumentationsmoderation/"
+    "link": "/dienstleistungen/argumentationsmoderation/"
   }
 ]
