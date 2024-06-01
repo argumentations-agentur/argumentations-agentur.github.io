@@ -2,19 +2,121 @@
 title: Argumentationstraining
 ---
 
-Wir stärken Ihre Fähigkeit, reflektiert zu urteilen, indem wir Sie darin unterstützen, argumentative Strukturen zu identifizieren, zu rekonstruieren, zu analysieren und zu kommunizieren. In individuell zugeschnittenen Workshops trainieren wir folgende Kompetenzen: 
 
-+ Hermeneutik: Positionen Anderer erfassen
-+ Argumentation: Argumentative Strukturen erkennen und eigene Argumente formulieren
-+ Entscheidungsfindung: Entscheidungen argumentativ begründen
+<!-- inspired by 
+https://tailwindflex.com/@manon-daniel/features-section-2 and 
+https://tailwindflex.com/@abhi/card-grid-for-blog-posts-articles
+ -->
 
-Diese Grundkompetenzen kritischen und reflektierten Urteilens trainieren wir in Workshops, die auf verschiedene Anwendungsfelder zugeschnitten sind: 
+<section class="py-12 sm:py-12 lg:py-16">
+    <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
+        <div class="max-w-xl mx-auto  xl:max-w-2xl">
+            <p class="mb-4">Wir stärken Ihre Fähigkeit, reflektiert zu urteilen, indem wir Sie darin unterstützen, argumentative Strukturen zu identifizieren, zu rekonstruieren, zu analysieren und zu kommunizieren. In individuell zugeschnittenen Workshops trainieren wir folgende Kompetenzen:</p>
+             <ul>
+              <li><strong>Hermeneutik:</strong> Positionen und Anderer erfassen</li>
+              <li><strong>Argumentation:</strong> Argumentative Strukturen erkennen und eigene Argumente formulieren</li>
+              <li><strong>Entscheidungsfindung:</strong> Entscheidungen argumentativ begründen</li>
+            </ul> 
+            <p>Diese Grundkompetenzen kritischen und reflektierten Urteilens trainieren wir in Workshops, die auf verschiedene Anwendungsfelder zugeschnitten sind:</p>
+          </div>
+        <div class="grid max-w-4xl lg:max-w-6xl grid-cols-1 mx-auto mt-8 text-center gap-y-4 sm:gap-x-8 sm:grid-cols-1 lg:grid-cols-2 sm:mt-12 lg:mt-20 sm:text-left">
+            <div class="relative">
+                <div class="relative overflow-hidden bg-white hover:bg-blue-300 shadow-md rounded-xl h-full">
+                    <div class="p-9">
+                      <img src="https://www.svgrepo.com/download/487742/rocket-launch.svg" alt="" class="mt-6 h-12 w-12">
+                      <h3 class="mt-6 sm:mt-10  text-2xl font-bold text-gray-900 ">Werkzeugkasten 'Kritisches Denken'</h3>
+                      <p class="mt-6 text-base text-gray-600">In diesen Workshops trainieren wir Grundkompetenzen und Werkzeuge kritischen Urteilens.</p>
+                      <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#kritisches_denken">Erfahre mehr 
+                      <svg class="overflow-visible ml-3 text-slate-300 group-hover:text-slate-400"
+                      width="3" height="6" viewBox="0 0 3 6" fill="none" stroke="currentColor" stroke-width="2"
+                      stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M0 0L3 3L0 6"></path>
+                      </svg>
+                      </a>
+                    </div>
+                </div>
+            </div>
+            <div class="overflow-hidden bg-white  hover:bg-blue-300 shadow-md rounded-xl">
+                <div class="p-9">
+                    <img src="https://www.svgrepo.com/download/487500/law.svg" alt="" class="mt-6 h-12 w-12">
+                    <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Umgang mit Wertkonflikten</h3>
+                    <p class="mt-6 text-base text-gray-600">Argumente nutzen, um in Wertkonflikten zu vermitteln</p>
+                    <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#wertkonflikte">Erfahre mehr 
+                      <svg class="overflow-visible ml-3 text-slate-300 group-hover:text-slate-400"
+                      width="3" height="6" viewBox="0 0 3 6" fill="none" stroke="currentColor" stroke-width="2"
+                      stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M0 0L3 3L0 6"></path>
+                      </svg>
+                      </a>
+                </div>
+            </div>
+            <div class="relative">
+                <div class="relative overflow-hidden bg-white hover:bg-blue-300 shadow-md rounded-xl h-full">
+                    <div class="p-9">
+                        <img src="https://www.svgrepo.com/download/487699/radar.svg" alt="" class="mt-6 h-12 w-12">
+                        <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Entscheidungsfindung</h3>
+                        <p class="mt-6 text-base text-gray-600">Argumente nutzen, um strategische Entscheidungen zu finden</p>
+                        <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#entscheidungsfindung">Erfahre mehr 
+                      <svg class="overflow-visible ml-3 text-slate-300 group-hover:text-slate-400"
+                      width="3" height="6" viewBox="0 0 3 6" fill="none" stroke="currentColor" stroke-width="2"
+                      stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M0 0L3 3L0 6"></path>
+                      </svg>
+                      </a>
+                    </div>
+                </div>
+            </div>
+            <div class="overflow-hidden bg-white hover:bg-blue-300 shadow-md rounded-xl">
+                <div class="p-9">
+                    <img src="https://www.svgrepo.com/download/487940/tuxedo.svg" alt="" class="mt-6 h-12 w-12">
+                    <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Rhetorik</h3>
+                    <p class="mt-6 text-base text-gray-600">Wie argumentiert man überzeugend und kompetent?</p>
+                    <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#rhetorik">Erfahre mehr 
+                      <svg class="overflow-visible ml-3 text-slate-300 group-hover:text-slate-400"
+                      width="3" height="6" viewBox="0 0 3 6" fill="none" stroke="currentColor" stroke-width="2"
+                      stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M0 0L3 3L0 6"></path>
+                      </svg>
+                      </a>
+                </div>
+            </div>
+            <div class="relative">
+                <div class="relative overflow-hidden bg-white hover:bg-blue-300 shadow-md rounded-xl h-full">
+                    <div class="p-9">
+                        <img src="https://www.svgrepo.com/download/487626/night-storm-2.svg" alt="" class="mt-6 h-12 w-12">
+                        <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Umgang mit destruktiver Argumentation</h3>
+                        <p class="mt-6 text-base text-gray-600">Was tun, wenn andere destruktiv argumentieren?</p>
+                        <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#destruktive_argumentation">Erfahre mehr 
+                      <svg class="overflow-visible ml-3 text-slate-300 group-hover:text-slate-400"
+                      width="3" height="6" viewBox="0 0 3 6" fill="none" stroke="currentColor" stroke-width="2"
+                      stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M0 0L3 3L0 6"></path>
+                      </svg>
+                      </a>
+                    </div>
+                </div>
+            </div>
+            <div class="overflow-hidden bg-white hover:bg-blue-300 shadow-md rounded-xl">
+                <div class="p-9">
+                    <img src="https://www.svgrepo.com/download/487803/slider-v-lg.svg" alt="" class="mt-6 h-12 w-12">
+                    <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Speziell zugeschnittene Workshops</h3>
+                    <p class="mt-6 text-base text-gray-600">Wir konzipieren Workshops die auf ihre spezifischen Bedarfe zugeschnitten sind.</p>
+                    <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#spezielle_workshops">Erfahre mehr 
+                      <svg class="overflow-visible ml-3 text-slate-300 group-hover:text-slate-400"
+                      width="3" height="6" viewBox="0 0 3 6" fill="none" stroke="currentColor" stroke-width="2"
+                      stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M0 0L3 3L0 6"></path>
+                      </svg>
+                      </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-+ Argumentationskompetenzen: ein Werkzeugkasten für kritisches Denken
-+ Argumente nutzen, um in Wertkonflikten zu vermitteln
-+ Argumente nutzen, um strategische Entscheidungen zu finden
-+ Argumente kommunizieren
-+ Argumentation und Rhetorik: was tun, wenn Andere destruktiv argumentieren?
+
+
+<div id="kritisches_denken" class="mt-6"></div>
 
 # Argumentationskompetenzen: ein Werkzeugkasten für kritisches Denken
 
@@ -41,6 +143,8 @@ In diesem Workshop trainieren wir Grundkompetenzen kritischen Urteilens. Sie erh
 + rhetorische Fallstricke und Fehlschlüsse zu erkennen;
 + argumentative Kompetenzen im Lichte unserer Psychologie zur Geltung zu bringen
 
+<div id="wertkonflikte"></div>
+
 # Argumente nutzen, um bei Wertkonflikten zu vermitteln
 
 Auseinandersetzungen, in denen vordergründig Werte miteinander im Konflikt stehen, haben meist die folgende Form: Ein Teil einer Gruppe möchte nach rechts gehen, um den kürzeren Weg zum Ziel einzuschlagen; ein anderer Teil möchte nach links gehen, um den schöneren Weg zu gehen. Die Gruppe muss eine Entscheidung finden, wo sie gemeinsam langgeht. 
@@ -53,6 +157,8 @@ Aufbau:
 + Anwendung auf die Fallbeispiele (Ende Tag 1)
 + Rhetorik und Wertkonflikte
 + Vertiefung von Fallbeispielen (Ende Tag 2)
+
+<div id="entscheidungsfindung"></div>
 
 # Argumente nutzen, um strategische Entscheidungen zu finden
 
@@ -69,9 +175,20 @@ Aufbau:
 + Kommunikation von Argumenten bei der Begründung von strategischen Entscheidungen
 + Vertiefung von Fallbeispielen (Ende Tag 2)
 
+<div id="rhetorik"></div>
+
+# Rhetorik 
 <!-- 
 ## Argumente kommunizieren
 
 Noch zu entwickeln, vielleicht können wir dazu auch nichts Gehaltvolles machen.
 
 -->
+
+<div id="destruktive_argumentation"></div>
+
+# Umgang mit destruktiver Kommunikation
+
+<div id="spezielle_workshops"></div>
+
+# Speziell zugeschnittene Workshops
