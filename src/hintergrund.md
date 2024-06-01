@@ -4,9 +4,9 @@ title: Hintergund
 description: Hier beschreiben wir unseren Hintergrund.
 ---
 
-Wenn Menschen miteinander diskutieren, Meinungsverschiedenheiten austragen, Auseinandersetzungen führen, andere zu überzeugen suchen oder an gesellschaftlichen Debatten teilhaben, geht es idealerweise stets darum, Gründe zu artikulieren. Wenn wir unsere Meinungen daraufhin überprüfen, ob sie gerechtfertigt sind, suchen wir idealerweise nach Gründen für unsere Meinungen und bewerten diese Gründe.
+Wenn Menschen miteinander diskutieren, Meinungsverschiedenheiten austragen, Auseinandersetzungen führen, andere zu überzeugen suchen oder sich an gesellschaftlichen Debatten beteiligen, geht es idealerweise darum, Gründe zu artikulieren. Wenn wir unsere Meinungen daraufhin überprüfen, ob sie gerechtfertigt sind, suchen wir idealerweise nach Gründen für unsere Meinungen und bewerten diese Gründe.
 
-Argumentationstheorie ist das theoretische Werkzeug, mit dem die argumentativen Strukturen von Begründungen, Debatten, Diskussionen, Meinungsverschiedenheiten, Kontroversen, Dissense oder Misshelligkeiten analysiert und im Hinblick auf ihre Qualität werden können. Wir -- die Gründer*inen der ArgumentationsAgentur -- haben in unserer akademischen Arbeit
+Argumentationstheorie ist das Werkzeug, mit dem die argumentativen Strukturen von Begründungen, Debatten, Diskussionen, Meinungsverschiedenheiten, Kontroversen, Dissensen oder Misshelligkeiten analysiert und im Hinblick auf ihre Qualität bewertet werden können. Wir -- die Gründer*inen der ArgumentationsAgentur -- haben in unserer akademischen Arbeit
 
 + theoretische Beiträge zur Argumentationstheorie geleistet (Bastis Diss, weitere Beiträge (Konferenzbeiträge, Publikationen)?),
 + an computer-gestützen Methoden zur Visualisierung von Argumentstrukturen gearbeitet (Basti zu argunet und argdown),
@@ -18,8 +18,8 @@ Argumentationstheorie ist das theoretische Werkzeug, mit dem die argumentativen 
 
 Mit der ArgumentationsAgentur wollen wir unsere Kompetenzen
 
-* einbringen, um zur Aufklärung gesellschaftlicher Kontroversen beizutragen (siehe DL 1) 
-* an möglichst viele gesellschaftliche Akteure weitergeben (siehe DL Training und Beratung)
+* einbringen, um zur Aufklärung gesellschaftlicher Kontroversen beizutragen (siehe <span style="color:#805AD5">[**Argumentationsanalyse**]({{'/dienstleistungen/argumentationsanalyse' | url }})) </span>
+* an möglichst viele gesellschaftliche Akteure weitergeben (siehe <span style="color:#805AD5">[**Argumentationstraining**]({{'/dienstleistungen/argumentationstraining/' | url }}) </span> sowie <span style="color:#805AD5">[**Argumentationsberatung**]({{'/dienstleistungen/argumentationsberatung/' | url }})) </span>
 
 ## Menschen lassen sich doch nicht von Argumenten überzeugen. Wozu dann Argumente rekonstruieren oder Argumentationsfähigkeiten stärken?
 
