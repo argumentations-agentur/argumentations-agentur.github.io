@@ -12,8 +12,8 @@ see https://v2.tailwindcss.com/docs/adding-base-styles
 @layer base {
     ul {
       @apply list-disc;
-      @apply list-inside;
-      @apply ml-6;
+      @apply list-outside;
+      @apply ml-7;
     }
     strong {
       @apply font-semibold;
@@ -21,4 +21,4 @@ see https://v2.tailwindcss.com/docs/adding-base-styles
     blockquote {
       @apply m-6;
     }
-  }
+}
