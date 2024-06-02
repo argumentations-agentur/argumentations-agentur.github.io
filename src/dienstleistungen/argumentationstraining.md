@@ -111,37 +111,45 @@ https://tailwindflex.com/@abhi/card-grid-for-blog-posts-articles
                 </div>
             </div>
         </div>
+        <div class="grid max-w-4xl lg:max-w-6xl grid-cols-1 mx-auto mt-8 text-center gap-y-4 sm:gap-x-8 sm:grid-cols-1 lg:grid-cols-1 sm:mt-12 lg:mt-20 sm:text-left">
+            <div class="relative">
+                <div id="kritisches_denken" class="relative overflow-hidden bg-white shadow-md rounded-xl h-full">
+                    <div class="p-9">
+                      <div class="flex items-center mb-3">
+                        <div
+                            class="mr-3 inline-flex items-center justify-center flex-shrink-0">
+                            <img src="https://www.svgrepo.com/download/487742/rocket-launch.svg" alt="" class="mt-2 h-12 w-12">
+                        </div>
+                        <h3 class="mt-2 text-2xl font-bold text-gray-900 ">Werkzeugkasten 'Kritisches Denken'</h3>
+                      </div>
+                      <p class="mt-6 text-base text-gray-600">In diesen Workshops trainieren wir Grundkompetenzen und Werkzeuge kritischen Urteilens. Wie bieten sie in zwei Formaten an:</p>
+                      <ul class="text-base text-gray-600">
+                        <li>Grundlagen 'Kritisches Denken' (4h)</li>
+                        <li>Vertiefungsseminar 'Kritisches Denken' (2d)</li>
+                      </ul>
+                      <h3 class="mt-2 text-base font-bold text-gray-900 ">Grundlagen 'Kritisches Denken'</h3>
+                      <p class="text-base text-gray-600">In diesem Halbtagesworkshop vermitteln wir Grundkompetenzen kritischen Urteilens. Seminarinhalte:</p>
+                      <ul class="text-base text-gray-600">
+                        <li>Theorie: Hermeneutik und Argumentrekonstruktion</li>
+                        <li>Praxis: Schlussmuster und Fehlschlüsse</li>
+                        <li>Kommunikation: Psychologie, Rhetorik und Argumentation</li>
+                      </ul>
+                      <p class="text-base text-gray-600">Dieser Workshop kann dazu genutzt werden, die für Sie relevante Kompetenzen und Schwerpunkte zu identifizieren, die in einem Vertiefungsworkshop trainiert werden.</p>
+                      <h3 class="mt-2 text-base font-bold text-gray-900 ">Vertiefungsseminar 'Kritisches Denken'</h3>
+                      <p class="text-base text-gray-600">In diesem Workshop trainieren wir Grundkompetenzen kritischen Urteilens. Sie erhalten Werkzeuge, um</p>
+                      <ul class="text-base text-gray-600">
+                        <li>Argumente zu rekonstruieren und zu kommunizieren</li>
+                        <li>rhetorische Fallstricke und Fehlschlüsse zu erkennen</li>
+                        <li>argumentative Kompetenzen im Lichte unserer Psychologie zur Geltung zu bringen</li>
+                      </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
 
-
-<div id="kritisches_denken" class="mt-6"></div>
-
-# Argumentationskompetenzen: ein Werkzeugkasten für kritisches Denken
-
-Diesen Workshop bieten wir in zwei Formaten an: 
-
-+ als Kennenlern-Workshop (4h)
-+ als ein Kompetenzstärkungsworkshop (2 oder 3 Tage in einem Zeitraum von 6 Monaten)
-
-## Kennenlern-Workshop
-
-In diesem Workshop bieten wir einen Überblick über argumentative Kompetenzen fürs kritische Urteilen:
-
-+ Theorie: Hermeneutik und Argumentrekonstruktion
-+ Praxis: Schlussmuster und Fehlschlüsse
-+ Kommunikation: Psychologie, Rhetorik und Argumentation
-
-Dieser Workshop kann dazu genutzt werden, die für Sie relevante Kompetenzen und Schwerpunkte zu identifizieren, die in einem Vertiefungsworkshop trainiert werden. 
-
-## Kompetenzstärkungsworkshop
-
-In diesem Workshop trainieren wir Grundkompetenzen kritischen Urteilens. Sie erhalten Werkzeuge, um
-
-+ Argumente zu rekonstruieren und zu kommunizieren;
-+ rhetorische Fallstricke und Fehlschlüsse zu erkennen;
-+ argumentative Kompetenzen im Lichte unserer Psychologie zur Geltung zu bringen
 
 <div id="wertkonflikte"></div>
 
