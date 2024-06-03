@@ -3,9 +3,16 @@ title: Argumentationstraining
 ---
 
 
-<!-- inspired by 
+<!-- inspired by
+Tailwind
 https://tailwindflex.com/@manon-daniel/features-section-2 and 
 https://tailwindflex.com/@abhi/card-grid-for-blog-posts-articles
+
+SVGs:
+https://www.svgrepo.com/
+esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
+
+
  -->
 
 <section class="py-12 sm:py-12 lg:py-16">
