@@ -3,6 +3,7 @@ layout: page
 title: Unser Team
 ---
 
+<!-- inspired by: https://tailwindflex.com/@ron-hicks/team-section-with-cards -->
 <div class="p-10 max-w-screen-lg mx-auto">
     <div class="sm:grid grid-cols-1 my-1">
         <!-- ################ Eugen ##################-->
