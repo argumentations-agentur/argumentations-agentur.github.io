@@ -18,8 +18,8 @@ Argumentationstheorie ist das Werkzeug, mit dem die argumentativen Strukturen vo
 
 Mit der ArgumentationsAgentur wollen wir unsere Kompetenzen
 
-* einbringen, um zur Aufklärung gesellschaftlicher Kontroversen beizutragen (siehe <span style="color:#805AD5">[**Argumentationsanalyse**]({{'/dienstleistungen/argumentationsanalyse' | url }})) </span>
-* an möglichst viele gesellschaftliche Akteure weitergeben (siehe <span style="color:#805AD5">[**Argumentationstraining**]({{'/dienstleistungen/argumentationstraining/' | url }}) </span> sowie <span style="color:#805AD5">[**Argumentationsberatung**]({{'/dienstleistungen/argumentationsberatung/' | url }})) </span>
+* einbringen, um zur Aufklärung gesellschaftlicher Kontroversen beizutragen (siehe <a href="{{'/dienstleistungen/argumentationsanalyse' | url }}">Argumentationsanalyse</a>).
+* an möglichst viele gesellschaftliche Akteure weitergeben (siehe <a href="{{'/dienstleistungen/argumentationstraining/' | url }}">Argumentationstraining</a> sowie <a href="{{'/dienstleistungen/argumentationsberatung/' | url }}">Argumentationsberatung</a>).
 
 ## Menschen lassen sich doch nicht von Argumenten überzeugen. Wozu dann Argumente rekonstruieren oder Argumentationsfähigkeiten stärken?
 

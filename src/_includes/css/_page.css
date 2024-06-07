@@ -21,4 +21,9 @@ see https://v2.tailwindcss.com/docs/adding-base-styles
     blockquote {
       @apply m-6;
     }
+    a {
+      @apply text-main_heavy_1;
+      @apply text-lg; 
+      @apply font-bold;
+    }
 }

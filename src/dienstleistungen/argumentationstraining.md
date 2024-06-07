@@ -30,7 +30,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
         <div class="grid max-w-4xl lg:max-w-6xl grid-cols-1 mx-auto mt-8 text-center gap-y-4 sm:gap-x-8 sm:grid-cols-1 lg:grid-cols-2 sm:mt-12 lg:mt-20 sm:text-left">
             <!-- Kachel: Werkzeugkasten 'Kritisches Denken' -->
             <div class="relative">
-                <div class="relative overflow-hidden bg-white hover:bg-blue-300 shadow-md rounded-xl h-full">
+                <div class="relative overflow-hidden bg-white hover:bg-main_gray shadow-md rounded-xl h-full">
                     <div class="p-9">
                       <img src="{{ '/img/logo_kritisches_denken.svg' | url }}" alt="" class="mt-6 h-12 w-12">
                       <h3 class="mt-6 sm:mt-10  text-2xl font-bold text-gray-900 ">Werkzeugkasten 'Kritisches Denken'</h3>
@@ -46,7 +46,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                 </div>
             </div>
             <!-- Kachel:  Umgang mit Wertkonflikten -->
-            <div class="overflow-hidden bg-white  hover:bg-blue-300 shadow-md rounded-xl">
+            <div class="overflow-hidden bg-white  hover:bg-main_gray shadow-md rounded-xl">
                 <div class="p-9">
                     <img src="{{ '/img/logo_wertkonflikte.svg' | url }}" alt="" class="mt-6 h-12 w-12">
                     <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Umgang mit Wertkonflikten</h3>
@@ -62,7 +62,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
             </div>
             <!-- Kachel:  Entscheidungsfindung -->
             <div class="relative">
-                <div class="relative overflow-hidden bg-white hover:bg-blue-300 shadow-md rounded-xl h-full">
+                <div class="relative overflow-hidden bg-white hover:bg-main_gray shadow-md rounded-xl h-full">
                     <div class="p-9">
                         <img src="{{ '/img/logo_entscheidungsfindung.svg' | url }}" alt="" class="mt-6 h-12 w-12">
                         <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Entscheidungsfindung</h3>
@@ -78,7 +78,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                 </div>
             </div>
             <!-- Kachel: Rhetorik -->
-            <div class="overflow-hidden bg-white hover:bg-blue-300 shadow-md rounded-xl">
+            <div class="overflow-hidden bg-white hover:bg-main_gray shadow-md rounded-xl">
                 <div class="p-9">
                     <img src="{{ '/img/logo_rhetorik.svg' | url }}" alt="" class="mt-6 h-12 w-12">
                     <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Rhetorik</h3>
@@ -94,7 +94,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
             </div>
             <!-- Kachel: Umgang mit destruktiver Argumentation -->
             <div class="relative">
-                <div class="relative overflow-hidden bg-white hover:bg-blue-300 shadow-md rounded-xl h-full">
+                <div class="relative overflow-hidden bg-white hover:bg-main_gray shadow-md rounded-xl h-full">
                     <div class="p-9">
                         <img src="{{ '/img/logo_destruktive_argumentation.svg' | url }}" alt="" class="mt-6 h-12 w-12">
                         <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Umgang mit destruktiver Argumentation</h3>
@@ -110,7 +110,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                 </div>
             </div>
             <!-- Kachel:  Speziell zugeschnittene Workshops -->
-            <div class="overflow-hidden bg-white hover:bg-blue-300 shadow-md rounded-xl">
+            <div class="overflow-hidden bg-white hover:bg-main_gray shadow-md rounded-xl">
                 <div class="p-9">
                     <img src="{{ '/img/logo_workshops_speziell.svg' | url }}" alt="" class="mt-6 h-12 w-12">
                     <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Speziell zugeschnittene Workshops</h3>

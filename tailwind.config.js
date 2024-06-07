@@ -21,7 +21,6 @@ module.exports = {
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
-
       black: colors.black,
       white: colors.white,
       gray: colors.coolGray,
@@ -32,6 +31,11 @@ module.exports = {
       indigo: colors.indigo,
       purple: colors.violet,
       pink: colors.pink,
+      main_gray: '#CCDBDC',
+      main_light_1: '#9AD1D4',
+      main_light_2: '#80CED7',
+      main_heavy_1: '#007EA7',
+      main_heavy_2: '#003249',    
     },
     spacing: {
       px: '1px',
