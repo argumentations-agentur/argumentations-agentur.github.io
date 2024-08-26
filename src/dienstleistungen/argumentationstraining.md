@@ -2,7 +2,6 @@
 title: Argumentationstraining
 ---
 
-
 <!-- inspired by
 Tailwind
 https://tailwindflex.com/@manon-daniel/features-section-2 and 
@@ -280,6 +279,4 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
         </div>
     </div>
 </section>
-
-
 
