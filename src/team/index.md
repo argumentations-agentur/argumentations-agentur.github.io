@@ -4,6 +4,7 @@ title: Unser Team
 ---
 
 <!-- inspired by: https://tailwindflex.com/@ron-hicks/team-section-with-cards -->
+
 <div class="p-10 max-w-screen-lg mx-auto">
     <div class="sm:grid grid-cols-1 my-1">
         <!-- ################ Eugen ##################-->
@@ -18,7 +19,7 @@ title: Unser Team
                     <a href="#"
                         class="text-gray-900 font-bold text-xl mb-2 hover:text-indigo-600 transition duration-500 ease-in-out">Dr. Eugen Pissarskoi</a>
                     <p class="text-sm text-gray-600">
-                        Gründer &amp; Trainer
+                        Gründer & Trainer
                     </p>
                     <p class="text-gray-500 text-base mt-4">
                     Eugen ist wissenschaftlicher Mitarbeiter am Internationalen Zentrum für Ethik in den Wissenschaften der Universität Tübingen. Seine Forschungsschwerpunkte sind: Entscheidungen unter Unsicherheit; Methoden angewandter Ethik, Klimaethik sowie Philosophie der Ökonomik. 
@@ -51,7 +52,7 @@ title: Unser Team
                     <a href="#"
                         class="text-gray-900 font-bold text-xl mb-2 hover:text-indigo-600 transition duration-500 ease-in-out">Sebastian Cacean</a>
                     <p class="text-sm text-gray-600">
-                        Gründer &amp; Trainer
+                        Gründer & Trainer
                     </p>
                     <p class="text-gray-500 text-base mt-4">
                     Sebastian ist studierter Philosoph und Physiker und derzeit wissenschaftlicher Mitarbeiter am Karlsruher Institut für Technologie. Zu seinen Forschungsschwerpunkten gehören Argumentationstheorie, angewandte Ethik und Wissenschaftstheorie. Er hat langjährige Erfahrungen in der Hochschullehre und der Anwendung argumentationstheoretischer Methoden auf gesellschaftsrelevante Themen. 

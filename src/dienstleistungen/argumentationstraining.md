@@ -279,4 +279,3 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
         </div>
     </div>
 </section>
-
