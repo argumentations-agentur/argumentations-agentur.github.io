@@ -2,6 +2,37 @@
 title: Argumentationsberatung
 ---
 
+# Herausforderung der Entscheidungsfindung
+
+Viele Prozesse der Entscheidungsfindung enden damit, Listen von Vor-und Nachteilen zu den verfügbaren Handlungsoptionen zu erstellen. 
+
+Die für uns interessante Herausforderung beginnt erst hier:
+
+<!-- Markdown-Graphikeinbindung funktioniert nicht
+![Herausforderung-Entscheidungsfindung](/home/eugen/ArgumentationsAgentur/aa-website-test/src/static/img/entschfind-herausforder.svg)
+
+![Herausforderung-Entscheidungsfindung](/img/entschfind-herausforder.svg)
+-->
+
+<div class="w-full">
+    <img src="{{ '/img/entschfind-herausforder.svg' | url }}" class="h-[600px] w-[600px]">
+</div>
+
+
+# Argumentationsanalyse als Prozess der Entscheidungsfindung
+
+
+<div class="w-full">
+    <img src="{{ '/img/arg-analysis-structure-prozess-kl.svg' | url }}" class="h-[600px] w-[600px]">
+</div>
+
+
+<!-- callouts funktionieren nicht>
+::: {.callout-note}
+## Herausforderung der Entscheidungsfindung
+:::
+-->
+
 Wir unterstützen Sie mit unseren Kompetenzen in der Argumentationstheorie und -praxis bei Ihrer strategischen Positionierung sowie Ihrer Kommunikation.
 
 # Argumentative Strategieberatung
