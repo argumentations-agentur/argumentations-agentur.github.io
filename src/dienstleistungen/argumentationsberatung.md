@@ -73,7 +73,7 @@ title: Argumentationsberatung
 									class="mr-3 inline-flex items-center justify-center flex-shrink-0">
 									<img src="{{ '/img/logo_kritisches_denken.svg' | url }}" alt="" class="mt-2 h-12 w-12">
 								</div>
-								<h3 class="mt-2 text-2xl font-bold text-gray-900 ">Werkzeugkasten 'Kritisches Denken'</h3>
+								<h3 class="mt-2 text-2xl font-bold text-gray-900 ">Argumentative Strategieberatung'</h3>
 							  </div>
 							  <p class="mt-6 text-base text-gray-600 sm:text-1.5xl">Eine reflektierte Entscheidung erfordert,</p>
 							  <ul class="text-base text-gray-600 sm:text-1.5xl">
