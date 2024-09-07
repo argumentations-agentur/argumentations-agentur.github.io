@@ -33,10 +33,10 @@ title: Argumentationsberatung
 					<div class="relative">
 						<div class="relative overflow-hidden bg-white hover:bg-main_gray shadow-md rounded-xl h-full">
 							<div class="p-9">
-							  <img src="{{ '/img/logo_kritisches_denken.svg' | url }}" alt="" class="mt-6 h-12 w-12">
+							  <img src="{{ '/img/logo_beratung_node.svg' | url }}" alt="" class="mt-6 h-12 w-12">
 							  <h3 class="mt-6 sm:mt-10  text-2xl font-bold text-gray-900 ">Argumentative Strategieberatung</h3>
 							  <p class="mt-6 text-base text-gray-600 sm:text-1.5xl">Wir unterstützen Sie dabei, Ihre strategische Festlegungen vernünftig zu begründen.</p>
-							  <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#kritisches_denken">Erfahre mehr 
+							  <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#strategieber">Erfahre mehr 
 							  <svg class="overflow-visible ml-3 text-slate-300 group-hover:text-slate-400"
 							  width="3" height="6" viewBox="0 0 3 6" fill="none" stroke="currentColor" stroke-width="2"
 							  stroke-linecap="round" stroke-linejoin="round">
@@ -49,10 +49,10 @@ title: Argumentationsberatung
 					<!-- Kachel:  Argumentative Kommunikationsberatung -->
 					<div class="overflow-hidden bg-white  hover:bg-main_gray shadow-md rounded-xl">
 						<div class="p-9">
-							<img src="{{ '/img/logo_wertkonflikte.svg' | url }}" alt="" class="mt-6 h-12 w-12">
+							<img src="{{ '/img/logo_beratung_kommunikation.svg' | url }}" alt="" class="mt-6 h-12 w-12">
 							<h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Argumentative Kommunikationsberatung</h3>
 							<p class="mt-6 text-base text-gray-600 sm:text-1.5xl">Wir unterstützen Sie dabei, Gründe für Ihre Position klar zu kommunizieren.</p>
-							<a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#wertkonflikte">Erfahre mehr 
+							<a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#kommber">Erfahre mehr 
 							  <svg class="overflow-visible ml-3 text-slate-300 group-hover:text-slate-400"
 							  width="3" height="6" viewBox="0 0 3 6" fill="none" stroke="currentColor" stroke-width="2"
 							  stroke-linecap="round" stroke-linejoin="round">
@@ -66,14 +66,14 @@ title: Argumentationsberatung
 				<div class="grid max-w-4xl lg:max-w-6xl grid-cols-1 mx-auto mt-8 text-center gap-y-4 sm:gap-x-8 sm:grid-cols-1 lg:grid-cols-1 sm:mt-12 lg:mt-20 sm:text-left">
 					<!-- Kachel:Argumentative Strategieberatung' -->
 					<div class="relative">
-						<div id="kritisches_denken" class="relative overflow-hidden bg-white shadow-md rounded-xl h-full">
+						<div id="strategieber" class="relative overflow-hidden bg-white shadow-md rounded-xl h-full">
 							<div class="p-9">
 							  <div class="flex items-center mb-3">
 								<div
 									class="mr-3 inline-flex items-center justify-center flex-shrink-0">
-									<img src="{{ '/img/logo_kritisches_denken.svg' | url }}" alt="" class="mt-2 h-12 w-12">
+									<img src="{{ '/img/logo_beratung_node.svg' | url }}" alt="" class="mt-2 h-12 w-12">
 								</div>
-								<h3 class="mt-2 text-2xl font-bold text-gray-900 ">Argumentative Strategieberatung'</h3>
+								<h3 class="mt-2 text-2xl font-bold text-gray-900 ">Argumentative Strategieberatung</h3>
 							  </div>
 							  <p class="mt-6 text-base text-gray-600 sm:text-1.5xl">Eine reflektierte Entscheidung erfordert,</p>
 							  <ul class="text-base text-gray-600 sm:text-1.5xl">
@@ -95,12 +95,12 @@ title: Argumentationsberatung
 					</div>
 					<!-- Kachel: argumentative Kommunikationsberatung -->
 					<div class="relative">
-						<div id="wertkonflikte" class="relative overflow-hidden bg-white shadow-md rounded-xl h-full">
+						<div id="kommber" class="relative overflow-hidden bg-white shadow-md rounded-xl h-full">
 							<div class="p-9">
 							  <div class="flex items-center mb-3">
 								<div
 									class="mr-3 inline-flex items-center justify-center flex-shrink-0">
-									<img src="{{ '/img/logo_wertkonflikte.svg' | url }}" alt="" class="mt-2 h-12 w-12">
+									<img src="{{ '/img/logo_beratung_kommunikation.svg' | url }}" alt="" class="mt-2 h-12 w-12">
 								</div>
 								<h3 class="mt-2 text-2xl font-bold text-gray-900">Argumentative Kommunikationsberatung</h3>
 							  </div>

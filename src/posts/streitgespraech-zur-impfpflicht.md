@@ -12,9 +12,9 @@ Montgomery bringt vier Argumente für die Einführung der Impfpflicht. Rostalski
 
 ## Argument 1: Impfpflicht rettet Leben
 
-> **A1 Impfpflicht rettet Leben (Montgomery)**: Impfpflicht sollte eingeführt werden, weil Rettung von Menschenleben absolute Priorität hat und Einführung der Impfpflicht dazu führen wird, dass weniger Menschen durch Sars-Cov2 sterben werden.
-
-> **GG-A1 Lebensschutz gilt nicht absolut (Rostalski)**:Gesundheit und das Leben müssen gegen andere Rechtsgüter wie Freiheitsrechte abgewogen werden. Rettung von Menschenleben hat keine absolute Priorität.
+|A1 Impfpflicht rettet Leben (Montgomery) |   |GG-A1 Lebensschutz gilt nicht absolut (Rostalski) |
+|:---|-|:----|
+|Impfpflicht sollte eingeführt werden, weil Rettung von Menschenleben absolute Priorität hat und Einführung der Impfpflicht dazu führen wird, dass weniger Menschen durch Sars-Cov2 sterben werden. |   | Gesundheit und das Leben müssen gegen andere Rechtsgüter wie Freiheitsrechte abgewogen werden. Rettung von Menschenleben hat keine absolute Priorität.|
 
 ```argdown-map
 ===
