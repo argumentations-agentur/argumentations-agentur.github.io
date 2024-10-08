@@ -6,6 +6,8 @@ description: Hier beschreiben wir unseren Hintergrund.
 
 Wenn Menschen miteinander diskutieren, Meinungsverschiedenheiten austragen, Auseinandersetzungen führen, andere zu überzeugen suchen oder sich an gesellschaftlichen Debatten beteiligen, geht es idealerweise darum, Gründe zu artikulieren. Wenn wir unsere Meinungen daraufhin überprüfen, ob sie gerechtfertigt sind, suchen wir idealerweise nach Gründen für unsere Meinungen und bewerten diese Gründe.
 
+
+
 Argumentationstheorie ist das Werkzeug, mit dem die argumentativen Strukturen von Begründungen, Debatten, Diskussionen, Meinungsverschiedenheiten, Kontroversen, Dissensen oder Misshelligkeiten analysiert und im Hinblick auf ihre Qualität bewertet werden können. Wir -- die Gründer*inen der ArgumentationsAgentur -- haben in unserer akademischen Arbeit
 
 + theoretische Beiträge zur Argumentationstheorie geleistet (Bastis Diss, weitere Beiträge (Konferenzbeiträge, Publikationen)?),
