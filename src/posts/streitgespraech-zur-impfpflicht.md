@@ -12,9 +12,9 @@ Montgomery bringt vier Argumente für die Einführung der Impfpflicht. Rostalski
 
 ## Argument 1: Impfpflicht rettet Leben
 
-|A1 Impfpflicht rettet Leben (Montgomery) |   |GG-A1 Lebensschutz gilt nicht absolut (Rostalski) |
-|:---|-|:----|
-|Impfpflicht sollte eingeführt werden, weil Rettung von Menschenleben absolute Priorität hat und Einführung der Impfpflicht dazu führen wird, dass weniger Menschen durch Sars-Cov2 sterben werden. |   | Gesundheit und das Leben müssen gegen andere Rechtsgüter wie Freiheitsrechte abgewogen werden. Rettung von Menschenleben hat keine absolute Priorität.|
+| A1 Impfpflicht rettet Leben (Montgomery)                                                                                                                                                           |     | GG-A1 Lebensschutz gilt nicht absolut (Rostalski)                                                                                                      |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |:------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Impfpflicht sollte eingeführt werden, weil Rettung von Menschenleben absolute Priorität hat und Einführung der Impfpflicht dazu führen wird, dass weniger Menschen durch Sars-Cov2 sterben werden. |     | Gesundheit und das Leben müssen gegen andere Rechtsgüter wie Freiheitsrechte abgewogen werden. Rettung von Menschenleben hat keine absolute Priorität. |
 
 ```argdown-map
 ===
@@ -36,9 +36,9 @@ Weitere Argumente liegen in Montogmerys Formulierung „Impfpflicht ist der Schl
 
 ## Argument 2: Impfpflicht ist der Schlüssel zur Normalität, erste Interpretation
 
-> **A2 „Impfpflicht ist der Schlüssel zur Normalität“ – 1. Interpretation (Montgomery)**: Impfpflicht sollte eingeführt werden, weil sie dazu führen wird, dass die Gesellschaft schnell zur Normalität ohne Kontaktbeschränkungen zurückkehren wird (Impfpflicht ist hinreichend für die Normalisierung). Die Vorteile aus einer schnellen Rückkehr zur Normalität sind moralisch gewichtiger als Verletzung der körperlichen Integrität durch eine unfreiwillige Impfung.
-
-> **GG-A2 Schutz der Körperintegrität wiegt schwerer als Rückkehr zur Normalität (Rostalski)**: Schutz des Körpers ist moralisch und juristisch derart gewichtig, dass unfreiwillige Eingriffe in den Körper nur zu ganz spezifischen Zwecken legitim sind. Alle Zwecke, zu denen staatliche Verletzungen der Körperintegrität erlaubt wären, wie beispielsweise zur Erhaltung des Gesundheitssystems, können anders als durch Verletzung der Körperintegrität erreicht werden können (beispielsweise das Gesundheitssystem kann durch Maskenpflicht und Kontaktbeschränkungen erhalten werden).
+| A2 „Impfpflicht ist der Schlüssel zur Normalität“ – 1. Interpretation (Montgomery)                                                                                                                                                                                                                                                                                                |     | GG-A2 Schutz der Körperintegrität wiegt schwerer als Rückkehr zur Normalität (Rostalski)                                                                                                                                                                                                                                                                                                                                                                                                         |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:---:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Impfpflicht sollte eingeführt werden, weil sie dazu führen wird, dass die Gesellschaft schnell zur Normalität ohne Kontaktbeschränkungen zurückkehren wird (Impfpflicht ist hinreichend für die Normalisierung). Die Vorteile aus einer schnellen Rückkehr zur Normalität sind moralisch gewichtiger als Verletzung der körperlichen Integrität durch eine unfreiwillige Impfung. |     | Schutz des Körpers ist moralisch und juristisch derart gewichtig, dass unfreiwillige Eingriffe in den Körper nur zu ganz spezifischen Zwecken legitim sind. Alle Zwecke, zu denen staatliche Verletzungen der Körperintegrität erlaubt wären, wie beispielsweise zur Erhaltung des Gesundheitssystems, können anders als durch Verletzung der Körperintegrität erreicht werden können (beispielsweise das Gesundheitssystem kann durch Maskenpflicht und Kontaktbeschränkungen erhalten werden). |
 
 ```argdown-map
 ===
@@ -55,10 +55,11 @@ webComponent:
       - <GG-A2 Schutz der Körperintegrität wiegt schwerer als Rückkehr zur Normalität>: Schutz des Körpers ist moralisch und juristisch deutlich gewichtiger als eine Ermöglichung des gewöhnlichen Alltags ohne Kontaktbeschränkungen. #Ros
 ```
 
-> **A3 „Impfpflicht ist der Schlüssel zur Normalität“ – 2. Interpretation (Montgomery)**: Impfpflicht sollte eingeführt werden, weil ihre Einführung notwendig dafür ist, dass die Gesellschaft zur Normalität ohne Kontaktbeschränkungen zurückkehrt (Impfpflicht ist notwendig für die Normalisierung). Wenn sich eine große Gesellschaftsgruppe weigert, eine Handlung zu tun, bei der es notwendig ist, dass nahezu die gesamte Gesellschaft sie tut, damit ein moralisch gebotenes Ziel – Rückkehr zur Normalität – erreicht wird, und es keine vernünftigen Gründe dafür gibt, diese Handlung nicht zu tun, dann ist es geboten, dass der Staat alle Mitglieder der Gesellschaft dazu verpflichtet, die Handlung zu tun.
+## Argument 3: Impfpflicht ist der Schlüssel zur Normalität, zweite Interpretation
 
-> **GG-A3 Relevanz individueller Freiheitsrechte (Rostalski)**: Schutz vor staatlichen Eingriffen in die Körperintegrität darf nur unter sehr besonderen Umständen eingeschränkt werden. Wenn die Einschränkung des Schutzes der Körperintegrität notwendig ist, um etwas gesellschaftlich Erstrebenswertes und Vernünftiges zu erreichen, folgt nicht, dass die Einschränkung erlaubt ist. Es muss sich vielmehr um ein sehr gewichtiges gesellschaftliches Ziel handeln, für das eine Einschränkung des Schutzes der Körperintegrität notwendig wäre. Ein solches Ziel wäre beispielsweise die Erhaltung der Funktionsfähigkeit des Gesundheitssystems. Letzteres kann allerdings anders als durch Verletzung der Körperintegrität erreicht werden (beispielsweise kann das Gesundheitssystem durch Maskenpflicht und Kontaktbeschränkungen erhalten werden).
-
+| A3 „Impfpflicht ist der Schlüssel zur Normalität“ – 2. Interpretation (Montgomery)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | GG-A3 Relevanz individueller Freiheitsrechte (Rostalski)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Impfpflicht sollte eingeführt werden, weil ihre Einführung notwendig dafür ist, dass die Gesellschaft zur Normalität ohne Kontaktbeschränkungen zurückkehrt (Impfpflicht ist notwendig für die Normalisierung). Wenn sich eine große Gesellschaftsgruppe weigert, eine Handlung zu tun, bei der es notwendig ist, dass nahezu die gesamte Gesellschaft sie tut, damit ein moralisch gebotenes Ziel – Rückkehr zur Normalität – erreicht wird, und es keine vernünftigen Gründe dafür gibt, diese Handlung nicht zu tun, dann ist es geboten, dass der Staat alle Mitglieder der Gesellschaft dazu verpflichtet, die Handlung zu tun. | Schutz vor staatlichen Eingriffen in die Körperintegrität darf nur unter sehr besonderen Umständen eingeschränkt werden. Wenn die Einschränkung des Schutzes der Körperintegrität notwendig ist, um etwas gesellschaftlich Erstrebenswertes und Vernünftiges zu erreichen, folgt nicht, dass die Einschränkung erlaubt ist. Es muss sich vielmehr um ein sehr gewichtiges gesellschaftliches Ziel handeln, für das eine Einschränkung des Schutzes der Körperintegrität notwendig wäre. Ein solches Ziel wäre beispielsweise die Erhaltung der Funktionsfähigkeit des Gesundheitssystems. Letzteres kann allerdings anders als durch Verletzung der Körperintegrität erreicht werden (beispielsweise kann das Gesundheitssystem durch Maskenpflicht und Kontaktbeschränkungen erhalten werden). |
 
 ```argdown-map
 ===
@@ -77,10 +78,9 @@ webComponent:
 
 ## Argument 4: Nicht-Geimpfte gefährden Andere
 
-> **A4 Nicht-Geimpfte gefährden Andere (Montgomery)**: Impfpflicht sollte eingeführt werden, weil Nicht-Geimpfte andere Gesellschaftsmitglieder gefährden. Freiheiten von denjenigen, die andere gefährden, dürfen eingeschränkt werden.
-
-> **GG-A4 Andere können sich selbst schützen (Rostalski)**: Wenn Dritte in der Lage sind, sich selbst zu schützen, ist es nicht immer legitim, staatliche Pflichten aufzuerlegen.
-
+| A4 Nicht-Geimpfte gefährden Andere (Montgomery)                                                                                                                                   | GG-A4 Andere können sich selbst schützen (Rostalski)                                                                  |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------- |
+| Impfpflicht sollte eingeführt werden, weil Nicht-Geimpfte andere Gesellschaftsmitglieder gefährden. Freiheiten von denjenigen, die andere gefährden, dürfen eingeschränkt werden. | Wenn Dritte in der Lage sind, sich selbst zu schützen, ist es nicht immer legitim, staatliche Pflichten aufzuerlegen. |
 
 ```argdown-map
 ===
@@ -99,8 +99,6 @@ webComponent:
 
 ## Fazit zur Kontroverse
 
-
-
 ```argdown-map
 ===
 model:
@@ -115,7 +113,7 @@ webComponent:
   + <A2 "Impfpflicht ist der Schlüssel zur Normalität" - 1. Interpretation>: Wenn wir die Impfpflicht einführen, kehrt die Gesellschaft schnell zur Normalität zurück. #Mont
   + <A3 "Impfpflicht ist der Schlüssel zur Normalität" - 2. Interpretation>: Einführung der Impfpflicht ist notwendig, damit sich der gewöhnliche Alltag ohne Kontaktbeschränkungen einstellt.#Mont
   + <A4 Nicht-Geimpfte gefährden Andere>: Derjenige, der sich nicht impfen lässt, gefährdet nicht nur sich selbst, sondern auch andere.
-         
+
 
 <A2 "Impfpflicht ist der Schlüssel zur Normalität" - 1. Interpretation>: Wenn wir die Impfpflicht einführen, kehrt die Gesellschaft schnell zur Normalität zurück.#Mont
 
@@ -171,7 +169,6 @@ webComponent:
   - <GG-A1 Lebensschutz gilt nicht absolut>: Gesundheit und das Leben müssen gegen andere Freiheitsrechte abgewogen werden. #Ros 
 ----
 (3) [Pflicht zur Impfung gegen Sars-Cov2]
-
 ```
 
 Die Rekonstruktion zeigt, dass zwischen den beiden Kontrahenten Dissens bezüglich einer ethischen Beurteilung liegt, nämlich der Abwägung zwischen der Ermächtigung des Staates, gegen den Willen der Bürger in ihren Körper einzugreifen auf der einen Seite und den Vorteilen aus einer vollständigen Immunisierung der Gesellschaft gegen das Sars-Cov2-Virus.
