@@ -12,9 +12,9 @@ Montgomery bringt vier Argumente für die Einführung der Impfpflicht. Rostalski
 
 ## Argument 1: Impfpflicht rettet Leben
 
-| A1 Impfpflicht rettet Leben (Montgomery)                                                                                                                                                           |     | GG-A1 Lebensschutz gilt nicht absolut (Rostalski)                                                                                                      |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |:------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Impfpflicht sollte eingeführt werden, weil Rettung von Menschenleben absolute Priorität hat und Einführung der Impfpflicht dazu führen wird, dass weniger Menschen durch Sars-Cov2 sterben werden. |     | Gesundheit und das Leben müssen gegen andere Rechtsgüter wie Freiheitsrechte abgewogen werden. Rettung von Menschenleben hat keine absolute Priorität. |
+| A1 Impfpflicht rettet Leben (Montgomery) 	|  GG-A1 Lebensschutz gilt nicht absolut (Rostalski) 	|
+|:---	|:---	|
+| Impfpflicht sollte eingeführt werden, weil Rettung von Menschenleben absolute Priorität hat und Einführung der Impfpflicht dazu führen wird, dass weniger Menschen durch Sars-Cov2 sterben werden. 	| Gesundheit und das Leben müssen gegen andere Rechtsgüter wie Freiheitsrechte abgewogen werden. Rettung von Menschenleben hat keine absolute Priorität. 	|
 
 ```argdown-map
 ===
@@ -36,9 +36,9 @@ Weitere Argumente liegen in Montogmerys Formulierung „Impfpflicht ist der Schl
 
 ## Argument 2: Impfpflicht ist der Schlüssel zur Normalität, erste Interpretation
 
-| A2 „Impfpflicht ist der Schlüssel zur Normalität“ – 1. Interpretation (Montgomery)                                                                                                                                                                                                                                                                                                |     | GG-A2 Schutz der Körperintegrität wiegt schwerer als Rückkehr zur Normalität (Rostalski)                                                                                                                                                                                                                                                                                                                                                                                                         |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:---:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Impfpflicht sollte eingeführt werden, weil sie dazu führen wird, dass die Gesellschaft schnell zur Normalität ohne Kontaktbeschränkungen zurückkehren wird (Impfpflicht ist hinreichend für die Normalisierung). Die Vorteile aus einer schnellen Rückkehr zur Normalität sind moralisch gewichtiger als Verletzung der körperlichen Integrität durch eine unfreiwillige Impfung. |     | Schutz des Körpers ist moralisch und juristisch derart gewichtig, dass unfreiwillige Eingriffe in den Körper nur zu ganz spezifischen Zwecken legitim sind. Alle Zwecke, zu denen staatliche Verletzungen der Körperintegrität erlaubt wären, wie beispielsweise zur Erhaltung des Gesundheitssystems, können anders als durch Verletzung der Körperintegrität erreicht werden können (beispielsweise das Gesundheitssystem kann durch Maskenpflicht und Kontaktbeschränkungen erhalten werden). |
+| A2 „Impfpflicht ist der Schlüssel zur Normalität“<br>1. Interpretation (Montgomery) 	| GG-A2 Schutz der Körperintegrität wiegt schwerer als Rückkehr zur Normalität (Rostalski) 	|
+|:-----	|:---	|
+| Impfpflicht sollte eingeführt werden, weil sie dazu führen wird, dass die Gesellschaft schnell zur Normalität ohne Kontaktbeschränkungen zurückkehren wird. Die Vorteile aus einer schnellen Rückkehr zur Normalität sind moralisch gewichtiger als Verletzung der körperlichen Integrität durch eine unfreiwillige Impfung. 	| Schutz des Körpers ist moralisch und juristisch derart gewichtig, dass unfreiwillige Eingriffe in den Körper nur zu ganz spezifischen Zwecken legitim sind. Alle Zwecke, zu denen staatliche Verletzungen der Körperintegrität erlaubt wären, wie beispielsweise zur Erhaltung des Gesundheitssystems, können anders als durch Verletzung der Körperintegrität erreicht werden können (beispielsweise das Gesundheitssystem kann durch Maskenpflicht und Kontaktbeschränkungen erhalten werden). 	|
 
 ```argdown-map
 ===
@@ -99,6 +99,11 @@ webComponent:
 
 ## Fazit zur Kontroverse
 
+Die nachfolgende Argumentkarte bildet alle rekonstruierten Argumente ab. Sie verdeutlicht, dass zwischen den beiden Kontrahenten Dissens bezüglich einer ethischen Beurteilung liegt, nämlich 
+  * der Abwägung zwischen der Ermächtigung des Staates, gegen den Willen der Bürger in ihren Körper einzugreifen und 
+  * den Vorteilen aus einer vollständigen Immunisierung der Gesellschaft gegen das Sars-Cov2-Virus.
+
+
 ```argdown-map
 ===
 model:
@@ -113,7 +118,10 @@ webComponent:
   + <A2 "Impfpflicht ist der Schlüssel zur Normalität" - 1. Interpretation>: Wenn wir die Impfpflicht einführen, kehrt die Gesellschaft schnell zur Normalität zurück. #Mont
   + <A3 "Impfpflicht ist der Schlüssel zur Normalität" - 2. Interpretation>: Einführung der Impfpflicht ist notwendig, damit sich der gewöhnliche Alltag ohne Kontaktbeschränkungen einstellt.#Mont
   + <A4 Nicht-Geimpfte gefährden Andere>: Derjenige, der sich nicht impfen lässt, gefährdet nicht nur sich selbst, sondern auch andere.
+         
+[Priorität beim Schutz der Körperintegrität vor staatlichen Eingriffen]: Schutz des Körpers ist moralisch und juristisch derart gewichtig, dass unfreiwillige Eingriffe in den Körper nur zu ganz spezifischen Zwecken legitim sind. #Ros
 
+## Rückkehr zur Normalität versus Schutz der Körperintegrität
 
 <A2 "Impfpflicht ist der Schlüssel zur Normalität" - 1. Interpretation>: Wenn wir die Impfpflicht einführen, kehrt die Gesellschaft schnell zur Normalität zurück.#Mont
 
@@ -125,6 +133,16 @@ webComponent:
 ----
 (4) [Pflicht zur Impfung gegen Sars-Cov2]: Es sollte die Pflicht zur Impfung gegen das Sars-Cov2-Virus eingeführt werden.
 
+<GG-A2 Schutz der Körperintegrität wiegt schwerer als Rückkehr zur Normalität>: Schutz des Körpers ist moralisch und juristisch deutlich gewichtiger als eine Ermöglichung des gewöhnlichen Alltags ohne Kontaktbeschränkungen. #Ros
+
+(1) [Priorität beim Schutz der Körperintegrität vor staatlichen Eingriffen]#Ros
+(2) Alle Zwecke, zu denen staatliche Verletzungen der Körperintegrität erlaubt wären, wie beispielsweise zur Erhaltung des Gesundheitssystems, können anders als durch Verletzung der Körperintegrität erreicht werden können (beispielsweise das Gesundheitssystem kann durch Maskenpflicht und Kontaktbeschränkungen erhalten werden).
+(3) Ermöglichung des gewöhnlichen Alltags ohne Kontaktbeschränkungen ist kein Zweck, zu dem staatliche Verletzungen der Körperintegrität erlaubt wären.
+----
+(4) [Nachteile der Impfpflicht überwiegen die Vorteile]: Es ist nicht der Fall, dass die Vorteile aus einer schnellen Rückkehr zur Normalität moralisch gewichtiger sind als Verletzung der körperlichen Integrität durch eine Impfung. #Ros
+
+
+## Pflicht zur Herbeiführung des moralisch Richtigen?
 
 <A3 "Impfpflicht ist der Schlüssel zur Normalität" - 2. Interpretation>: Einführung der Impfpflicht ist notwendig, damit sich der gewöhnliche Alltag ohne Kontaktbeschränkungen einstellt.
 
@@ -144,6 +162,7 @@ webComponent:
 ----
 (3) Es ist nicht der Fall, dass es erlaubt ist, dass der Staat seine Gesellschaftsmitglieder dazu verpflichtet, eine Hanldung H zu tun, wenn dadurch, dass alle H tun, ein moralisch gewichtiges Ziel Z erreicht wird, und Z moralisch gewichtiger ist als die Nachteile von H und es keine Gründe dagegen gibt, dass alle Mitglieder H tun.
 
+## Nicht-Geimpfte gefährden Andere
 
 <A4 Nicht-Geimpfte gefährden Andere>: Derjenige, der sich nicht impfen lässt, gefährdet nicht nur sich selbst, sondern auch andere.#Mont
 
@@ -154,13 +173,7 @@ webComponent:
 ----
 (3) [Pflicht zur Impfung gegen Sars-Cov2]
 
-<GG-A2 Schutz der Körperintegrität wiegt schwerer als Rückkehr zur Normalität>: Schutz des Körpers ist moralisch und juristisch deutlich gewichtiger als eine Ermöglichung des gewöhnlichen Alltags ohne Kontaktbeschränkungen. #Ros
-
-(1) [Priorität beim Schutz der Körperintegrität vor staatlichen Eingriffen]: Schutz des Körpers ist moralisch und juristisch derart gewichtig, dass unfreiwillige Eingriffe in den Körper nur zu ganz spezifischen Zwecken legitim sind. #Ros
-(2) Alle Zwecke, zu denen staatliche Verletzungen der Körperintegrität erlaubt wären, wie beispielsweise zur Erhaltung des Gesundheitssystems, können anders als durch Verletzung der Körperintegrität erreicht werden können (beispielsweise das Gesundheitssystem kann durch Maskenpflicht und Kontaktbeschränkungen erhalten werden).
-(3) Ermöglichung des gewöhnlichen Alltags ohne Kontaktbeschränkungen ist kein Zweck, zu dem staatliche Verletzungen der Körperintegrität erlaubt wären.
-----
-(4) [Nachteile der Impfpflicht überwiegen die Vorteile]: Es ist nicht der Fall, dass die Vorteile aus einer schnellen Rückkehr zur Normalität moralisch gewichtiger sind als Verletzung der körperlichen Integrität durch eine Impfung. #Ros
+## Impfpflicht zum Schutz des Lebens
 
 <A1 Impfplicht rettet Leben>: Impflicht führt zu weniger Sterbefällen und weniger schweren Krankheitsverläufen.
 
@@ -171,9 +184,13 @@ webComponent:
 (3) [Pflicht zur Impfung gegen Sars-Cov2]
 ```
 
-Die Rekonstruktion zeigt, dass zwischen den beiden Kontrahenten Dissens bezüglich einer ethischen Beurteilung liegt, nämlich der Abwägung zwischen der Ermächtigung des Staates, gegen den Willen der Bürger in ihren Körper einzugreifen auf der einen Seite und den Vorteilen aus einer vollständigen Immunisierung der Gesellschaft gegen das Sars-Cov2-Virus.
+Montgomerys Argumentation:
++ Er verweist in allen seinen Argumentena auf die Vorteile der Immunisierung. Damit legt er sich implizit auf die moralische These fest, dass die Vorteile der Immunisierung moralisch gewichtiger sind als der Schutz der Bürger vor Eingriffen in ihre Körperintegrität.
 
-+ Montgomery hält die Vorteile der Immunisierung für moralisch deutlich gewichtiger als den Schutz der Bürger vor Eingriffen in ihre Körperintegrität.
-+ Rostalski hält hingegen den Schutz des Körpers vor unfreiwilligen Eingriffen für deutlich gewichtiger als die Vorteile aus einer Immunisierung der Gesellschaft.
+Rostalskis Argumentation:
++ Sie hält hingegen den Schutz des Körpers vor unfreiwilligen Eingriffen für deutlich gewichtiger als die Vorteile aus einer Immunisierung der Gesellschaft.
 
-Rostalski hat ihre Position mit Verweis auf geltende juristische Normen begründet, Montgomery hat seine Haltung mit Verweis auf ärztliche Werte gerechtfertigt. Wie die Positionen moralisch zu beurteilen sind – d.h. welche Haltung man einnehmen sollte, wenn man nicht aus der Perspektive einer gesellschaftlichen Gruppe (Medizin, Jurisprudenz), sondern wenn man nach einer Haltung sucht, die durch beste Gründe gestützt ist – das haben die beiden Kontrahenten nicht diskutiert.
+
+### Lehre aus der Rekonstruktion
+
+Rostalski hat ihre Position mit Verweis auf geltende juristische Normen begründet, Montgomery hat seine Haltung mit Verweis auf ärztliche Werte gerechtfertigt. Wie die Positionen moralisch zu beurteilen sind – d.h. welche Haltung man einnehmen sollte, wenn man nicht aus der Perspektive einer gesellschaftlichen Gruppe (Medizin, Jurisprudenz), sondern wenn man nach einer Haltung sucht, die durch beste Gründe gestützt ist – das bleibt in dem Interview offen: Diese Frage haben die beiden Kontrahenten nicht diskutiert.
