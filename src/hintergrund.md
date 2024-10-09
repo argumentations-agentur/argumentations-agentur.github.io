@@ -4,11 +4,9 @@ title: Hintergund
 description: Hier beschreiben wir unseren Hintergrund.
 ---
 
-Wenn Menschen miteinander diskutieren, Meinungsverschiedenheiten austragen, Auseinandersetzungen führen, andere zu überzeugen suchen oder sich an gesellschaftlichen Debatten beteiligen, geht es idealerweise darum, Gründe zu artikulieren. Wenn wir unsere Meinungen daraufhin überprüfen, ob sie gerechtfertigt sind, suchen wir idealerweise nach Gründen für unsere Meinungen und bewerten diese Gründe.
+Wenn Menschen miteinander diskutieren, Meinungsverschiedenheiten austragen, Auseinandersetzungen führen, andere zu überzeugen suchen oder sich an gesellschaftlichen Debatten beteiligen, geht es idealerweise darum, **Gründe** zu artikulieren. Wenn wir unsere Meinungen daraufhin überprüfen, ob sie gerechtfertigt sind, suchen wir idealerweise nach Gründen für unsere Meinungen und bewerten diese Gründe.
 
-
-
-Argumentationstheorie ist das Werkzeug, mit dem die argumentativen Strukturen von Begründungen, Debatten, Diskussionen, Meinungsverschiedenheiten, Kontroversen, Dissensen oder Misshelligkeiten analysiert und im Hinblick auf ihre Qualität bewertet werden können. Wir -- die Gründer*inen der ArgumentationsAgentur -- haben in unserer akademischen Arbeit
+Argumentationstheorie ist das Werkzeug, mit dem die **argumentativen Strukturen** von Begründungen, Debatten, Diskussionen, Meinungsverschiedenheiten, Kontroversen, Dissensen oder Misshelligkeiten analysiert und im Hinblick auf ihre Qualität bewertet werden können. Wir -- die Gründer*inen der ArgumentationsAgentur -- haben in unserer akademischen Arbeit
 
 + theoretische Beiträge zur Argumentationstheorie geleistet (Bastis Diss, weitere Beiträge (Konferenzbeiträge, Publikationen)?),
 + an computer-gestützen Methoden zur Visualisierung von Argumentstrukturen gearbeitet (Basti zu argunet und argdown),
@@ -57,7 +55,13 @@ Zum Kreativen Denken gibt es eigene Methoden -- Brainstorming, Design Thinking s
 
 ### Entscheidungsfindung und Argumentationstheorie
 
-... [to be added]
+Wenn eine Person nach einer Entscheidung darüber sucht, was sie in einer gegebenen Situation tun soll, sucht sie nach nichts Anderem als einem Argument dafür, welche der ihr verfügbaren Handlungsoptionen sie wählen soll: 
+
+> Rekonstruktion und Analyse von Argumenten ist das grundlegende Werkzeug für eine reflektierte Entscheidungsfindung
+
+Der Analyse der Entscheidungsfindung widmet sich eigentlich die Entscheidungstheorie (decision theory). 
+
+
 
 ## Es gibt keine ideologiefreie Kritik. Welcher Ideologie unterliegt die ArgumentationsAgentur, wenn sie politische Argumente analysiert?
 
