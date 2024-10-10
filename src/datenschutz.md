@@ -3,15 +3,19 @@ title: Privacy Policy
 layout: page.njk
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id rhoncus est. Nullam sit amet justo nisi. Aliquam elementum iaculis nulla bibendum congue. Integer convallis ut nisi at tincidunt. Sed eu diam ex. Ut efficitur velit ut ultrices semper. Morbi suscipit ut purus a placerat. Cras massa lorem, pretium et nibh in, faucibus fermentum dolor. Nulla lacinia malesuada molestie. Proin et risus turpis. Aenean lacinia, orci at egestas fringilla, sem libero facilisis lectus, ut porta justo ligula a quam. Mauris vulputate purus mauris, eget semper ante rutrum id. Duis vestibulum, turpis at ultricies aliquam, enim dolor lobortis leo, at laoreet elit odio at nunc. Aliquam sit amet erat mi.
+Diese Datenschutzerklärung soll die Nutzer dieser Website über die Art, den Umfang und den Zweck der Erhebung und Verwendung personenbezogener Daten durch den Websitebetreiber [Ihre Kontaktdaten einfügen] informieren.
 
-Cras mattis justo id convallis porta. Pellentesque ullamcorper fringilla odio at pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla mattis erat dui, ut tempor lectus dictum id. Mauris ornare massa a nisi gravida, id ultrices ex cursus. Donec quis porttitor nisl, non viverra dui. Donec nec gravida arcu. Pellentesque dignissim at libero id bibendum. Vivamus pulvinar nibh risus, et egestas odio interdum id. Cras eleifend risus molestie mollis finibus. Aenean tortor elit, accumsan vel fermentum pharetra, molestie ut felis.
+Der Websitebetreiber nimmt Ihren Datenschutz sehr ernst und behandelt Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Vorschriften. Da durch neue Technologien und die ständige Weiterentwicklung dieser Webseite Änderungen an dieser Datenschutzerklärung vorgenommen werden können, empfehlen wir Ihnen sich die Datenschutzerklärung in regelmäßigen Abständen wieder durchzulesen.
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Aliquam semper felis sed leo sodales scelerisque. Vivamus vitae erat vel tellus condimentum consectetur at ac velit. Mauris massa tortor, cursus sit amet turpis in, lacinia ultricies nulla.
+Definitionen der verwendeten Begriffe (z.B. “personenbezogene Daten” oder “Verarbeitung”) finden Sie in [Art. 4 DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679).
 
-Integer finibus sem sit amet diam luctus, ut posuere enim dapibus. Nunc euismod dignissim dui a maximus. Phasellus pulvinar neque at lorem ultricies suscipit. Maecenas felis erat, ornare eget egestas et, ultricies vitae ante. In convallis quam lectus, sit amet elementum ligula pulvinar ac. Integer sapien ipsum, congue a purus vel, sollicitudin lacinia ligula. Ut varius sit amet lectus quis congue. Ut viverra lectus tellus, a pharetra neque egestas eu. Morbi feugiat, arcu id bibendum vulputate, risus mi finibus enim, sed pulvinar ipsum sem eu risus. Aenean accumsan elementum ipsum, eu porttitor libero auctor at. Duis nec ipsum velit. Aliquam ac ullamcorper nisl. Duis mattis malesuada leo, quis egestas turpis molestie nec. Curabitur dui tortor, volutpat quis varius et, posuere eget augue. Praesent sed pretium dui. Vivamus auctor ex vitae nisl commodo interdum.
+### Zugriffsdaten
 
-Nam non quam vel velit sagittis consequat non vel odio. Phasellus condimentum dictum orci, quis rhoncus lacus hendrerit non. Ut vel nisl lectus. Duis vitae varius enim. Morbi placerat urna sit amet sollicitudin viverra. Vivamus maximus metus ac ornare venenatis. Ut suscipit nec sapien ac fringilla. Phasellus et justo eget odio lacinia feugiat. Nullam laoreet eros a lectus pretium, sed euismod velit tincidunt.
+Wir, der Websitebetreiber, erheben keine personenbezogenen Daten über Zugriffe auf die Website.
+
+### Cookies
+
+Wir verwenden für den Betrieb der Seite keine Cookies.
 
 #### Website enhancements ####
 
@@ -22,6 +26,18 @@ This website uses the follwing packages from <a href="https://unpkg.com" rel="no
 
 Using these packages, personal data may be transmitted.
 
-### Your rights ###
+### Rechte des Nutzers
 
-Integer finibus sem sit amet diam luctus, ut posuere enim dapibus. Nunc euismod dignissim dui a maximus. Phasellus pulvinar neque at lorem ultricies suscipit. Maecenas felis erat, ornare eget egestas et, ultricies vitae ante. In convallis quam lectus, sit amet elementum ligula pulvinar ac. Integer sapien ipsum, congue a purus vel, sollicitudin lacinia ligula. Ut varius sit amet lectus quis congue. Ut viverra lectus tellus, a pharetra neque egestas eu. Morbi feugiat, arcu id bibendum vulputate, risus mi finibus enim, sed pulvinar ipsum sem eu risus. Aenean accumsan elementum ipsum, eu porttitor libero auctor at. Duis nec ipsum velit. Aliquam ac ullamcorper nisl. Duis mattis malesuada leo, quis egestas turpis molestie nec. Curabitur dui tortor, volutpat quis varius et, posuere eget augue. Praesent sed pretium dui. Vivamus auctor ex vitae nisl commodo interdum.
+Sie haben als Nutzer das Recht, auf Antrag eine kostenlose Auskunft darüber zu erhalten, welche personenbezogenen Daten über Sie gespeichert wurden. Sie haben außerdem das Recht auf Berichtigung falscher Daten und auf die Verarbeitungseinschränkung oder Löschung Ihrer personenbezogenen Daten. Falls zutreffend, können Sie auch Ihr Recht auf Datenportabilität geltend machen. Sollten Sie annehmen, dass Ihre Daten unrechtmäßig verarbeitet wurden, können Sie eine Beschwerde bei der zuständigen Aufsichtsbehörde einreichen.
+Löschung von Daten
+
+Sofern Ihr Wunsch nicht mit einer gesetzlichen Pflicht zur Aufbewahrung von Daten (z. B. Vorratsdatenspeicherung) kollidiert, haben Sie ein Anrecht auf Löschung Ihrer Daten. Von uns gespeicherte Daten werden, sollten sie für ihre Zweckbestimmung nicht mehr vonnöten sein und es keine gesetzlichen Aufbewahrungsfristen geben, gelöscht. Falls eine Löschung nicht durchgeführt werden kann, da die Daten für zulässige gesetzliche Zwecke erforderlich sind, erfolgt eine Einschränkung der Datenverarbeitung. In diesem Fall werden die Daten gesperrt und nicht für andere Zwecke verarbeitet.
+Widerspruchsrecht
+
+Nutzer dieser Webseite können von ihrem Widerspruchsrecht Gebrauch machen und der Verarbeitung ihrer personenbezogenen Daten zu jeder Zeit widersprechen.
+
+Wenn Sie eine Berichtigung, Sperrung, Löschung oder Auskunft über die zu Ihrer Person gespeicherten personenbezogenen Daten wünschen oder Fragen bzgl. der Erhebung, Verarbeitung oder Verwendung Ihrer personenbezogenen Daten haben oder erteilte Einwilligungen widerrufen möchten, wenden Sie sich bitte an folgende E-Mail-Adresse: XYZ
+
+### Verantwortlicher für diese Datenschutzerklärung und diesen Onlineauftritt
+
+Verantwortlicher für die Verarbeitung personenbezogener Daten im Sinne der EU-Datenschutz-Grundverordnung (DSGVO): siehe [Impressum](./impressum.md)

@@ -8,13 +8,13 @@ Wenn Menschen miteinander diskutieren, Meinungsverschiedenheiten austragen, Ause
 
 Argumentationstheorie ist das Werkzeug, mit dem die **argumentativen Strukturen** von Begründungen, Debatten, Diskussionen, Meinungsverschiedenheiten, Kontroversen, Dissensen oder Misshelligkeiten analysiert und im Hinblick auf ihre Qualität bewertet werden können. Wir -- die Gründer*inen der ArgumentationsAgentur -- haben in unserer akademischen Arbeit
 
-+ theoretische Beiträge zur Argumentationstheorie geleistet (Bastis Diss, weitere Beiträge (Konferenzbeiträge, Publikationen)?),
-+ an computer-gestützen Methoden zur Visualisierung von Argumentstrukturen gearbeitet (Basti zu argunet und argdown),
+<!--+ theoretische Beiträge zur Argumentationstheorie geleistet (Bastis Diss, weitere Beiträge (Konferenzbeiträge, Publikationen)?),-->
++ an computer-gestützen Methoden zur Visualisierung von Argumentstrukturen gearbeitet (Sebastian Cacean zu [argunet](http://www.argunet.org/) und [argdown](https://argdown.org/)),
 + Logik und Argumentationstheorie an Universitäten in verschiedenen Fachbereichen gelehrt und
 + vielfach die Theorie genutzt, um in akademische und öffentlichen Kontroversen aufzuzeigen, wie sie konstruktiv wieter geführt werden können:
-  + Analyse des Kosten-Nutzen-Arguments in Bezug auf den Klimaschutz 
-  + Analyse der Argumente in Bezug auf Forschung, Entwicklung und Einsatz von Geoengineering; 
-  + ...
+  + [Analyse des Kosten-Nutzen-Arguments in Bezug auf den Klimaschutz](https://www.oekom.de/buch/gesellschaftliche-wohlfahrt-und-kimawandel-9783865816856) 
+  + [Analyse der Argumente in Bezug auf Forschung, Entwicklung und Einsatz von Geoengineering](https://publikationen.bibliothek.kit.edu/1000028245) 
+  + [Live-Rekonstruktionen von Debatten durchgeführt](http://www.argunet.org/2014/08/21/argument-maps-for-debate-moderation/)
 
 Mit der ArgumentationsAgentur wollen wir unsere Kompetenzen
 
@@ -35,7 +35,7 @@ Der Schwerpunkt der ArgumentationsAgentur liegt auf der Stärkung dessen, wie Re
 
 ### Kritisches Denken und Argumentation
 
-Kritisches Denken ist die Fähigkeit, gründlich über Lösungen eines Problems nachzudenken und den am besten gerechtfertigten Lösungsweg auszuwählen (Ennis 2015: 32; [Hitchcock 2022](https://plato.stanford.edu/entries/critical-thinking/)). Diese Fähigkeit ist eine Grundvoraussetzung für selbstbestimmte -- oder autonome -- Personen.
+Kritisches Denken ist die Fähigkeit, gründlich über Lösungen eines Problems nachzudenken und den am besten gerechtfertigten Lösungsweg auszuwählen ([Hitchcock 2022](https://plato.stanford.edu/entries/critical-thinking/)). Diese Fähigkeit ist eine Grundvoraussetzung für selbstbestimmte -- oder autonome -- Personen.
 
 Inzwischen hat sich ein akademisches Feld herausgebildet, das sich der Systematisierung und der Vermittlung dieser Fähigkeit widmet. Es giblt zahlreiche Akteure, die Kritisches Denken außerhalb von Universitäten trainieren.
 
@@ -59,8 +59,7 @@ Wenn eine Person nach einer Entscheidung darüber sucht, was sie in einer gegebe
 
 > Rekonstruktion und Analyse von Argumenten ist das grundlegende Werkzeug für eine reflektierte Entscheidungsfindung
 
-Der Analyse der Entscheidungsfindung widmet sich eigentlich die Entscheidungstheorie (decision theory). 
-
+Der Analyse der Entscheidungsfindung widmet sich auch die Entscheidungstheorie ([decision theory](https://plato.stanford.edu/entries/decision-theory/)). Argumentanalyse sehen wir als eine Ergänzung zur Entscheidungstheorie. Argumentanalyse hilft dort weiter, wo die Entscheidungstheorie die Meinungsverschiedenheiten darüber, was getan werden soll, nicht auszuräumen vermag. Selbst wenn die Entscheidungsträger\*innen sich darin einig sind, dass dasjenige tun sollen, was den erwarteten Nutzen maximiert, können sie sich uneinig darüber sein, wie wahrscheinlich zukünftige Ergebnisse sind oder wie wertvoll sie sind oder wie gewagt oder abgesichert eine Handlung sein sollte. Solche Meinungsverschiedenheiten lassen sich mit Hilfe der Argumentanalyse analyisieren und in Handlungsstrategien angesichts normativer Meinungsverschiedenheiten überführen. 
 
 
 ## Es gibt keine ideologiefreie Kritik. Welcher Ideologie unterliegt die ArgumentationsAgentur, wenn sie politische Argumente analysiert?
