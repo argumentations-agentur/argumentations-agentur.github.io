@@ -15,6 +15,11 @@ see https://v2.tailwindcss.com/docs/adding-base-styles
       @apply list-outside;
       @apply ml-7;
     }
+    ol {
+      @apply list-decimal;
+      @apply list-outside;
+      @apply ml-7;
+    }
     strong {
       @apply font-semibold;
     }
@@ -25,5 +30,12 @@ see https://v2.tailwindcss.com/docs/adding-base-styles
       @apply text-main_heavy_1;
       @apply text-lg; 
       @apply font-bold;
+    }
+    h1 {
+      @apply mb-20; 
+    }
+    /* Line height (see: https://tailwindcss.com/docs/line-height) */ 
+    p {
+      @apply leading-relaxed;
     }
 }
