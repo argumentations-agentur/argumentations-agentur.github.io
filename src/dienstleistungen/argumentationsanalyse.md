@@ -7,7 +7,7 @@ title: Argumentationsanalyse
         <div class="max-w-xl mx-auto  xl:max-w-2xl">
             <p class="mb-4 sm:text-1.5xl">In vielen Debatten ist es nicht unmittelbar ersichtlich,</p>
             <ul>
-              <li>welche Thesen mitieinander im Widerspruch stehen,</li>
+              <li>welche Thesen miteinander im Widerspruch stehen,</li>
               <li>wie diese Thesen begründet werden</li>
               <li>und wie kontrovers die Begründungen ihrerseits sind.</li>
             </ul> 
