@@ -6,6 +6,9 @@ description: Capitalize on low hanging fruit to identify a ballpark value added
   clickthroughs from DevOps.
 ---
 
+<!--
+Das kann doch vollkommen weg, oder?
+-->
 
 # <span style="color:#805AD5">[Argumentationsanalyse]({{'/dienstleistungen/argumentationsanalyse' | url }}) </span>
 
