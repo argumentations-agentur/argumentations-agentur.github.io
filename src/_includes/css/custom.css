@@ -4,10 +4,22 @@
   scroll-behavior: smooth;
 }
 
+
+/* Base font size: Base font dependent on screen size */
+/* see https://github.com/tailwindlabs/tailwindcss/discussions/1611*/
 html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-size: 16px;
+  /*see: https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens */
+  hyphens: auto;
 }
-
+/*
+@media(min-width:576px) {
+  html {
+   font-size:16px
+  }
+ }
+*/
 /* scrollbar styles */
 
 @media(min-width: 576px) {
