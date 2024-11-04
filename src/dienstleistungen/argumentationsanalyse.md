@@ -30,7 +30,7 @@ title: Argumentationsanalyse
                        <p class="mt-6 text-base text-gray-600 sm:text-1.5xl">Wir <strong>identifizieren, rekonstruieren, evaluieren und visualisieren</strong> die argumentative Struktur einer Debatte.</p>
                        <p class="text-base text-gray-600 sm:text-1.5xl">Eine Debatte kann in einem Text -- beispielsweise in einem Zeitungsinterview oder einer Erörterung -- stattfinden. Eine Debatte kann auch im öffentlichen Raum -- verteilt auf viele Äußerungen in diversen Medien -- stattfinden. In vielen Debatten bleibt es ohne eine Analyse unklar, welche Positionen darin vertreten werden, wie sich die Positionen zueinander verhalten und worin sie sich jeweils uneinig sind. </p>
                        <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Analyse</h3>
-                       <p class="text-base text-gray-600 sm:text-1.5xl">In unseren Debattenanalysen gehen wir folgenden Fragen nach:</p>
+                       <p class="mt-2 text-base text-gray-600 sm:text-1.5xl">In unseren Debattenanalysen gehen wir folgenden Fragen nach:</p>
                        <ul class="text-base text-gray-600 sm:text-1.5xl">
                         <li>Welche Behauptungen sind in einer Debatte kontrovers?</li>
                         <li>Welche Argumente werden für und gegen die kontroversen Behauptungen vorgebracht?</li>
@@ -38,7 +38,7 @@ title: Argumentationsanalyse
                         <li>Wie stichhaltig sind die vorgebrachten Argumente?</li>
                        </ul>
                        <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Darstellung</h3>
-                       <p class="text-base text-gray-600 sm:text-1.5xl">Ergebnisse unserer Argumentanalysen visualisieren wir bedarfsgerecht:</p>
+                       <p class="mt-2 text-base text-gray-600 sm:text-1.5xl">Ergebnisse unserer Argumentanalysen visualisieren wir bedarfsgerecht:</p>
                          <ul class="text-base text-gray-600 sm:text-1.5xl">
                         <li>Strukturierte Argumentlisten: Pro-Con-Listen oder Checklisten</li>
                         <li>Argumentkarten</li>
@@ -49,11 +49,11 @@ title: Argumentationsanalyse
             <!--Beispiele-Section-->
             <div class="max-w-xl mx-auto  xl:max-w-2xl">
             <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Beispiele für Argumentanalysen</h3>
-               <ul class="text-base text-gray-600 sm:text-1.5xl">
-                  <li>[Rekonstruktion von Argumenten aus einem SPIEGEL-Streitgespräch über COVID-19-Impfpflicht]({{ '/posts/streitgespraech-zur-impfpflicht/' | url}})</li>
+               <ul class="mt-2 text-base text-gray-600 sm:text-1.5xl">
                   <li><a href="https://publikationen.bibliothek.kit.edu/1000028245" target="_blank">Rekonstruktion der Geo-Engineering Debatte</a></li>
                   <li><a href="https://publikationen.bibliothek.kit.edu/1000074060" target="_blank">Rekonstruktion der Argumente aus dem Parteiprogramm der AfD</a></li>
-                  <li>[Klärung einer Kritik an Fridays-for-Future]({{ '/posts/kritik-fff/' | url}})</li>
+                  <li><a href="{{ '/posts/kritik-fff/' | url }}" target="_blank">Klärung einer Kritik an Fridays-for-Future</a></li>
+                  <li><a href="{{ '/posts/streitgespraech-zur-impfpflicht/' | url }}" target="_blank">Rekonstruktion von Argumenten aus einem SPIEGEL-Streitgespräch über COVID-19-Impfpflicht</a></li>
                </ul>
             </div>
    </div>
@@ -62,9 +62,9 @@ title: Argumentationsanalyse
 <!--
 # Beispiele
 
-+ [Rekonstruktion von Argumenten aus einem SPIEGEL-Streitgespräch über COVID-19-Impfpflicht]({{ '/posts/streitgespraech-zur-impfpflicht/' | url}})
 + <a href="https://publikationen.bibliothek.kit.edu/1000028245" target="_blank">Rekonstruktion der Geo-Engineering Debatte</a>
 + <a href="https://publikationen.bibliothek.kit.edu/1000074060" target="_blank">Rekonstruktion der Argumente aus dem Parteiprogramm der AfD</a>
++ [Rekonstruktion von Argumenten aus einem SPIEGEL-Streitgespräch über COVID-19-Impfpflicht]({{ '/posts/streitgespraech-zur-impfpflicht/' | url}})
 + [Klärung einer Kritik an Fridays-for-Future]({{ '/posts/kritik-fff/' | url}})
-
++ [Rekonstruktion von Argumenten aus einem SPIEGEL-Streitgespräch über COVID-19-Impfpflicht](../posts/streitgespraech-zur-impfpflicht.md)
 -->

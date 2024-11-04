@@ -66,7 +66,7 @@ title: Argumentationsmoderation
                                 <div class="p-9">
                                     <img src="{{ '/img/logo_live_reko.svg' | url }}" alt="" class="mt-6 h-12 w-12">
                                     <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Live-Rekonstruktionen</h3>
-                                    <p class="mt-6 text-base text-gray-600 sm:text-1.5xl">Wir rekonstruieren Argumente einer Debatte live</p>
+                                    <p class="mt-6 text-base text-gray-600 sm:text-1.5xl">Wir visualisieren Argumente einer Debatte live</p>
                                     <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#wertkonflikte">Erfahre mehr 
                                       <svg class="overflow-visible ml-3 text-slate-300 group-hover:text-slate-400"
                                       width="3" height="6" viewBox="0 0 3 6" fill="none" stroke="currentColor" stroke-width="2"
@@ -139,7 +139,7 @@ title: Argumentationsmoderation
                        </div>
                        <p class="mt-6 text-base text-gray-600 sm:text-1.5xl">Wir rekonstruieren eine Debatte im Hintergrund. Die dabei entstehende Diskussions-Karte wird live auf eine Wand projiiziert und ist für die Teilnehmer*innen der Diskussion sichtbar.</p>
                        <p class="mt-6 text-base text-gray-600 sm:text-1.5xl"><strong>Diskussions-Karte</strong>: sie visualisiert den argumentativen Verlauf der Diskussion in der Form von Argumentkarten.</p>
-                       <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Beispiele für Argumentanalysen</h3>
+                       <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Beispiele für Live-Rekonstruktionen:</h3>
                         <ul class="text-base text-gray-600 sm:text-1.5xl">
                         <li>Lange Nacht der Wissenschaften, Institut für Philosophie, Freie Universität Berlin</li>
                         <li>Die Zukunftskonferenz von Bündnis90/Die Grünen, Berlin, 2. Juli 2011</a></li>
