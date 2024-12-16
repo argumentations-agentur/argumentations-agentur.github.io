@@ -279,7 +279,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                         <h3 class="mt-2 text-2xl font-bold text-gray-900">Speziell zugeschnittene Workshops</h3>
                       </div>
                       <p class="mt-6 text-base text-gray-600">Wir konzipieren Workshops, die auf ihre spezifischen Bedarfe zugeschnitten sind.</p>
-                      <p class="text-base text-gray-600">Sprechen Sie uns an!</p>
+                      <p class="text-base text-gray-600">Sprecht uns an!</p>
                     </div>
                 </div>
             </div>
