@@ -27,10 +27,10 @@ title: Argumentationsanalyse
                         </div>
                         <h3 class="mt-2 text-2xl font-bold text-gray-900 ">Debattenanalyse</h3>
                        </div>
-                       <p class="mt-6 text-base text-gray-600 sm:text-1.5xl">Wir <strong>identifizieren, rekonstruieren, evaluieren und visualisieren</strong> die argumentative Struktur einer Debatte.</p>
-                       <p class="text-base text-gray-600 sm:text-1.5xl">Eine Debatte kann in einem Text -- beispielsweise in einem Zeitungsinterview oder einer Erörterung -- stattfinden. Eine Debatte kann auch im öffentlichen Raum -- verteilt auf viele Äußerungen in diversen Medien -- stattfinden. In vielen Debatten bleibt es ohne eine Analyse unklar, welche Positionen darin vertreten werden, wie sich die Positionen zueinander verhalten und worin sie sich jeweils uneinig sind. </p>
+                       <p class="mt-6 text-base text-gray-600 sm:text-1.5xl">In vielen Debatten bleibt es ohne eine Analyse unklar, welche Positionen darin vertreten werden, wie sich die Positionen zueinander verhalten und worin sie sich jeweils uneinig sind. </p>
+                       <p class="mt-6 text-base text-gray-600 sm:text-1.5xl">Wir <strong>identifizieren, rekonstruieren, evaluieren und visualisieren</strong> die argumentative Struktur einer Debatte.</p>                       
                        <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Analyse</h3>
-                       <p class="mt-2 text-base text-gray-600 sm:text-1.5xl">In unseren Debattenanalysen gehen wir folgenden Fragen nach:</p>
+                       <p class="mt-2 text-base text-gray-600 sm:text-1.5xl">Eine Debatte kann in einem Text -- beispielsweise in einem Zeitungsinterview oder einer Erörterung -- stattfinden. Eine Debatte kann auch im öffentlichen Raum -- verteilt auf viele Äußerungen in diversen Medien -- stattfinden. In unseren Debattenanalysen gehen wir folgenden Fragen nach:</p>
                        <ul class="text-base text-gray-600 sm:text-1.5xl">
                         <li>Welche Behauptungen sind in einer Debatte kontrovers?</li>
                         <li>Welche Argumente werden für und gegen die kontroversen Behauptungen vorgebracht?</li>
@@ -38,25 +38,39 @@ title: Argumentationsanalyse
                         <li>Wie stichhaltig sind die vorgebrachten Argumente?</li>
                        </ul>
                        <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Darstellung</h3>
-                       <p class="mt-2 text-base text-gray-600 sm:text-1.5xl">Ergebnisse unserer Argumentanalysen visualisieren wir bedarfsgerecht:</p>
+                       <p class="mt-2 text-base text-gray-600 sm:text-1.5xl"> Ergebnisse unserer Argumentanalysen visualisieren wir bedarfsgerecht:</p>
                          <ul class="text-base text-gray-600 sm:text-1.5xl">
                         <li>Strukturierte Argumentlisten: Pro-Con-Listen oder Checklisten</li>
                         <li>Argumentkarten</li>
                        </ul>
-                     </div>
-                  </div>
-               </div>
-            <!--Beispiele-Section-->
-            <div class="max-w-xl mx-auto  xl:max-w-2xl">
-            <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Beispiele für Argumentanalysen</h3>
+                       <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Beispiele für unsere Argumentanalysen</h3>
                <ul class="mt-2 text-base text-gray-600 sm:text-1.5xl">
                   <li><a href="https://publikationen.bibliothek.kit.edu/1000028245" target="_blank">Rekonstruktion der Geo-Engineering Debatte</a></li>
                   <li><a href="https://publikationen.bibliothek.kit.edu/1000074060" target="_blank">Rekonstruktion der Argumente aus dem Parteiprogramm der AfD</a></li>
                   <li><a href="{{ '/posts/kritik-fff/' | url }}" target="_blank">Klärung einer Kritik an Fridays-for-Future</a></li>
                   <li><a href="{{ '/posts/streitgespraech-zur-impfpflicht/' | url }}" target="_blank">Rekonstruktion von Argumenten aus einem SPIEGEL-Streitgespräch über COVID-19-Impfpflicht</a></li>
+                  <li><a href="https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e50a9b9303&appId=PPGMS" target="_blank">Argumente für und gegen die Entwicklung und Nutzung von Twins von Online Social Networks</a></li>
                </ul>
-            </div>
+                     </div>
+                  </div>
+               </div>
+            <!--Beispiele-Section
+            <div class="max-w-xl mx-auto  xl:max-w-2xl">
+            <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Beispiele für unsere Argumentanalysen</h3>
+               <ul class="mt-2 text-base text-gray-600 sm:text-1.5xl">
+                  <li><a href="https://publikationen.bibliothek.kit.edu/1000028245" target="_blank">Rekonstruktion der Geo-Engineering Debatte</a></li>
+                  <li><a href="https://publikationen.bibliothek.kit.edu/1000074060" target="_blank">Rekonstruktion der Argumente aus dem Parteiprogramm der AfD</a></li>
+                  <li><a href="{{ '/posts/kritik-fff/' | url }}" target="_blank">Klärung einer Kritik an Fridays-for-Future</a></li>
+                  <li><a href="{{ '/posts/streitgespraech-zur-impfpflicht/' | url }}" target="_blank">Rekonstruktion von Argumenten aus einem SPIEGEL-Streitgespräch über COVID-19-Impfpflicht</a></li>
+                  <li><a href="https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e50a9b9303&appId=PPGMS" target="_blank">Argumente für und gegen die Entwicklung und Nutzung von Twins von Online Social Networks</a></li>
+               </ul>
+            </div>-->
    </div>
+   <div class="p-1 flex justify-center">
+      <button onclick="location.href='mailto:kontakt@argumentationsagentur.de'" class="mt-4 overflow-hidden text-2xl font-bold bg-white text-gray-800 hover:bg-main_gray hover:text-main_heavy_1 py-2 px-4 rounded focus:outline-none focus:shadow-outline flex items-center">
+      	<img src="{{ '/img/email-svgrepo.svg' | url }}" alt="Logo-Email" class="h-12 w-12 mr-2">Kontaktiere uns!
+      </button>
+	</div> 
 </section>
 
 <!--

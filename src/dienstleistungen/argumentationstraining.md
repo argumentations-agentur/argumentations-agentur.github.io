@@ -24,7 +24,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
               <li><strong>Entscheidungsfindung:</strong> Entscheidungen argumentativ begründen</li>
             </ul> 
             <p>Diese Grundkompetenzen kritischen und reflektierten Urteilens trainieren wir in Workshops, die auf verschiedene Anwendungsfelder zugeschnitten sind:</p>
-          </div>
+        </div>
         <!-- Anfang: Überblickskacheln -->
         <div class="grid max-w-4xl lg:max-w-6xl grid-cols-1 mx-auto mt-8 text-center gap-y-4 sm:gap-x-8 sm:grid-cols-1 lg:grid-cols-2 sm:mt-12 lg:mt-20 sm:text-left">
             <!-- Kachel: Werkzeugkasten 'Kritisches Denken' -->
@@ -174,9 +174,9 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                       <p class="mt-6 text-base text-gray-600">Wie kann man Argumente nutzen, um bei Wertkonflikten zu vermitteln?</p>
                       <p class="text-base text-gray-600">Auseinandersetzungen, in denen vordergründig Werte miteinander im Konflikt stehen, haben meist die folgende Form: Ein Teil einer Gruppe möchte nach rechts gehen, um den kürzeren Weg zum Ziel einzuschlagen; ein anderer Teil möchte nach links gehen, um den schöneren Weg zu gehen. Die Gruppe muss eine Entscheidung finden, wo sie gemeinsam langgeht.</p>
                       <p class="text-base text-gray-600">Argumentationsanalyse kann Sie dabei unterstützen, um bei Meinungsverschiedenheiten dieser Form zu vermitteln. In diesem zwei-tägigen Workshop trainieren wir argumentativen Umgang mit Wertkonflikten.</p>
-                      <h3 class="mt-2 text-base font-bold text-gray-900 ">Ablauf:</h3>
+                      <h3 class="mt-2 text-base font-bold text-gray-900 ">Inhalte:</h3>
                       <ul class="text-base text-gray-600">
-                        <li>Sammeln von Fallbeispielen für Wertkonflikten</li>
+                        <li>Sammeln von Fallbeispielen für Wertkonflikte (erfolgt in der Vorbereitung)</li>
                         <li>Argumentationsanalyse von Wertkonflikten</li>
                         <li>Anwendung auf die Fallbeispiele (Ende Tag 1)</li>
                         <li>Rhetorik und Wertkonflikte</li>
@@ -199,9 +199,9 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                       <p class="mt-6 text-base text-gray-600">Wie kann man Argumente nutzen, um Entscheidungen gut begründet zu finden?</p>
                       <p class="text-base text-gray-600">Strategische Entscheidungen sind häufig kontrovers, weil sie mit zwei Arten von Unsicherheiten behaftet sind: normative und empirische Unsicherheit. Manchmal sind die Ziele oder ihre Gewichtung unsicher, die mit der Entscheidung verfolgt werden sollen (normative Unsicherheit). Manchmal ist es unsicher, welche Mittel mit welchen Kosten zu den festgelegten Ziele führen werden (empirische Unsicherheit).</p>
                       <p class="text-base text-gray-600">Zu diesen Herausforderungen bietet die etablierte Entscheidungstheorie wichtige Ansätze. Argumentationstheorie erlaubt einen umfassenderen Blick auf strategische Entscheidungen. Sie bietet Werkzeuge, um herauszufinden, wie im Lichte der bestehenden Unsicherheiten (seien sie normativ oder empirisch) eine Entscheidung rational begründet werden kann. Das wiederum erlaubt die Auswahl von geeigneten Ansätzen aus der strategischen Planung, Die entsprechenden Werkzeuge aus der Argumentationstheorie stellen wir in diesem zweitägigen Workshop vor und trainieren ihre Anwendung an Fallbeispielen.</p>
-                      <h3 class="mt-2 text-base font-bold text-gray-900 ">Ablauf:</h3>
+                      <h3 class="mt-2 text-base font-bold text-gray-900 ">Inhalte:</h3>
                       <ul class="text-base text-gray-600">
-                        <li>Sammeln von Fallbeispielen für strategische Entscheidungen</li>
+                        <li>Sammeln von Fallbeispielen für strategische Entscheidungen (erfolgt in der Vorbereitung)</li>
                         <li>Argumentationsanalyse von strategischen Entscheidungen</li>
                         <li>Umgang mit normativer Unsicherheit</li>
                         <li>Umgang mit empirischer Unsicherheit</li>
@@ -225,10 +225,13 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                         <h3 class="mt-2 text-2xl font-bold text-gray-900 ">Rhetorik</h3>
                       </div>
                       <p class="mt-6 text-base text-gray-600">Wie argumentiert man überzeugend und kompetent?</p>
-                      <p class="text-base text-gray-600">... to do ...</p>
-                      <h3 class="mt-2 text-base font-bold text-gray-900 ">Ablauf:</h3>
+                      <p class="text-base text-gray-600">Die Identifikation von Argumenten ist das Eine, ihre Kommunikation etwas Anderes. Dieser Workshop fokussiert auf Aspekte, die bedacht werden sollten, wenn Argumente an unterschiedliche Zielgruppen kommuniziert werden.</p>
+                      <h3 class="mt-2 text-base font-bold text-gray-900 ">Inhalte:</h3>
                       <ul class="text-base text-gray-600">
-                        <li>...</li>
+                        <li>Argumente: Was ist das? Was macht es schwer, sie zu kommunizieren?</li>
+                        <li>Vielfalt der Wege, Argumente zu kommunizieren</li>
+                        <li>Zielgruppen-spezifische Kommunikation von Argumenten</li>
+                        <li>Grenzen der argumentativen Kommunikation: was sonst noch alles zu berücksichtigen ist</li>
                       </ul>
                     </div>
                 </div>
@@ -246,10 +249,19 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                         <h3 class="mt-2 text-2xl font-bold text-gray-900 ">Destruktive Argumentation</h3>
                       </div>
                       <p class="mt-6 text-base text-gray-600">Was tun, wenn andere destruktiv argumentieren?</p>
-                      <p class="text-base text-gray-600">... to do ...</p>
-                      <h3 class="mt-2 text-base font-bold text-gray-900 ">Ablauf:</h3>
+                      <p class="text-base text-gray-600">In manchen Kontexten lassen sich andere Gesprächspartner\*innen nicht auf einen argumentativen Austausch ein. Sie ignorieren Einwände, behaupten bekannterweise falsche Tatsachen, provozieren durch Festlegung auf bekanntermaßen kontroverse ethische Behauptungen, geben keinen Raum, um auf ihre Behauptungen zu reagieren ("texten einen voll").</p>
+                      <p class="text-base text-gray-600">In diesem Workshop üben wir, wie Argumentationstheorie uns dabei hilft, mit solchen kommunikativen Situationen umzugehen. </p>
+                      <h3 class="mt-2 text-base font-bold text-gray-900 ">Inhalte:</h3>
                       <ul class="text-base text-gray-600">
-                        <li>...</li>
+                        <li>Argumentative Kommunikation: was sie alles voraussetzt, welche Mittel sie bietet</li>
+                        <li>Analyse destruktiver Argumentation anhand von Fallbeispielen</li>
+                          <ul>
+                            <li>argumentative Analyse</li>
+                            <li>Identifikation von argumentativen Mitteln</li>
+                            <li>Grenzen argumentativer Mittel</li>
+                            <li>Nicht-argumentative Mittel</li>
+                          </ul>
+                        <li>Grenzen der argumentativen Kommunikation: was sonst noch alles zu berücksichtigen ist</li>
                       </ul>
                     </div>
                 </div>
@@ -266,16 +278,17 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                         </div>
                         <h3 class="mt-2 text-2xl font-bold text-gray-900">Speziell zugeschnittene Workshops</h3>
                       </div>
-                      <p class="mt-6 text-base text-gray-600">Wir konzipieren Workshops die auf ihre spezifischen Bedarfe zugeschnitten sind.</p>
-                      <p class="text-base text-gray-600">... to do ...</p>
-                      <h3 class="mt-2 text-base font-bold text-gray-900 ">Ablauf:</h3>
-                      <ul class="text-base text-gray-600">
-                        <li>...</li>
-                      </ul>
+                      <p class="mt-6 text-base text-gray-600">Wir konzipieren Workshops, die auf ihre spezifischen Bedarfe zugeschnitten sind.</p>
+                      <p class="text-base text-gray-600">Sprechen Sie uns an!</p>
                     </div>
                 </div>
             </div>
             <!-- Kachel: Ende-->  
+        </div>
+        <div class="p-1 flex justify-center">
+          <button onclick="location.href='mailto:kontakt@argumentationsagentur.de'" class="mt-4 overflow-hidden text-2xl font-bold bg-white text-gray-800 hover:bg-main_gray hover:text-main_heavy_1 py-2 px-4 rounded focus:outline-none focus:shadow-outline flex items-center">
+            <img src="{{ '/img/email-svgrepo.svg' | url }}" alt="Logo-Email" class="h-12 w-12 mr-2">Kontaktiere uns!
+          </button>
         </div>
     </div>
 </section>

@@ -140,7 +140,7 @@ title: Argumentationsmoderation
                        <p class="mt-6 text-base text-gray-600 sm:text-1.5xl">Wir rekonstruieren eine Debatte im Hintergrund. Die dabei entstehende Diskussions-Karte wird live auf eine Wand projiiziert und ist für die Teilnehmer*innen der Diskussion sichtbar.</p>
                        <p class="mt-6 text-base text-gray-600 sm:text-1.5xl"><strong>Diskussions-Karte</strong>: sie visualisiert den argumentativen Verlauf der Diskussion in der Form von Argumentkarten.</p>
                        <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Beispiele für Live-Rekonstruktionen:</h3>
-                        <ul class="text-base text-gray-600 sm:text-1.5xl">
+                        <ul class="mt-2 text-base text-gray-600 sm:text-1.5xl">
                         <li>Lange Nacht der Wissenschaften, Institut für Philosophie, Freie Universität Berlin</li>
                         <li>Die Zukunftskonferenz von Bündnis90/Die Grünen, Berlin, 2. Juli 2011</a></li>
                         <li>XYZ (Journalisten-Verband)</a></li>
@@ -150,4 +150,9 @@ title: Argumentationsmoderation
                 </div>
             </div>
    </div>
+   <div class="p-1 flex justify-center">
+      <button onclick="location.href='mailto:kontakt@argumentationsagentur.de'" class="mt-4 overflow-hidden text-2xl font-bold bg-white text-gray-800 hover:bg-main_gray hover:text-main_heavy_1 py-2 px-4 rounded focus:outline-none focus:shadow-outline flex items-center">
+      	<img src="{{ '/img/email-svgrepo.svg' | url }}" alt="Logo-Email" class="h-12 w-12 mr-2">Kontaktiere uns!
+      </button>
+	</div> 
 </section>
