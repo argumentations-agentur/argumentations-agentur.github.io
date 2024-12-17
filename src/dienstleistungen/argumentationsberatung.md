@@ -1,17 +1,6 @@
 ---
 title: Argumentationsberatung
 ---
-<!-- Markdown-Graphikeinbindung funktioniert nicht
-![Herausforderung-Entscheidungsfindung](/home/eugen/ArgumentationsAgentur/aa-website-test/src/static/img/entschfind-herausforder.svg)
-
-![Herausforderung-Entscheidungsfindung](/img/entschfind-herausforder.svg)
--->
-
-<!-- callouts funktionieren nicht>
-::: {.callout-note}
-## Herausforderung der Entscheidungsfindung
-:::
--->
 
 <section class="py-12 sm:py-12 lg:py-16">
     <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">

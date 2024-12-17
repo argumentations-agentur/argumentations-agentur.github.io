@@ -18,7 +18,7 @@ Eugen Pissarskoi
 
 ## Kontakt 
 
-Email: 
+[Email](mailto:kontakt@argumentationsagentur.de)
 
 ## Rechtlicher Hinweis
 ### Haftung für Inhalte
@@ -58,6 +58,6 @@ Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Fall
 Diese Seite wurde von ArgumentationsAgentur auf der Basis des statischen Seitengenerators [11ty starter](https://github.com/ttntm/11ty-landing-page) erstellt.
 
 
-Images: Undraw via <a href="https://undraw.co/illustrations" rel="noopener" target="_blank">undraw.co/illustrations</a>
+<!-- Images: Undraw via <a href="https://undraw.co/illustrations" rel="noopener" target="_blank">undraw.co/illustrations</a>    -->
 
-Feature icons: "Webicons" created by Vlad Cristea, obtained via <a href="https://www.graphicdelivery.com/webicons" rel="noopener" target="_blank">www.graphicdelivery.com/webicons</a>
+Feature icons: https://www.svgrepo.com/ 

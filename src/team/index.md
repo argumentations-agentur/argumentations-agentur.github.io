@@ -17,24 +17,21 @@ title: Unser Team
                 class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4">
                 <div class="">
                     <a href="#"
-                        class="text-gray-900 font-bold text-xl mb-2 hover:text-indigo-600 transition duration-500 ease-in-out">Dr. Eugen Pissarskoi</a>
+                        class="text-gray-900 font-bold text-xl mb-2 hover:text-indigo-600 transition duration-500 ease-in-out">Eugen Pissarskoi, Dr.phil.</a>
                     <p class="text-sm text-gray-600">
                         Gründer & Trainer
                     </p>
                     <p class="text-gray-500 text-base mt-4">
-                    Eugen ist wissenschaftlicher Mitarbeiter am Internationalen Zentrum für Ethik in den Wissenschaften der Universität Tübingen. Seine Forschungsschwerpunkte sind: Entscheidungen unter Unsicherheit; Methoden angewandter Ethik, Klimaethik sowie Philosophie der Ökonomik. 
-                    </p>
+                    Eugen hat Philosophie und Volkswirtschaftslehre studiert und wurde in Philosophie mit einer <a href="https://www.oekom.de/buch/gesellschaftliche-wohlfahrt-und-kimawandel-9783865816856" target="_blank">Arbeit zu Klimaethik</a> promoviert. Methoden der Argumentanalyse hat er seitdem in seiner Forschungs- und Beratungstätigkeit am Institut für ökologische Wirtschaftsforschung in Berlin, am Internationalen Zentrum für Ethik in den Wissenschaften der Universität Tübingen sowie am Karlsruher Institut für Technologie angewandt.</p>
                     <p class="text-gray-500 text-base mt-4">
-                    Eugen ist wissenschaftlicher Mitarbeiter am Internationalen Zentrum für Ethik in den Wissenschaften der Universität Tübingen. Seine Forschungsschwerpunkte sind: Entscheidungen unter Unsicherheit; Methoden angewandter Ethik, Klimaethik sowie Philosophie der Ökonomik.
+                    Inhaltliche Schwerpunkte seiner Arbeit sind: Entscheidungen unter Unsicherheit; Methoden angewandter Ethik, Klima- und Nachhaltigeitsethik sowie Philosophie der Ökonomik.
                     </p>
                     <div class="my-4 flex gap-2">
-                        <a href="#" target="_blank">
-                            <img src="{{ '/img/linkedin-logo.svg' | url }}" alt="" class="h-6 w-6"/>
-                        </a>
-                        <a href="#" target="_blank">
-                            <img src="{{ '/img/twitter-logo.svg' | url }}" alt="" class="h-6 w-6"/>
-                        </a>
-                        <a href="#">
+                        <a href="http://eugenpissarskoi.de/" target="_blank">Webseite von Eugen</a>
+                    </div>
+                    <div class="my-4 flex gap-2">
+                        <a href="mailto:eugen@argumentationsagentur.de" target="_blank">
+                            <img src="{{ '/img/email-svgrepo.svg' | url }}" alt="" class="h-6 w-6"/>
                         </a>
                     </div>
                 </div>
@@ -58,6 +55,9 @@ title: Unser Team
                     Sebastian ist studierter Philosoph und Physiker und derzeit wissenschaftlicher Mitarbeiter am Karlsruher Institut für Technologie. Zu seinen Forschungsschwerpunkten gehören Argumentationstheorie, angewandte Ethik und Wissenschaftstheorie. Er hat langjährige Erfahrungen in der Hochschullehre und der Anwendung argumentationstheoretischer Methoden auf gesellschaftsrelevante Themen. 
                     </p>
                     <div class="my-4 flex gap-2">
+                        <a href="https://sebastiancacean.de/" target="_blank">Webseite von Sebastian</a>
+                    </div>
+                    <div class="my-4 flex gap-2">
                         <a href="#" target="_blank">
                             <img src="{{ '/img/linkedin-logo.svg' | url }}" alt="" class="h-6 w-6"/>
                         </a>
@@ -66,6 +66,10 @@ title: Unser Team
                         </a>
                         <a href="#">
                         </a>
+                        <a href="mailto:sebastian@argumentationsagentur.de" target="_blank">
+                            <img src="{{ '/img/email-svgrepo.svg' | url }}" alt="" class="h-6 w-6"/>
+                        </a>
+                    </div>
                     </div>
                 </div>
             </div>

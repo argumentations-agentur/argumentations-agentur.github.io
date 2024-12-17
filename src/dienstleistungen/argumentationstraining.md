@@ -246,7 +246,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                             class="mr-3 inline-flex items-center justify-center flex-shrink-0">
                             <img src="{{ '/img/logo_destruktive_argumentation.svg' | url }}" alt="" class="mt-2 h-12 w-12">
                         </div>
-                        <h3 class="mt-2 text-2xl font-bold text-gray-900 ">Destruktive Argumentation</h3>
+                        <h3 class="mt-2 text-2xl font-bold text-gray-900 ">Umgang mit destruktiver Argumentation</h3>
                       </div>
                       <p class="mt-6 text-base text-gray-600">Was tun, wenn andere destruktiv argumentieren?</p>
                       <p class="text-base text-gray-600">In manchen Kontexten lassen sich andere Gesprächspartner\*innen nicht auf einen argumentativen Austausch ein. Sie ignorieren Einwände, behaupten bekannterweise falsche Tatsachen, provozieren durch Festlegung auf bekanntermaßen kontroverse ethische Behauptungen, geben keinen Raum, um auf ihre Behauptungen zu reagieren ("texten einen voll").</p>

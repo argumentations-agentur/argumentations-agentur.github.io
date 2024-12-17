@@ -137,14 +137,18 @@ title: Argumentationsmoderation
                         </div>
                         <h3 class="mt-2 text-2xl font-bold text-gray-900 ">Live-Rekonstruktion</h3>
                        </div>
-                       <p class="mt-6 text-base text-gray-600 sm:text-1.5xl">Wir rekonstruieren eine Debatte im Hintergrund. Die dabei entstehende Diskussions-Karte wird live auf eine Wand projiiziert und ist für die Teilnehmer*innen der Diskussion sichtbar.</p>
-                       <p class="mt-6 text-base text-gray-600 sm:text-1.5xl"><strong>Diskussions-Karte</strong>: sie visualisiert den argumentativen Verlauf der Diskussion in der Form von Argumentkarten.</p>
+                       <p class="mt-6 text-base text-gray-600 sm:text-1.5xl">Wir rekonstruieren eine Debatte im Hintergrund. Die dabei entstehende <strong>Diskussions-Karte</strong> wird live auf eine Wand projiiziert und ist für die Teilnehmer*innen der Diskussion sichtbar.</p>
+                        <ul class="text-base text-gray-600 sm:text-1.5xl">
+                          <li> Die Diskussionskarte visualisiert den argumentativen Verlauf der Diskussion in der Form von <a href="http://www.argunet.org/wordpress-argunet-2/wp-content/uploads/2018/10/argdown-sandbox-soft-drugs-1.png">Argumentkarten</a>.</li>
+                        </ul>
                        <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Beispiele für Live-Rekonstruktionen:</h3>
                         <ul class="mt-2 text-base text-gray-600 sm:text-1.5xl">
-                        <li>Lange Nacht der Wissenschaften, Institut für Philosophie, Freie Universität Berlin</li>
-                        <li>Die Zukunftskonferenz von Bündnis90/Die Grünen, Berlin, 2. Juli 2011</a></li>
-                        <li>XYZ (Journalisten-Verband)</a></li>
-                        <li>Internationale Konferenz "Complementary Medicine in Healthcare", Institute für Geschichte und Ethik der Medizin, Universität Halle-Wittenberg, Februar 2023</li>
+                          <li>Lange Nacht der Wissenschaften, Institut für Philosophie, Freie Universität Berlin, 2007</li>
+                          <li>Die Zukunftskonferenz von Bündnis90/Die Grünen, Berlin, 2. Juli 2011</a></li>
+                            <ul class="mt-2 text-base text-gray-600 sm:text-1.5xl">
+                              <li> <a href="http://www.argunet.org/2014/08/21/argument-maps-for-debate-moderation/">Dieser Blogbeitrag</a> reflektiert die Lehren, die wir aus den ersten Erfahrungen mit Live-Rekonstruktionen gezogen haben.
+                            </ul>
+                          <li>Internationale Konferenz "Complementary Medicine in Healthcare", Institute für Geschichte und Ethik der Medizin, Universität Halle-Wittenberg, Februar 2023</li>
                         </ul>
                     </div>
                 </div>

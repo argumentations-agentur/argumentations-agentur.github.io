@@ -43,7 +43,7 @@ title: Argumentationsanalyse
                         <li>Strukturierte Argumentlisten: Pro-Con-Listen oder Checklisten</li>
                         <li>Argumentkarten</li>
                        </ul>
-                       <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Beispiele für unsere Argumentanalysen</h3>
+                       <h3 class="mt-2 text-base font-bold text-gray-900 sm:text-2xl">Beispiele für unsere Argumentationsanalysen</h3>
                <ul class="mt-2 text-base text-gray-600 sm:text-1.5xl">
                   <li><a href="https://publikationen.bibliothek.kit.edu/1000028245" target="_blank">Rekonstruktion der Geo-Engineering Debatte</a></li>
                   <li><a href="https://publikationen.bibliothek.kit.edu/1000074060" target="_blank">Rekonstruktion der Argumente aus dem Parteiprogramm der AfD</a></li>
