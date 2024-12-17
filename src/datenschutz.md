@@ -16,7 +16,7 @@ Wir, der Websitebetreiber, erheben keine personenbezogenen Daten über Zugriffe 
 ### Cookies
 
 Wir verwenden für den Betrieb der Seite keine Cookies.
-
+<!--
 #### Website enhancements ####
 
 This website uses the follwing packages from <a href="https://unpkg.com" rel="noopener" target="_blank" title="UNPKG">unpkg.com</a>:
@@ -25,7 +25,7 @@ This website uses the follwing packages from <a href="https://unpkg.com" rel="no
 - &dash; tippy.js
 
 Using these packages, personal data may be transmitted.
-
+-->
 ### Rechte des Nutzers
 
 Sie haben als Nutzer das Recht, auf Antrag eine kostenlose Auskunft darüber zu erhalten, welche personenbezogenen Daten über Sie gespeichert wurden. Sie haben außerdem das Recht auf Berichtigung falscher Daten und auf die Verarbeitungseinschränkung oder Löschung Ihrer personenbezogenen Daten. Falls zutreffend, können Sie auch Ihr Recht auf Datenportabilität geltend machen. Sollten Sie annehmen, dass Ihre Daten unrechtmäßig verarbeitet wurden, können Sie eine Beschwerde bei der zuständigen Aufsichtsbehörde einreichen.
