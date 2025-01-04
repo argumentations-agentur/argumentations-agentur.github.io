@@ -41,7 +41,7 @@ title: Unser Team
         <div class="max-w-sm w-full lg:max-w-full lg:flex mx-auto my-10">
             <div class="h-48 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center border-r border-t border-l border-gray-400 lg:border-r-0 lg:border-b lg:border-gray-400 bg-white"
                 title="Sebastian Cacean">
-                <img class="w-28 mx-auto my-6 rounded-full" src="{{ '/img/cacean-sw.jpg' | url }}">
+                <img class="w-28 mx-auto my-6 rounded-full" src="{{ '/img/cacean-sw-2.jpg' | url }}">
             </div>
             <div
                 class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4">
@@ -58,13 +58,9 @@ title: Unser Team
                         <a href="https://sebastiancacean.de/" target="_blank">Webseite von Sebastian</a>
                     </div>
                     <div class="my-4 flex gap-2">
-                        <a href="#" target="_blank">
+                        <a href="https://www.linkedin.com/in/sebastian-cacean/" target="_blank">
                             <img src="{{ '/img/linkedin-logo.svg' | url }}" alt="" class="h-6 w-6"/>
                         </a>
-                        <a href="#" target="_blank">
-                            <img src="{{ '/img/twitter-logo.svg' | url }}" alt="" class="h-6 w-6"/>
-                        </a>
-                        <a href="#">
                         </a>
                         <a href="mailto:sebastian@argumentationsagentur.de" target="_blank">
                             <img src="{{ '/img/email-svgrepo.svg' | url }}" alt="" class="h-6 w-6"/>
