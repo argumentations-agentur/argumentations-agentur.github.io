@@ -39,7 +39,8 @@ module.exports = function (eleventyConfig) {
 
   // Copy .nojekyll to route of /_site (since we are publishing from branch that is pushed via npm gh-pages thing (see deploy-script in package.json))
   eleventyConfig.addPassthroughCopy("./src/.nojekyll");
-
+  // Copy .CNAME file to /_site
+  eleventyConfig.addPassthroughCopy("./src/CNAME");
 
   // Markdown
   eleventyConfig.setLibrary( 'md', mdiInstance )
