@@ -1,6 +1,6 @@
 ---
 title: Soll sich München um die Olympischen Spiele 2036/40/44 bewerben?
-description: Welche Argumente sprechen dafür, dass sich die Stadt München um die Ausrichtung der Olympischen Spiele in den Jahren 2036-44 bewirbt, und was spricht dagegen? Und gegeben all die Argumente dafür und dagegen, wie gelange ich zu einer refkeltierten Einschätzung darüber, ob ich die Bewerbung unterstützen oder ablehnen soll? -- eine Reflexionsanleitung
+description: Welche Argumente sprechen dafür, dass sich die Stadt München um die Ausrichtung der Olympischen Spiele in den Jahren 2036-44 bewirbt, und was spricht dagegen? Und gegeben all die Gründe dafür und dagegen, wie gelange ich zu einer refkeltierten Einschätzung darüber, ob ich die Bewerbung unterstützen oder ablehnen soll? -- eine Reflexionsanleitung
 author: Eugen Pissarskoi
 date: 2025-10-20
 ---
