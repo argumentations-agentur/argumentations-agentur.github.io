@@ -410,7 +410,7 @@ Die Kontroverse in der Beurteilung der Erwünschtheit der Olympischen Spiele res
 
 <p class="abstand-top">
 
-**Zwischenfazit**
+### Zwischenfazit
 </p>
 
 Bereits diese Argumentrekonstruktion verdeutlicht Folgendes:
@@ -544,10 +544,12 @@ Es ist nicht feststellbar, ob die erwarteten postivien Konsequenzen aus einer Au
 (3) Es ist ingesamt für die Stadt und ihre Bewohner\*innen besser, die erstrebenswerten Stadtentwicklungsprojekte ohne Zuschüsse von Land und Bund zu realisieren.
 
 ```
+<p class="abstand-bottom">
 
 ### Pro-Argumente
+</p>
 
-#### **Analogie-Argument: Positive Erfahrungen von Paris und London**
+**Analogie-Argument: Positive Erfahrungen von Paris und London**
 
 <p>
 Die Behauptung "Abwägung Pro-Olympia" (die besagt, dass die erwarteten Vorteile aus den Olympischen Spielen für die Stadt München insgesamt bedeutsamer sind als die erwarteten Nachteile) lässt sich am besten mit Verweis auf analoge Fälle in neuerer Vergangenheit rechtfertigen. So sollen die Spiele in vergleichbaren europäischen Großstädten wie Paris und London keine Finanzlasten für die Stadthaushalte hinterlassen und die erwarteten positiven Konsequenzen (stadtbauliche Maßnahmen, Sportförderung, Erlebnisse) realisiert haben. Das ist die Idee des Arguments "Positive Erfahrungen von Paris und London"<sup><a href="#footnote2" id="footnote-ref2">2</a></sup>. Dieses Argument enthält eine kontroverse Prämisse, nämlich:
@@ -557,19 +559,22 @@ Die Behauptung "Abwägung Pro-Olympia" (die besagt, dass die erwarteten Vorteile
  
 Diese Prämisse artikuliert ein plausibles Prinzip zur Handlungsorientierung, wenn sichere Vorhersagen nicht verfügbar sind. Sie macht auch deutlich, welche Art von Einwänden Gegner\*innen vorbringen können: Strukturelle Unterschiede zwischen den vergangenen Olympischen Spielen und denen in München bekannt, die nahe legen, dass die positiven und negativen Konsequenzen unterschiedlich sind. 
 
-#### **Zuschüsse von Bund und Land für die Ausrichtung der Spiele**
+**Zuschüsse von Bund und Land für die Ausrichtung der Spiele**
 
 Die Behauptung, dass die Durchführung der Olympischen Spiele ein besonders effizientes Mittel für den Ausbau der städtischen Infrastruktur darstellt, wird damit begründet, dass der Zuschlag für die Ausrichtung durch das IOC zusätzliche Finanzmittel in die Stadt lenkt, insbesondere Zuschüsse aus Bundes- und Landesmitteln. Ohne eine erfolgreiche Bewerbung würde der Ausbau der städtischen Infrastruktur deutlich stärker den Stadthaushalt belasten. 
 
-### **Contra-Argumente**
+<p class="abstand-bottom">
 
-#### **Risiken aus der möglichen Einflussnahme durch das IOC unkalkulierbar**
+### **Contra-Argumente**
+</p>
+
+**Risiken aus der möglichen Einflussnahme durch das IOC unkalkulierbar**
 
 Dieses Argument begründet die Prämisse im Einwand gegen die Olympia-Bewerbung ("Abwägung Contra-Olympia"), gemäß der es nicht der Fall ist, dass die erwrateten Vorteile aus der Olympia-Bewerbung die erwarteten Nachteile überwiegten. Die Grundidee dieses Argumentes ist die folgende:
 
 * Solange die Verträge mit dem IOC nicht ausgehandelt sind, ist es nicht realistisch, Prognosen über die Vor- und Nachteile von Olympischen Spielen in München anzustellen. Das IOC verfolgt eigene Ziele, von denen einige mit den Zielen der Stadt nicht im Einklang stehen. Beispielsweise gilt dies für das Bestreben des IOCs, möglichst hohe Einnahmen aus der Vermarktung der Spiele zu generieren. Es ist deshalb zu erwarten, dass das IOC Bedingungen durchsetzen wollen wird, die diesem Ziel dienen, selbst wenn damit einige Ziele der ausrichtenden Stadt (wie Umwelt- und Naturschutz, Minimierung von Neubauten, Mobilitätsinfrastruktur) aufgegeben werden müssen. Welche der aktuell anvisierten positiven Konsequenzen die Stadt tatsächlich realisieren können wird und welche der möglichen Nachteile sie tatsächlich vermeiden können wird, das wird sich erst nach der Aushandlung der Verträge mit dem IOC beurteilen können. 
 
-#### **Alternative: Stadtentwicklung selbst in die Hand nehmen**
+**Alternative: Stadtentwicklung selbst in die Hand nehmen**
 
 Um den Einwand gegen eine Olympia-Bewerbung "Bessere Alternativen zu Olympia-Ausrichtung" zu begründen, muss mindestens ein alternativer Weg aufgezeigt werden, mit dem die erwarteten positiven Konsequenzen aus einer Olympia-Ausrichtung mit geringeren negativen Konsequenzen realisiert werden. 
 
@@ -590,7 +595,10 @@ Beim Zwischenfazit haben wir bereits gesehen, dass die Befürworter\*innen und d
 
 * Die Bewertung der Befürworter\*innen resultiert insbesondere aus einer anderen Bewertung der Nachteile aus einer Kooperation mit dem IOC und der Vorteile der finanziellen Zuschüsse für die Weiterentwicklung der städtischen Infrastruktur
 
-**Lehren aus der Rekonstruktion**
+<p class="abstand-bottom">
+
+### Lehren aus der Rekonstruktion
+</p>
 
 Für eine überzeugende Kommunikation ihrer jeweiligen Positionen müssten die Befürworter\*innen und die Gegner\*innen folgende Behauptungen stärken:
 
@@ -606,7 +614,10 @@ Die Argumentrekonstruktion zeigt aber auch, dass es einen Weg gibt, dem zentrale
 
 ----
 ----
+<p class="abstand-bottom">
+
 ### Anmerkungen:
+</p>
 
   <div class="footnotes">
   <ol>
