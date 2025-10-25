@@ -19,7 +19,7 @@ Viele Überblicke über die Gründe für und gegen eine Bewerbung Münchens enth
 * auf der [Webseite der Münchner Olympiabewerbung](https://www.olympiabewerbung-muenchen.com/#fuer-olympia) werden 14 vermeintliche Gründe für die Bewerbung genannt;
 * [Merkur](https://www.merkur.de/lokales/muenchen/muenchen-olympija-oder-nolympia-pro-contra-buergerentscheid-olympia-in-93981355.html) hat einen Überblick über 10 Pro- und  10-Contra Gesichtspuntke veröffentlicht;
 * [Radiogong](https://www.radiogong.de/olympia-bewerbung-muenchen-sommer-spiele-pro-und-kontra-olympiaparkt2025-2036-2040-2044) hat eine weitere Übersicht über Pro- und Contra-Gesichtspunkte erstellt.
-* Solche Listen lassen sich auch leicht mit sprachgenerierenden Chatbots erstellen. <!-- [Le Chat von Mistral](https://chat.mistral.ai/chat) hat beispielsweise Listen generiert, die Punkte von den oben erwähnten Listen enthalten.-->
+* Analoge Listen lassen sich auch leicht mit sprachgenerierenden Chatbots erstellen. <!-- [Le Chat von Mistral](https://chat.mistral.ai/chat) hat beispielsweise Listen generiert, die Punkte von den oben erwähnten Listen enthalten.-->
 
 In der Begründung des Stadtrats zum Bürgerentscheid werden folgende Gründe genannt:
 
@@ -73,7 +73,7 @@ Hier ist eine andere Karte:
 ![Liste von Gesichtspunkten für eine Olympia-Bewerbung](./img/pro-gruende-liste.png)
 -->
 
-Von diesen sechs Punkten sind die ersten zwei keine direkten Gründe für eine Bewerbung Münchens. Dass Wettkampfstätten nachhaltig gebaut werden, stellt keinen Grund dafür dar, Olympische Spiele auszurichten. Man richtet sie ja nicht aus, um Wettkampfstätten zu bauen. Dieser Punkt spielt eine andere argumentative Rolle: es soll einen möglichen Einwand gegen die Ausrichtung der Olympischen Spiele entkräften, nämlich, dass mit der Ausrichtung der Umwelt geschädigt oder Ressourcen verschwendet werden würden. 
+Von diesen sechs Punkten sind die ersten zwei keine direkten Gründe für eine Bewerbung Münchens. Dass Wettkampfstätten nachhaltig gebaut werden, stellt keinen Grund dafür dar, Olympische Spiele auszurichten. Man richtet sie ja nicht aus, um Wettkampfstätten zu bauen. Dieser Punkt spielt eine andere argumentative Rolle: er soll einen möglichen Einwand gegen die Ausrichtung der Olympischen Spiele entkräften, nämlich, dass mit der Ausrichtung der Umwelt geschädigt oder Ressourcen verschwendet werden würden. 
 
 Wie kann man nun angesichts dieser Vielzahl von Pro- und Contra-Gründen zu einer reflektierten Entscheidung gelangen, ob die Bewerbung Münchens unterstützt werden soll oder nicht?
 
@@ -83,12 +83,11 @@ Wie kann man nun angesichts dieser Vielzahl von Pro- und Contra-Gründen zu eine
 
   </p>
 
-  Zunächst sortiere ich die in den Überblickslisten vorgebrachten Gesichtspunkte im Hinblick auf ihre dialektische Rolle mit dem Ziel, beitragende Gründe für und gegen eine Olympia-Bewerbung Münchens zu finden. Einige der vorgebrachten Gesichtspunkte stellen sich dabei als unterstützenden Gründe für die beitragenden Gründe heraus, andere als Einwände gegen die Behauptungen der Gegenseite, einige auch als rhetorische Mittel (d.h. Behauptungen, denen keine argumentative Rolle zukommt).
+  Zunächst müssen die in den Überblickslisten vorgebrachten Gesichtspunkte sortiert werden. Das Kriterium für die Sortierung lautet: die dialektische Rolle der vorgebrachten Gesichtspunkten. Der Zweck dieses Sortierens liegt darin, beitragende Gründe für und gegen eine Olympia-Bewerbung Münchens zu identifizieren. 
+  
+  Einige der vorgebrachten Gesichtspunkte stellen sich beispielsiwese als unterstützende Gründe für die beitragenden Gründe heraus, andere als Einwände gegen die Behauptungen der Gegenseite, einige auch als rhetorische Mittel (d.h. Behauptungen, denen keine argumentative Rolle zukommt).<sup><a href="#footnote1" id="footnote-ref1">1</a></sup> 
 
-
-
-
-Die nachfolgende Graphik bildet das Ergebnis der Identifikation von **Gründen für eine Bewerbung** Münchens ab:
+Die nachfolgende Graphik bildet das Ergebnis meiner Identifikation von **Gründen für eine Bewerbung** Münchens ab:
 
 ```argdown-map
 ===
@@ -155,9 +154,10 @@ selection:
 [9. Einzigartige Erlebnisse für Stadtbewohner*innen]: Ausrichtung von Olympischen Spielen in München schafft einzigartige emotionale Erlebnisse in der Stadt. #(pro)
 
 ```
-Die grün umrandeten Kästchen repräsentieren jeweils einen beitragenden Grund für die Bewerbung. Die beitragenden Gründe lassen sich in zwei Gruppen sortieren:
+Die grün umrandeten Kästchen repräsentieren jeweils einen beitragenden Grund für die Bewerbung. Sie habe ich in zwei Gruppen unterteilt:
 * Eine erfolgreiche Olympia-Bewerbung Münchens trägt zur Realisierung von wichtigen Stadtentwicklungsprojekten bei;
 * Eine erfolgreiche Olympia-Bewerbung Münchens bringt weitere positive Konsequenzen für die Stadt und ihre Bewoher\*innen.
+
 Die grün ausgefüllten Kästchen repräsentieren zwei Argumente, die für einzelne beitragende Gründe vorgebracht werden. 
 
 Die nachfolgende Graphik bildet die vorgebrachten **Gründe gegen eine Bewerbung** ab:
@@ -216,7 +216,7 @@ selection:
 ```
 
 Die vorgebrachten Einwände gegen die Olympia-Bewerbung Münchens lassen sich in drei Gruppen unterteilen:
-* Durchführung der Olympischen Spiele wird zu negativen Konsequenzen in München führen:
+* Durchführung der Olympischen Spiele wird zu negativen sozialen und ökologischen Konsequenzen in München führen:
 * Durchführung der Olympischen Spiele ist mit hohen Kosten und Finanzrisiken für den Stadthaushalt verbunden;
 * Durchführung der Olympischen Spiele erfordert Kooperation mit einem unfairen Partner, dem Internationalen Olympischen Komitee. 
 
@@ -228,7 +228,7 @@ Die vorgebrachten Einwände gegen die Olympia-Bewerbung Münchens lassen sich in
 Die identifizierten Gründe für und gegen die Bewerbung unterstellen zahlreiche empirische Behauptungen, meist von der Form: 
 * Ausrichtung der Olympischen Spiele wird zu denen und jenen Konsequenzen führen (und diese Konsequenzen sind positiv/negativ für die Stadt).
 
-Die Plausibilität der Gründe hängt entscheidend von der Plausibilität der darin behaupteten Konsequenzen ab. 
+Die Plausibilität der Gründe hängt entscheidend von der Plausibilität dessen ab, ob die darin behaupteten Konsequenzen tatsächlich eintreten werden. 
 
 Vorhersagen von langfristigen sozial-ökonomischen Konsequezen von politischen Maßnahme sind meist sehr unsicher bzw. schwer zu belegen. Dies gilt auch in Bezug auf viele diskutierte Konsequenzen aus der Durchführung von Olympischen Spielen:
 
@@ -238,11 +238,11 @@ Vorhersagen von langfristigen sozial-ökonomischen Konsequezen von politischen M
 
 * Invesititonskosten und Finanzrisiken: hierzu hat eine [Studie](https://www.olympiabewerbung-muenchen.com/app/uploads/2025/10/MCube_Olympia_Studie.pdf) im Auftrag der Stadt München eine Prognose mit mehreren Szenarien ersellt. In einem [Artikel in der Süddeutschen Zeitung](https://www.sueddeutsche.de/projekte/artikel/politik/olympia-bewerbung-faktencheck-pro-contra-e104509/) gibt es einen Überblick über Kostenschätzungen und Kosten der vergangenen Spiele. Diese Überblicke verdeutlichen, dass auch die Abschätzung von Kosten sowie von erwarteten Gewinnen für die lokale Wirtschaft mit vielen Unsicherheiten behaftet ist.
 
-Unabhängig davon bleiben Gründe, deren behauptete Konsequenzen unbestreitbar sind:
+Unabhängig davon bleiben Gründe, deren behaupteten Konsequenzen unbestreitbar sind:
 * die Durchführung von Olympischen Spielen wird die Realisierung von städtischen Infrastrukturprojekten beschleunigen und sie für die Stadt kostengünstiger machen; Olympische Spiele werden emotionale Erlebnisse liefern, möglicherweise gesellschaftlichen Zusammenhalt stärken und Breitensport populärer machen.  
 * Durchführung von Olympischen Spielen wird zusätzliche Investitionen durch die Stadt München erfordern. Es ist möglich, dass die Ausrichter auf einem höheren Teil der Kosten sitzen bleiben als ursprünglich geplant. Es ist möglich, dass das IOC der Stadt unerwünschte Bedingungen für die Durchführung der Spiele diktiert.
 
-Die nachfolgende Graphik repräsentiert die nun entstandene Dialektik: Es gibt beitragende Gründe, die für die Durchführung der Spiele sprechen, und Gründe dagegen. Wie sehen nun Argumente aus, die im Lichte dieser beitragenden Pro- und Contra-Gründe die Entscheidung für und gegen die Olympia-Bewerbung Münchens rechtfertigen? -- in der Graphik sind sie als Fragezeichen symbolisiert. 
+Die nachfolgende Graphik repräsentiert die nun entstandene Dialektik: Es gibt beitragende Gründe, die für die Durchführung der Spiele sprechen (grün umrandete Kästchen in der untersten Reihe), und Gründe dagegen (orange umrandet in der untersten Reihe). Wie sehen nun Argumente aus, die im Lichte dieser beitragenden Pro- und Contra-Gründe die Entscheidung für und gegen die Olympia-Bewerbung Münchens rechtfertigen? -- in der Graphik sind sie als Fragezeichen symbolisiert (orange bzw. grün ausgefüllte Kästchen). 
 
 ```argdown-map
 ===
@@ -301,7 +301,7 @@ selection:
   ## Schritt 3: Rekonstruktion der Grundargumente
 </p>
 
-Die nachfolgende Graphik bildet die dialektische Struktur der von mir ergänzten Argumente für ("Pro-Argument für Olympia") und gegen ("Contra-Argument gegen Olympia-Bewerbung") eine Olympia-Bewerbung im Lichte der vorgebrachten Vor- und Nachteile. 
+Die nachfolgende Graphik bildet die dialektische Struktur der von mir ergänzten Argumente für ("Pro-Argument für Olympia") und gegen ("Contra-Argument gegen Olympia-Bewerbung") eine Olympia-Bewerbung im Lichte der vorgebrachten Vor- und Nachteile ab. 
 
 ```argdown-map
 ===
@@ -387,12 +387,12 @@ Es ist nicht feststellbar, ob die erwarteten postivien Konsequenzen aus einer Au
 
 ```
 
-Beide Argumente bestehen aus jeweils fünf Prämissen. (Alle Prämissen der rekonstruierten Argumente können durch einen Klick auf das "Source"-Symbol in der Argdown-Graphik angezeigt werden.)
+Beide Argumente bestehen aus jeweils fünf Prämissen. (Alle Prämissen der rekonstruierten Argumente können durch einen Klick auf das "Source"-Symbol in der Graphik angezeigt werden.)
 
 Die ersten drei Prämissen sind unter den Befürworter\*innen und den Gegner\*innen der Olympia-Bewerbung unumstritten (sie sind in der Graphik entsprechend gruppiert): 
 * die erste Prämisse beinhaltet die angeführten Vorteile für die Stadt aus der Durchführung Olympischer Spiele;
 * die zweite Prämisse beinhaltet die angeführten Nachteile für die Stadt aus der Durchführung der Spiele;
-* die dritte Prämisse (**Prinzip zur Abwägung zwischen Vor-und Nachteilen**) macht ein generelles Schlussfolgerungsprinzip explizit, das erlaubt, im Lichte von Vor- und Nachteilen einer Maßnahme darauf zu schlussfolgern, dass die Maßnahme realsiiert werden soll. Insbesondere macht es zwei Bedingungen explizit, die erfüllt sein müssen, damit die Handlungsempfehlung folgt, dass die Maßnahme realisiert werden sollte:
+* die dritte Prämisse (**Prinzip zur Abwägung zwischen Vor-und Nachteilen**) macht ein generelles Schlussfolgerungsprinzip explizit, das erlaubt, im Lichte von Vor- und Nachteilen einer Maßnahme darauf zu schlussfolgern, dass die Maßnahme realsiiert werden soll. Sie macht zwei Bedingungen explizit, die erfüllt sein müssen, damit die Handlungsempfehlung folgt, dass die Maßnahme realisiert werden sollte:
   (i) die erwarteten Vorteile aus der Realisierung der Maßnahme überwiegen insgesamt die erwarteten Nachteile aus ihrer Realisierung;
   (ii) es gibt keinen alternativen Weg außer der in Frage stehenden Maßnahme, um die erwarteten Vorteile mit geringeren erwarteten Nachteilen zu realisieren.
 
@@ -402,8 +402,9 @@ Die Kontroverse in der Beurteilung der Erwünschtheit der Olympischen Spiele res
   * die erwarteten Vorteile aus der Durchführung Olympischer Spiele die Risiken überwiegen (Prämisse 4 **Abwägung Pro-Olympia** im Pro-Argument);
   * es keinen anderen Weg gibt, all die Vorteile für die Stadt zu realisieren, ohne die Risiken in Kauf zu nehmen (Prämisse 5 **Optimalität der Olympia-Bewerbung** im Pro-Argument).
 
+<p class="abstand-top">
 
-* die **Gegner\*innen der Bewerbung** sind darauf festgelegt, dass mindestens eine der beiden Bedingungen nicht erfüllt ist:
+* die **Gegner\*innen der Bewerbung** sind darauf festgelegt, dass mindestens eine der beiden Bedingungen nicht erfüllt ist:</p>
   * entweder dass die Risiken aus der Durchführung der Olympischen Spiele die erwarteten Vorteile für die Stadt überwiegen (Prämisse 4 **Abwägung Contra-Olympia** im Contra-Argument) 
   * oder dass es andere Wege gibt, die Vorteile, die die Stadt aus der Olympia-Bewerbung und -Durchführung hätte, mit geringeren Risiken zu realisieren (Prämisse 5 **Bessere Alternativen zu Olympia-Ausrichtung** im Contra-Argument). 
 
@@ -549,7 +550,7 @@ Es ist nicht feststellbar, ob die erwarteten postivien Konsequenzen aus einer Au
 #### **Analogie-Argument: Positive Erfahrungen von Paris und London**
 
 <p>
-Die Behauptung "Abwägung Pro-Olympia" (die besagt, dass die erwarteten Vorteile aus den Olympischen Spielen für die Stadt München insgesamt bedeutsamer sind als die erwarteten Nachteile) lässt sich am besten mit Verweis auf analoge Fälle in neuerer Vergangenheit rechtfertigen. So sollen die Spiele in vergleichbaren europäischen Großstädten wie Paris und London keine Finanzlasten für die Stadthaushalte hinterlassen und die erwarteten positiven Konsequenzen (stadtbauliche Maßnahmen, Sportförderung, Erlebnisse) realisiert haben. Das ist die Idee des Arguments "Positive Erfahrungen von Paris und London"<sup><a href="#footnote1" id="footnote-ref1">1</a></sup>. Dieses Argument enthält eine kontroverse Prämisse, nämlich:
+Die Behauptung "Abwägung Pro-Olympia" (die besagt, dass die erwarteten Vorteile aus den Olympischen Spielen für die Stadt München insgesamt bedeutsamer sind als die erwarteten Nachteile) lässt sich am besten mit Verweis auf analoge Fälle in neuerer Vergangenheit rechtfertigen. So sollen die Spiele in vergleichbaren europäischen Großstädten wie Paris und London keine Finanzlasten für die Stadthaushalte hinterlassen und die erwarteten positiven Konsequenzen (stadtbauliche Maßnahmen, Sportförderung, Erlebnisse) realisiert haben. Das ist die Idee des Arguments "Positive Erfahrungen von Paris und London"<sup><a href="#footnote2" id="footnote-ref2">2</a></sup>. Dieses Argument enthält eine kontroverse Prämisse, nämlich:
 </p>
 
   * Bei der Abschätzung von unsicheren Kosten einer Maßnahme ist es vernünftig, Erfahrungswerte von Akteuren zugrunde zu legen, welche in allen relevanten Hinsichten in Bezug auf die Organisation und Durchführung der Maßnahme ähnlich sind. 
@@ -604,12 +605,18 @@ Die Argumentrekonstruktion zeigt aber auch, dass es einen Weg gibt, dem zentrale
   * Also könnte eine **Bürger\*innen-Abstimmung über die Olympischen Spiele nach der Aushandlung eines Konzepts für die Spiele zwischen der Stadt und dem IOC** erfolgen. 
 
 ----
+----
+### Anmerkungen:
 
   <div class="footnotes">
   <ol>
     <li id="footnote1">
-      Ein Rekonstruktionsvorschlag wird sichtbar durch das Klicken auf den Schalter "Source" in der Graphik. Dort im Abschnitt "## Kontroverse Prämissen" ist das rekonstruierte Argument "Positive Erfahrungen von Paris und London".
+      Methodische Anmerkung: Die Beurteilung der dialektischen Rolle der vorgebrachten Gesichtspunkte ist eine Interpretationsaufgabe. Häufig gelangen unterschiedliche Menschen nicht zu eindeutigen Interpretationen der dialektischen Rolle von einzelnen Gesichtspunkten. Meist sind die Interpretationen aber auch nicht sehr verschieden. Und häufig können sich unterschiedliche Menschen in einem direkten Austausch über ihre Interpretationen auf eine gemeinsam geteilte Interpretation einigen (das ist ein Hinweis darauf, dass die Interpretationen nicht willkürlich sind.)
       <a href="#footnote-ref1">↩</a>
+    </li>
+    <li id="footnote2">
+      Ein Rekonstruktionsvorschlag wird sichtbar durch das Klicken auf den Schalter "Source" in der Graphik. Dort im Abschnitt "## Kontroverse Prämissen" ist das rekonstruierte Argument "Positive Erfahrungen von Paris und London".
+      <a href="#footnote-ref2">↩</a>
     </li>
   </ol>
 </div>
