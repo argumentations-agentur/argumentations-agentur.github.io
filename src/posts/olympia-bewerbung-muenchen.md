@@ -75,7 +75,7 @@ Hier ist eine andere Karte:
 
 Von diesen sechs Punkten sind die ersten zwei keine direkten Gründe für eine Bewerbung Münchens. Dass Wettkampfstätten nachhaltig gebaut werden, stellt keinen Grund dafür dar, Olympische Spiele auszurichten. Man richtet sie ja nicht aus, um Wettkampfstätten zu bauen. Dieser Punkt spielt eine andere argumentative Rolle: er soll einen möglichen Einwand gegen die Ausrichtung der Olympischen Spiele entkräften, nämlich den, dass durch die Ausrichtung die Umwelt geschädigt oder Ressourcen verschwendet würden. 
 
-Wie kann man nun angesichts dieser Vielzahl von Pro- und Contra-Gründen zu einer reflektierten Entscheidung gelangen, ob die Bewerbung Münchens unterstützt werden soll oder nicht?
+Wie kann man nun angesichts dieser Vielzahl von vermeintlichen Pro- und Contra-Gründen zu einer reflektierten Entscheidung gelangen, ob die Bewerbung Münchens unterstützt werden soll oder nicht?
 
 <p class="abstand-bottom">
 
