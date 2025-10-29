@@ -1,6 +1,6 @@
 ---
 title: Soll sich München um die Olympischen Spiele 2036/40/44 bewerben?
-description: Welche Argumente sprechen dafür, dass sich die Stadt München um die Ausrichtung der Olympischen Spiele in den Jahren 2036-44 bewirbt, und was spricht dagegen? Und gegeben all die Gründe dafür und dagegen, wie gelange ich zu einer refkeltierten Einschätzung darüber, ob ich die Bewerbung unterstützen oder ablehnen soll? -- eine Reflexionsanleitung
+description: Welche Argumente sprechen dafür, dass sich die Stadt München um die Ausrichtung der Olympischen Spiele in den Jahren 2036-44 bewirbt, und was spricht dagegen? Und gegeben all die Gründe dafür und dagegen, wie gelange ich zu einer reflektierten Einschätzung darüber, ob ich die Bewerbung unterstützen oder ablehnen soll? -- eine Reflexionsanleitung
 author: Eugen Pissarskoi
 date: 2025-10-20
 ---
@@ -17,7 +17,7 @@ date: 2025-10-20
 Viele Überblicke über die Gründe für und gegen eine Bewerbung Münchens enthalten Pro- und Contra-Gesichtspunkte, deren argumentative Rolle ungeklärt bleibt:
 
 * auf der [Webseite der Münchner Olympiabewerbung](https://www.olympiabewerbung-muenchen.com/#fuer-olympia) werden 14 vermeintliche Gründe für die Bewerbung genannt;
-* [Merkur](https://www.merkur.de/lokales/muenchen/muenchen-olympija-oder-nolympia-pro-contra-buergerentscheid-olympia-in-93981355.html) hat einen Überblick über 10 Pro- und  10-Contra Gesichtspuntke veröffentlicht;
+* [Merkur](https://www.merkur.de/lokales/muenchen/muenchen-olympija-oder-nolympia-pro-contra-buergerentscheid-olympia-in-93981355.html) hat einen Überblick über 10 Pro- und  10-Contra Gesichtspunkte veröffentlicht;
 * [Radiogong](https://www.radiogong.de/olympia-bewerbung-muenchen-sommer-spiele-pro-und-kontra-olympiaparkt2025-2036-2040-2044) hat eine weitere Übersicht über Pro- und Contra-Gesichtspunkte erstellt.
 * Analoge Listen lassen sich auch leicht mit sprachgenerierenden Chatbots erstellen. <!-- [Le Chat von Mistral](https://chat.mistral.ai/chat) hat beispielsweise Listen generiert, die Punkte von den oben erwähnten Listen enthalten.-->
 
@@ -85,7 +85,7 @@ Wie kann man nun angesichts dieser Vielzahl von vermeintlichen Pro- und Contra-G
 
   Zunächst müssen die in den Überblickslisten vorgebrachten Gesichtspunkte sortiert werden. Das Kriterium für die Sortierung lautet: die dialektische Rolle der vorgebrachten Gesichtspunkte. Der Zweck dieses Sortierens liegt darin, beitragende Gründe für und gegen eine Olympia-Bewerbung Münchens zu identifizieren. 
   
-  Einige der vorgebrachten Gesichtspunkte stellen sich beispielsiwese als unterstützende Gründe für die beitragenden Gründe heraus, andere als Einwände gegen die Behauptungen der Gegenseite, einige auch als rhetorische Mittel (d.h. Behauptungen, denen keine argumentative Rolle zukommt).<sup><a href="#footnote1" id="footnote-ref1">1</a></sup> 
+  Einige der vorgebrachten Gesichtspunkte stellen sich beispielsweise als unterstützende Gründe für die beitragenden Gründe heraus, andere als Einwände gegen die Behauptungen der Gegenseite, einige auch als rhetorische Mittel (d.h. Behauptungen, denen keine argumentative Rolle zukommt).<sup><a href="#footnote1" id="footnote-ref1">1</a></sup> 
 
 Die nachfolgende Graphik bildet das Ergebnis meiner Identifikation von **Gründen für eine Bewerbung** Münchens ab:
 
@@ -149,14 +149,14 @@ selection:
 [7. Unterstützung Breitensports]: Breitensport erhält durch die Ausrichtung der Olympischen Spiele größeren Zulauf als ohne ihre Ausrichtung. #(pro)
   <+ <Ausbau der Infrastruktur in Kombination mit öffentlicher Aufmerksamkeit für Sport>: durch den Ausbau der Sport- und Freizeit-Infrastruktur wird ermöglicht, dass mehr Menschen an Sportaktivitäten teilhaben und durch die öffentliche Aufmerksamkeit für Olympische Spiele werden auch mehr Menschen zu sportlichen Aktivitäten motiviert. #(pro) {rank: "r2"}
 
-[8. Stärkung Gesellschafltichen Zusammenhalts]: Die Ausrichtung von Olympischen Spielen in München "schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander". #(pro)
+[8. Stärkung gesellschaftlichen Zusammenhalts]: Die Ausrichtung von Olympischen Spielen in München "schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander". #(pro)
   
 [9. Einzigartige Erlebnisse für Stadtbewohner*innen]: Ausrichtung von Olympischen Spielen in München schafft einzigartige emotionale Erlebnisse in der Stadt. #(pro)
 
 ```
 Die grün umrandeten Kästchen repräsentieren jeweils einen beitragenden Grund für die Bewerbung. Sie habe ich in zwei Gruppen unterteilt:
 * Eine erfolgreiche Olympia-Bewerbung Münchens trägt zur Realisierung von wichtigen Stadtentwicklungsprojekten bei;
-* Eine erfolgreiche Olympia-Bewerbung Münchens bringt weitere positive Konsequenzen für die Stadt und ihre Bewoher\*innen.
+* Eine erfolgreiche Olympia-Bewerbung Münchens bringt weitere positive Konsequenzen für die Stadt und ihre Bewohner\*innen.
 
 Die grün ausgefüllten Kästchen repräsentieren zwei Argumente, die für einzelne beitragende Gründe vorgebracht werden. 
 
@@ -232,11 +232,11 @@ Die Plausibilität der Gründe hängt entscheidend von der Plausibilität dessen
 
 Vorhersagen von langfristigen sozial-ökonomischen Konsequenzen von politischen Maßnahmen sind meist sehr unsicher bzw. schwer zu belegen. Dies gilt auch in Bezug auf viele der diskutierten Konsequenzen der Olympischen Spiele:
 
-* Auswirkungen auf den Breitensport: Es gibt eine [Studie](https://api.unil.ch/iris/server/api/core/bitstreams/7f0f0803-9b33-4fa1-ab9f-b0d7abaa6a44/content), die untersucht hat, ob es Evidenzen dafür gibt, dass die Durchführung von Olympischen Spielen die Teilnahme am Breitensport gestärkt hätte. Aus der Untersuchung von Daten zu drei Spielen hat sie keine Belege dafür gefunden. Das zeigt allerdings nicht, dass es keinen Effekt von Olympischen Spielen auf den Breitensport gäbe (da die bisherigen Erhebungen nicht umfassend genug waren). Dies zeigt lediglich, dass wir wenig über diesen Effekt wissen: möglicherweise besteht er, möglicherweise besteht er nicht. 
+* Auswirkungen auf den Breitensport: Es gibt eine [Studie](https://api.unil.ch/iris/server/api/core/bitstreams/7f0f0803-9b33-4fa1-ab9f-b0d7abaa6a44/content), die untersucht hat, ob es Evidenz dafür gibt, dass die Durchführung von Olympischen Spielen die Teilnahme am Breitensport gestärkt hätte. Aus der Untersuchung von Daten zu drei Spielen hat sie keine Belege dafür gefunden. Das zeigt allerdings nicht, dass es keinen Effekt von Olympischen Spielen auf den Breitensport gäbe (da die bisherigen Erhebungen nicht umfassend genug waren). Dies zeigt lediglich, dass wir wenig über diesen Effekt wissen: möglicherweise besteht er, möglicherweise besteht er nicht. 
 
 * Soziale Auswirkungen: Analoges gilt für die Behauptung der Gegner\*innen der Olympischen Spiele, letztere würden Gentrifizierungseffekte verursachen. Auch hierzu findet sich kaum robuste Evidenz. Dies kann aber daran liegen, dass dieser Effekt nicht gründlich genug gemessen wurde (und dass er schwer zu messen ist aufgrund von sehr vielen möglichen Einflussfaktoren auf beispielsweise Mieten in einer Großstadt).
 
-* Invesititonskosten und Finanzrisiken: hierzu hat eine [Studie](https://www.olympiabewerbung-muenchen.com/app/uploads/2025/10/MCube_Olympia_Studie.pdf) im Auftrag der Stadt München eine Prognose mit mehreren Szenarien ersellt. In einem [Artikel in der Süddeutschen Zeitung](https://www.sueddeutsche.de/projekte/artikel/politik/olympia-bewerbung-faktencheck-pro-contra-e104509/) gibt es einen Überblick über Kostenschätzungen und Kosten der vergangenen Spiele. Diese Überblicke verdeutlichen, dass auch die Abschätzung von Kosten sowie von erwarteten Gewinnen für die lokale Wirtschaft mit vielen Unsicherheiten behaftet ist.
+* Investitionskosten und Finanzrisiken: hierzu hat eine [Studie](https://www.olympiabewerbung-muenchen.com/app/uploads/2025/10/MCube_Olympia_Studie.pdf) im Auftrag der Stadt München eine Prognose mit mehreren Szenarien erstellt. In einem [Artikel in der Süddeutschen Zeitung](https://www.sueddeutsche.de/projekte/artikel/politik/olympia-bewerbung-faktencheck-pro-contra-e104509/) gibt es einen Überblick über Kostenschätzungen und Kosten der vergangenen Spiele. Diese Überblicke verdeutlichen, dass auch die Abschätzung von Kosten sowie von erwarteten Gewinnen für die lokale Wirtschaft mit vielen Unsicherheiten behaftet ist.
 
 Unabhängig davon bleiben Gründe, deren behauptete Konsequenzen unbestreitbar sind:
 * Durchführung von Olympischen Spielen wird die Realisierung von städtischen Infrastrukturprojekten beschleunigen und sie für die Stadt kostengünstiger machen; Olympische Spiele werden emotionale Erlebnisse liefern, möglicherweise gesellschaftlichen Zusammenhalt stärken und Breitensport populärer machen.  
@@ -368,11 +368,11 @@ selection:
 
 ## Unkontroverse Prämissen
 
-[Positive Konsequenzen aus Olympia]: Wenn die Stadt München Olympische Spiele 2036/40/44 ausrichtet, wird dies zahlreiche wünschenswerte Konsequenzen mit sich bringen: Ausbau der städtischen Infrastruktur, Gewinne für die lokale Wirtschaft, Stärkung des Breitensports, Stärkung gesellschaftlichen Zusammenhalts sowie einzigartie Erlebnisse. #tag-1
+[Positive Konsequenzen aus Olympia]: Wenn die Stadt München Olympische Spiele 2036/40/44 ausrichtet, wird dies zahlreiche wünschenswerte Konsequenzen mit sich bringen: Ausbau der städtischen Infrastruktur, Gewinne für die lokale Wirtschaft, Stärkung des Breitensports, Stärkung gesellschaftlichen Zusammenhalts sowie einzigartige Erlebnisse. #tag-1
 
-[Negative Befürchtungen aus Olympia]: Wenn die Stadt München den Zuschlag für die Ausrichtung Olympischer Spiele 2036/40/44 erhält, muss sie hohe Investitionen in die Stadtinfrastruktur stemmen, die andere erforderliche Ausgaben verdrängen können, sie läuft Gefahr, höhere Kosten tragen zu müssen als geplant, und sie kann vom Internationalen Olympischen Kommitee dazu vertraglich gebunden werden, Maßnahmen umzusetzen, die die Stadt für nicht erstrebenswert hält. #tag-1
+[Negative Befürchtungen aus Olympia]: Wenn die Stadt München den Zuschlag für die Ausrichtung Olympischer Spiele 2036/40/44 erhält, muss sie hohe Investitionen in die Stadtinfrastruktur stemmen, die andere erforderliche Ausgaben verdrängen können, sie läuft Gefahr, höhere Kosten tragen zu müssen als geplant, und sie kann vom Internationalen Olympischen Komitee dazu vertraglich gebunden werden, Maßnahmen umzusetzen, die die Stadt für nicht erstrebenswert hält. #tag-1
 
-[Prinzip zur Abwägung zwischen Vor-und Nachteilen]: Wenn eine Maßnahme M-OS zu erstrebenswerten Konsequenzen (K-1,...,K-n) führt und von der Maßnahme Nachteile zu erwarten sind (N-1,...,N-m), soll die Maßnahme M-OS genau dann durchgeführt werden, wenn gilt: (i) die erwarteten Vorteile aus den erwünschten Konsequenzen (K-1,...,K-n) überwiegen insgesamt die erwartente Nachteile (N-1,...,N-m) und (ii) es gibt keine anderen Weg, die Vorteile aus den erstrebenswerten Konsequenzen (K-1,...,K-n) mit geringeren Nachteilen als (N-1,...,N-m) zu erreichen. #(tag-1)
+[Prinzip zur Abwägung zwischen Vor-und Nachteilen]: Wenn eine Maßnahme M-OS zu erstrebenswerten Konsequenzen (K-1,...,K-n) führt und von der Maßnahme Nachteile zu erwarten sind (N-1,...,N-m), soll die Maßnahme M-OS genau dann durchgeführt werden, wenn gilt: (i) die erwarteten Vorteile aus den erwünschten Konsequenzen (K-1,...,K-n) überwiegen insgesamt die erwarteten Nachteile (N-1,...,N-m) und (ii) es gibt keine anderen Weg, die Vorteile aus den erstrebenswerten Konsequenzen (K-1,...,K-n) mit geringeren Nachteilen als (N-1,...,N-m) zu erreichen. #(tag-1)
 
 ## Kontroverse Prämissen
 
@@ -381,7 +381,7 @@ selection:
 [Optimalität der Olympia-Bewerbung]: Es gibt keinen anderen Weg, mit geringeren Nachteilen als durch eine erfolgreiche Olympia-Bewerbung die positiven Konsequenzen der Olympia-Bewerbung für die Stadt zu realisieren.#(pro)
 
 [Abwägung Contra-Olympia]: 
-Es ist nicht feststellbar, ob die erwarteten postivien Konsequenzen aus einer Ausrichtung von Olympischen Spielen in München die erwarteten Nachteile überwiegen. #(contra)
+Es ist nicht feststellbar, ob die erwarteten positiven Konsequenzen aus einer Ausrichtung von Olympischen Spielen in München die erwarteten Nachteile überwiegen. #(contra)
 
 [Bessere Alternativen zu Olympia-Ausrichtung]: Es gibt andere Wege, mit geringeren Nachteilen als durch eine erfolgreiche Olympia-Bewerbung die positiven Konsequenzen der Olympia-Bewerbung für die Stadt zu realisieren. #(contra)
 
@@ -475,11 +475,11 @@ selection:
 
 ## Unkontroverse Prämissen
 
-[Positive Konsequenzen aus Olympia]: Wenn die Stadt München Olympische Spiele 2036/40/44 ausrichtet, wird dies zahlreiche wünschenswerte Konsequenzen mit sich bringen: Ausbau der städtischen Infrastruktur, Gewinne für die lokale Wirtschaft, Stärkung des Breitensports, Stärkung gesellschaftlichen Zusammenhalts sowie einzigartie Erlebnisse. #tag-1
+[Positive Konsequenzen aus Olympia]: Wenn die Stadt München Olympische Spiele 2036/40/44 ausrichtet, wird dies zahlreiche wünschenswerte Konsequenzen mit sich bringen: Ausbau der städtischen Infrastruktur, Gewinne für die lokale Wirtschaft, Stärkung des Breitensports, Stärkung gesellschaftlichen Zusammenhalts sowie einzigartige Erlebnisse. #tag-1
 
-[Negative Befürchtungen aus Olympia]: Wenn die Stadt München den Zuschlag für die Ausrichtung Olympischer Spiele 2036/40/44 erhält, muss sie hohe Investitionen in die Stadtinfrastruktur stemmen, die andere erforderliche Ausgaben verdrängen können, sie läuft Gefahr, höhere Kosten tragen zu müssen als geplant, und sie kann vom Internationalen Olympischen Kommitee dazu vertraglich gebunden werden, Maßnahmen umzusetzen, die die Stadt für nicht erstrebenswert hält. #tag-1
+[Negative Befürchtungen aus Olympia]: Wenn die Stadt München den Zuschlag für die Ausrichtung Olympischer Spiele 2036/40/44 erhält, muss sie hohe Investitionen in die Stadtinfrastruktur stemmen, die andere erforderliche Ausgaben verdrängen können, sie läuft Gefahr, höhere Kosten tragen zu müssen als geplant, und sie kann vom Internationalen Olympischen Komitee dazu vertraglich gebunden werden, Maßnahmen umzusetzen, die die Stadt für nicht erstrebenswert hält. #tag-1
 
-[Prinzip zur Abwägung zwischen Vor-und Nachteilen]: Wenn eine Maßnahme M-OS zu erstrebenswerten Konsequenzen (K-1,...,K-n) führt und von der Maßnahme Nachteile zu erwarten sind (N-1,...,N-m), soll die Maßnahme M-OS genau dann durchgeführt werden, wenn gilt: (i) die erwarteten Vorteile aus den erwünschten Konsequenzen (K-1,...,K-n) überwiegen insgesamt die erwartente Nachteile (N-1,...,N-m) und (ii) es gibt keine anderen Weg, die Vorteile aus den erstrebenswerten Konsequenzen (K-1,...,K-n) mit geringeren Nachteilen als (N-1,...,N-m) zu erreichen. #(tag-1)
+[Prinzip zur Abwägung zwischen Vor-und Nachteilen]: Wenn eine Maßnahme M-OS zu erstrebenswerten Konsequenzen (K-1,...,K-n) führt und von der Maßnahme Nachteile zu erwarten sind (N-1,...,N-m), soll die Maßnahme M-OS genau dann durchgeführt werden, wenn gilt: (i) die erwarteten Vorteile aus den erwünschten Konsequenzen (K-1,...,K-n) überwiegen insgesamt die erwarteten Nachteile (N-1,...,N-m) und (ii) es gibt keine anderen Weg, die Vorteile aus den erstrebenswerten Konsequenzen (K-1,...,K-n) mit geringeren Nachteilen als (N-1,...,N-m) zu erreichen. #(tag-1)
 
 ## Kontroverse Prämissen
 
@@ -488,7 +488,7 @@ selection:
 [Optimalität der Olympia-Bewerbung]: Es gibt keinen anderen Weg, mit geringeren Nachteilen als durch eine erfolgreiche Olympia-Bewerbung die positiven Konsequenzen der Olympia-Bewerbung für die Stadt zu realisieren.#(pro)
 
 [Abwägung Contra-Olympia]: 
-Es ist nicht feststellbar, ob die erwarteten postivien Konsequenzen aus einer Ausrichtung von Olympischen Spielen in München die erwarteten Nachteile überwiegen. #(contra)
+Es ist nicht feststellbar, ob die erwarteten positiven Konsequenzen aus einer Ausrichtung von Olympischen Spielen in München die erwarteten Nachteile überwiegen. #(contra)
 
 [Bessere Alternativen zu Olympia-Ausrichtung]: Es gibt andere Wege, mit geringeren Nachteilen als durch eine erfolgreiche Olympia-Bewerbung die positiven Konsequenzen der Olympia-Bewerbung für die Stadt zu realisieren. #(contra)
 
@@ -520,7 +520,7 @@ Es ist nicht feststellbar, ob die erwarteten postivien Konsequenzen aus einer Au
 
 ## Contra-Argumente
 
-<Risiken aus der möglichen Einflussnahme durch das IOC unkalkulierbar>: Das IOC hat die Verhandlungsmacht, den ausrichtenden Städten Bedingungen zu diktiren, die die ursprünglich geplanten Vorteile nicht realisieren lassen. Da es nicht abschätzbar ist, wie wahrscheinlich es ist, sind die erwarteten Vorteile nicht kalkulierbar. #(contra)
+<Risiken aus der möglichen Einflussnahme durch das IOC unkalkulierbar>: Das IOC hat die Verhandlungsmacht, den ausrichtenden Städten Bedingungen zu diktieren, die die ursprünglich geplanten Vorteile nicht realisieren lassen. Da es nicht abschätzbar ist, wie wahrscheinlich es ist, sind die erwarteten Vorteile nicht kalkulierbar. #(contra)
  +> [Abwägung Contra-Olympia]
 
  <Alternative: Stadtentwicklung selbst in die Hand zu nehmen>: Es ist besser, erstrebenswerte Stadtentwicklungsprojekte und Maßnahmen zur Verbesserung der Lebensqualität unabhängig von einer Kooperation mit einem Partner durchzuführen, das eigene, nicht demokratisch legitimierte Ziele verfolgt, selbst wenn die Realisierung dieser städtischen Projekte dann mehr kostet. #(contra)
@@ -534,14 +534,14 @@ Es ist nicht feststellbar, ob die erwarteten postivien Konsequenzen aus einer Au
 (3) Die erwarteten Vorteile der Olympia-Ausrichtung in München sind nicht kalkulierbar.
 (4) Wenn die erwarteten Konsequenzen einer Maßnahme nicht kalkulierbar sind, so ist es nicht feststellbar, ob die erwarteten positiven Konsequenzen höher sind als die erwarteten negativen Konsequenzen.
 ----
-(5) Es ist nicht feststellbar, ob die erwarteten postivien Konsequenzen aus einer Ausrichtung von Olympischen Spielen in München die erwarteten Nachteile überwiegen.
+(5) Es ist nicht feststellbar, ob die erwarteten positiven Konsequenzen aus einer Ausrichtung von Olympischen Spielen in München die erwarteten Nachteile überwiegen.
 
 <Alternative: Stadtentwicklung selbst in die Hand zu nehmen>
 
 (1) Wenn die Stadt München Olympische Spiele ausrichtet, erhält sie finanzielle Zuschüsse vom Land und Bund für die Realisierung von erstrebenswerten Stadtentwicklungsprojekten und sie geht eine Kooperation mit dem Internationalen Olympischen Komitee ein.
 (2) Es ist insgesamt für die Stadt und ihre Bewohner\*innen besser, auf die finanziellen Zuschüsse zu verzichten, und eine Kooperation mit dem IOC zu vermeiden. 
 ----
-(3) Es ist ingesamt für die Stadt und ihre Bewohner\*innen besser, die erstrebenswerten Stadtentwicklungsprojekte ohne Zuschüsse von Land und Bund zu realisieren.
+(3) Es ist insgesamt für die Stadt und ihre Bewohner\*innen besser, die erstrebenswerten Stadtentwicklungsprojekte ohne Zuschüsse von Land und Bund zu realisieren.
 
 ```
 <p class="abstand-bottom">
@@ -552,7 +552,7 @@ Es ist nicht feststellbar, ob die erwarteten postivien Konsequenzen aus einer Au
 **Analogie-Argument: Positive Erfahrungen von Paris und London**
 
 <p>
-Die Behauptung "Abwägung Pro-Olympia" (die besagt, dass die erwarteten Vorteile aus den Olympischen Spielen für die Stadt München insgesamt bedeutsamer sind als die erwarteten Nachteile) lässt sich am besten mit Verweis auf analoge Fälle in neuerer Vergangenheit rechtfertigen. So sollen die Spiele in vergleichbaren europäischen Großstädten wie Paris und London keine Finanzlasten für die Stadthaushalte hinterlassen und die erwarteten positiven Konsequenzen (stadtbauliche Maßnahmen, Sportförderung, Erlebnisse) realisiert haben. Das ist die Idee des Arguments "Positive Erfahrungen von Paris und London"<sup><a href="#footnote2" id="footnote-ref2">2</a></sup>. Dieses Argument enthält eine kontroverse Prämisse, nämlich:
+Die Behauptung "Abwägung Pro-Olympia" (die besagt, dass die erwarteten Vorteile aus den Olympischen Spielen für die Stadt München insgesamt bedeutsamer sind als die erwarteten Nachteile) lässt sich am besten mit Verweis auf analoge Fälle in neuerer Vergangenheit rechtfertigen. So sollen die Spiele in vergleichbaren europäischen Großstädten wie Paris und London keine Finanzlasten für die Stadthaushalte hinterlassen und die erwarteten positiven Konsequenzen (städtebauliche Maßnahmen, Sportförderung, Erlebnisse) realisiert haben. Das ist die Idee des Arguments "Positive Erfahrungen von Paris und London"<sup><a href="#footnote2" id="footnote-ref2">2</a></sup>. Dieses Argument enthält eine kontroverse Prämisse, nämlich:
 </p>
 
   * Bei der Abschätzung von unsicheren Kosten einer Maßnahme ist es vernünftig, Erfahrungswerte von Akteuren zugrunde zu legen, welche in allen relevanten Hinsichten in Bezug auf die Organisation und Durchführung der Maßnahme ähnlich sind. 
@@ -580,7 +580,7 @@ Um den Einwand gegen eine Olympia-Bewerbung "Bessere Alternativen zu Olympia-Aus
 
 Das Argument der Gegner\*innen interpretiere ich wie folgt, meine Interpretation basiert auf ihrer Behauptung, dass es besser sei, die städtischen Infrastrukturmaßnahmen unabhängig von Olympia-Förderung umzusetzen:
 
-Wenn die Stadt ihre Infrastruktur in den Bereichen nachhaltige Mobilität, sozialer Wohnungsbau, Barrierefreieheit etc. selbst ausbaut, bekommt sie keine finanziellen Zuschüsse vom Bund und Land dazu und muss diesen Ausbau entsprechend durch Kürzungen in anderen Haushaltsbereichen finanzieren. Dafür vermeidet sie eine Kooperation mit dem Internationalen Olympischen Komitee, von der unerwünschte Konsequenzen für die Stadt und ihre Bewohner\*innen zu befürchten sind. 
+Wenn die Stadt ihre Infrastruktur in den Bereichen nachhaltige Mobilität, sozialer Wohnungsbau, Barrierefreiheit etc. selbst ausbaut, bekommt sie keine finanziellen Zuschüsse vom Bund und Land dazu und muss diesen Ausbau entsprechend durch Kürzungen in anderen Haushaltsbereichen finanzieren. Dafür vermeidet sie eine Kooperation mit dem Internationalen Olympischen Komitee, von der unerwünschte Konsequenzen für die Stadt und ihre Bewohner\*innen zu befürchten sind. 
 
 <p class="abstand-bottom">
 
@@ -609,7 +609,7 @@ Für eine überzeugende Kommunikation ihrer jeweiligen Positionen müssten die B
   * und wie viele Mittel für Maßnahmen benötigt werden, die nur für die Olympischen Spiele realisiert werden.  
 
 Die Argumentrekonstruktion zeigt aber auch, dass es einen Weg gibt, dem zentralen Einwand der Gegner\*innen durch **einen anders gestalteten politischen Prozess** vorzubeugen: 
-  * Die beiden rekonstruierten Einwände basieren auf der Unsicherheit über die Einflussmöglichkeit des IOC. Sobald die Verhanldungen mit dem IOC erfolgt sind, verschwindet diese Unsicherheit: dann ist festgelegt, welchen Einfluss das IOC ausgeübt hat und ob die Stadt all das tatsächlich realisieren kann, was sie sich vorgenommen hat. 
+  * Die beiden rekonstruierten Einwände basieren auf der Unsicherheit über die Einflussmöglichkeit des IOC. Sobald die Verhandlungen mit dem IOC erfolgt sind, verschwindet diese Unsicherheit: dann ist festgelegt, welchen Einfluss das IOC ausgeübt hat und ob die Stadt all das tatsächlich realisieren kann, was sie sich vorgenommen hat. 
   * Also könnte eine **Bürger\*innen-Abstimmung über die Olympischen Spiele nach der Aushandlung eines Konzepts für die Spiele zwischen der Stadt und dem IOC** erfolgen. 
 
 ----
