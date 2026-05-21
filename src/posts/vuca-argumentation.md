@@ -160,7 +160,7 @@ Die zentrale Leistung ist somit: Transparenz über Differenzen herstellen – st
 ![Struktur eines argumentativen Problems: Wie komme ich von Pros und Cons zur Entscheidung?](img/vuca/Problemstruktur.png)
 -->
 
-<div class="w-full flex justify-center">
+<div class="flex justify-center">
 <img src="{{ '/img/vuca/Problemstruktur.png' | url }}" class="mx-auto max-w-[400px]">
 </div>
 
