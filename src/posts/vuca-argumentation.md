@@ -161,7 +161,7 @@ Die zentrale Leistung ist somit: Transparenz über Differenzen herstellen – st
 -->
 
 <div class="w-full flex justify-center">
-<img src="{{ '/img/vuca/Problemstruktur.png' | url }}" class="mx-auto w-full max-w-[400px]">
+<img src="{{ '/img/vuca/Problemstruktur.png' | url }}" class="mx-auto max-w-[400px]">
 </div>
 
 <!--
