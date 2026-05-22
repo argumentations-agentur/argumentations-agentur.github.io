@@ -48,9 +48,7 @@ Etablierte Theorien strategischer Entscheidungsfindung basieren auf einer Annahm
 
 Im VUCA-Kontext trifft keine dieser Voraussetzungen zu, sodass die meisten Entscheidungstheorien keine Anwendung finden. Dies wiederum hat eine direkte Konsequenz für strategische Kommunikation. Klassische Ideale wie Klarheit,Eindeutigkeit, Konsistenz verlieren ihre Orientierungsfunktion, wenn die zugrunde liegenden Entscheidungen selbst diffus, umstritten oder vorläufig sind.
 
-Die Forschung reagiert darauf mit neuen Konzepten: [Paradox Perspectives](https://link.springer.com/article/10.1007/s10551-017-3587-2); [Oszillierende Entscheidungsstrategien](https://link.springer.com/book/10.1007/978-3-319-16889-0); [Strategische Ambiguität in der Kommunikation](https://www.emerald.com/ccij/article-abstract/27/2/284/68852/Between-strategic-clarity-and-strategic-ambiguity). Diese Ansätze teilen eine Einsicht: 
-
-> Organisationen müssen lernen, mit Widersprüchen zu arbeiten, statt sie aufzulösen.
+Die Forschung reagiert darauf mit neuen Konzepten: [Paradox Perspectives](https://link.springer.com/article/10.1007/s10551-017-3587-2); [Oszillierende Entscheidungsstrategien](https://link.springer.com/book/10.1007/978-3-319-16889-0); [Strategische Ambiguität in der Kommunikation](https://www.emerald.com/ccij/article-abstract/27/2/284/68852/Between-strategic-clarity-and-strategic-ambiguity). Diese Ansätze teilen eine Einsicht: Organisationen müssen lernen, mit Widersprüchen zu arbeiten, statt sie aufzulösen.
 
 Doch genau hier bleibt eine Lücke:
 
@@ -111,7 +109,7 @@ Entscheidungsfindung und im VUCA-Umfeld muss zwischen folgenden Konflikten vermi
 	* kausalen Zusammenhängen (z. B. Wirkung von Lieferketten; Einfluss meines Unternehmens auf den Biodiversitätsverlust)
 	* Systemgrenzen (was wird überhaupt berücksichtigt?)
 
-    Ergebnis: Unterschiedliche Akteure diskutieren scheinbar dasselbe – meinen aber Unterschiedliches.
+    Im Ergebnis diskutieren unterschiedliche Akteure scheinbar dasselbe, meinen aber Unterschiedliches.
 
 
 ### Warum rationale Einigung oft scheitert
@@ -121,8 +119,7 @@ Wenn diese drei Ebenen zusammenkommen, entsteht eine typische VUCA-Situation:
 * Uneinigkeit über Ziele (normativ)
 * Uneinigkeit über Bedeutungen (interpretativ)
 
-Unter diesen Bedingungen kann keine Entscheidung rein rational „hergeleitet“ werden.
-Stattdessen entstehen:
+Unter diesen Bedingungen kann keine Entscheidung rein rational „hergeleitet“ werden. Stattdessen entstehen:
 
 * Blockaden
 * Zufallsentscheidungen -- Entscheidungen, die nicht durch gute Gründe gestützt sind
@@ -132,6 +129,7 @@ Stattdessen entstehen:
 
 ## Was Argumentanalyse leistet
 </p>
+
 Argumentanalyse setzt genau hier an. Gegeben den Kontext der Unsicherheit, Komplexität, Vagheit und Ambiguität, fragt sie: 
 
 * Welche Handlungsoptionen stehen zur Verfügung? 
@@ -537,10 +535,7 @@ Argumentanalyse setzt dem etwas entgegen:
 * Sie strukturiert Konflikte statt sie zu verdecken
 * Sie schafft eine Grundlage für verantwortungsvolle Entscheidungsfindung und Kommunikation
 
-Zum Abschluss eine einfache Leitfrage für Organisationen:
-
-> Wissen wir eigentlich, warum wir uns nicht einig sind?
-
+Zum Abschluss eine einfache Leitfrage für Organisationen: Wissen wir eigentlich, warum wir uns nicht einig sind? 
 Wenn die Antwort darauf unklar ist, liegt das Problem oft nicht in der Entscheidung selbst. Vielmehr liegt es in der fehlenden Struktur ihrer Argumente. Und genau hier setzt Argumentanalyse an.
 
 
