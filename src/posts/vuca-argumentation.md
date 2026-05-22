@@ -1,5 +1,5 @@
 --- 
-title: Argumentanalyse -- Ein Tool für Entscheidungen und Kommunikation im VUCA-Umfeld
+title: Argumentanalyse als Tool für Entscheidungen und Kommunikation im VUCA-Umfeld
 description: hier Teaser einfügen
 author: XYZ
 date: 2026-05-20
@@ -174,8 +174,260 @@ Die zentrale Leistung ist somit: Transparenz über Differenzen herstellen – st
 
 ####  **Argument-Rekonstruktion**
 </p>
+Die nachfolgenden Graphiken stellen dialektische Strukturen von zwei typischen Argumentationsweisen -- Argumentation durch Zurückweisung von gegenteiligen Gründen und Argumentation durch Abwägung angesichts von gegenteiligen Gründen -- dar. 
+
+```argdown-map
+===
+title: Struktur der Argumentation durch Zurückweisung von Einwänden
+color:
+    colorizeByTag: true
+    tagColors:
+        tag-1: "#f3d942"
+        pro: "#51ffae"
+        contra: "#FFA44F" 
+        neutral: "#bdbdbd"
+        wid: "#ff2626"
+        unkl: "#9ecae1"
+model: 
+  removeTagsFromText: true
+webComponent:
+  withoutLogo: true
+sourceHighlighter:
+  removeFrontMatter: true
+selection:
+    excludeDisconnected: false
+dot:
+    argument:
+        shape: egg
+        style: filled
+        minWidth: 0
+        title:
+            charactersInLine: 25
+        text:
+            charactersInLine: 25
+    statement:
+        minWidth: 0
+        title:
+            charactersInLine: 30
+        text:
+            charactersInLine: 40
+===
+
+[A umsetzen!]: Wir sollen A tun. #pro
+
+[A vermeiden!]: A sollte vermieden werden. #contra
+
+## Argumentation für die Umsetzung von A
+
+<Debunking Pro-Argument>: Pro-Gesichtspunkte gehen als Annahmen ein und die Kontra-Gesichtspunkte sind zurückgewiesen #(pro)
+ +> [A umsetzen!]
+
+### Gesichtspunkte Pro-A
+
+[Pro-A-1]#pro
+ <- <Debunking Pro-1>
+ +> <Debunking Pro-Argument>
+
+[Pro-A-i]#pro
+ <- <Debunking Pro-i>
+ +> <Debunking Pro-Argument>
+
+[Pro-A-N]#pro
+ +> <Debunking Pro-Argument>
+ <- <Debunking Pro-N>
+
+### Stützargumente für die Zurückweisung der Kontra's
+
+<Debunking Kontra-1>: Argument für die These, dass der Gesichtspunkt Kontra-A-1 nicht haltbar ist. #pro
+
+(1) Prämisse 1
+(2) Prämisse 2
+(3) ggf. weitere Prämissen
+----
+(4) Konklusion: Kontra-A-1 ist falsch.
+
+<Debunking Kontra-i>: Argument für die These, dass der Gesichtspunkt Kontra-A-i nicht haltbar ist. #pro
+
+(1) Prämisse 1
+(2) Prämisse 2
+(3) ggf. weitere Prämissen
+----
+(4) Konklusion: Kontra-A-i ist falsch.
+
+<Debunking Kontra-M>: Argument für die These, dass der Gesichtspunkt Kontra-A-M nicht haltbar ist. #pro
+
+(1) Prämisse 1
+(2) Prämisse 2
+(3) ggf. weitere Prämissen
+----
+(4) Konklusion: Kontra-A-N ist falsch.
+
+## Argumentation für die Vermeidung von A
+
+<Debunking Kontra-Argument>: Kontra-Gesichtspunkte gehen als Annahmen ein und die Pro-Gesichtspunkte sind zurückgewiesen #(contra)
+  +> [A vermeiden!]
+
+### Gesichtspunkte Kontra-A
+
+[Kontra-A-1]#contra
+ +> <Debunking Kontra-Argument>
+ <- <Debunking Kontra-1>
+
+[Kontra-A-i]#contra
+ +> <Debunking Kontra-Argument>
+ <- <Debunking Kontra-i>
+
+[Kontra-A-M]#contra
+ +> <Debunking Kontra-Argument>
+ <- <Debunking Kontra-M>
 
 
+### Stützargumente für die Zurückweisung der Pro's
+
+<Debunking Pro-1>: Argument für die These, dass der Gesichtspunkt Pro-A-1 nicht haltbar ist. #contra
+
+(1) Prämisse 1
+(2) Prämisse 2
+(3) ggf. weitere Prämissen
+----
+(4) Konklusion: Pro-A-1 ist falsch.
+
+<Debunking Pro-i>: Argument für die These, dass der Gesichtspunkt Pro-A-i nicht haltbar ist. #contra
+
+(1) Prämisse 1
+(2) Prämisse 2
+(3) ggf. weitere Prämissen
+----
+(4) Konklusion: Pro-A-i ist falsch.
+
+<Debunking Pro-N>: Argument für die These, dass der Gesichtspunkt Pro-A-N nicht haltbar ist. #contra
+
+(1) Prämisse 1
+(2) Prämisse 2
+(3) ggf. weitere Prämissen
+----
+(4) Konklusion: Pro-A-N ist falsch.
+
+```
+
+```argdown-map
+===
+title: Struktur der Argumentation durch Abwägung
+color:
+    colorizeByTag: true
+    tagColors:
+        tag-1: "#f3d942"
+        pro: "#51ffae"
+        contra: "#FFA44F" 
+        neutral: "#bdbdbd"
+        wid: "#ff2626"
+        unkl: "#9ecae1"
+model: 
+  removeTagsFromText: true
+webComponent:
+  withoutLogo: true
+sourceHighlighter:
+  removeFrontMatter: true
+selection:
+    excludeDisconnected: false
+dot:
+    argument:
+        shape: egg
+        style: filled
+        minWidth: 0
+        title:
+            charactersInLine: 26
+        text:
+            charactersInLine: 
+    statement:
+        minWidth: 0
+        title:
+            charactersInLine: 30
+        text:
+            charactersInLine: 40
+===
+
+[A umsetzen!]: Wir sollen A tun. #pro
+
+[A vermeiden!]: A sollte vermieden werden. #contra
+
+<Abwägungs-Pro-Argument>: Pro- und Kontra-Gesichtspunkte gehen als Annahmen ein sowie ein Prinzip, das spezifiziert, warum angesichts von Pros und Cons A umgesetzt werden soll. #(pro)
+ +> [A umsetzen!]
+
+
+
+<Abwägungs-Kontra-Argument>: Pro- und Kontra-Gesichtspunkte gehen als Annahmen ein sowie ein Prinzip, das spezifiziert, warum angesichts von Pros und Cons A vermieden werden soll. #(contra)
+  +> [A vermeiden!]
+
+
+
+## Gesichtspunkte Pro-A
+
+[Pro-A-1]#pro
+
+[Pro-A-i]#pro
+
+[Pro-A-N]#pro
+
+## Gesichtspunkte Kontra-A
+
+[Kontra-A-1]#contra
+
+[Kontra-A-i]#contra
+
+[Kontra-A-M]#contra
+
+
+## Abwägungsargumente
+
+<Abwägungs-Pro-Argument>
+
+(1) [Pro-A-1]
+(2) [Pro-A-i]
+(3) [Pro-A-N]
+(4) [Kontra-A-1]
+(5) [Kontra-A-i]
+(6) [Kontra-A-M]
+(7) Pro-Abwägungsprinzip
+----
+(8) [A umsetzen!]
+
+<Abwägungs-Kontra-Argument>
+
+(1) [Pro-A-1]
+(2) [Pro-A-i]
+(3) [Pro-A-N]
+(4) [Kontra-A-1]
+(5) [Kontra-A-i]
+(6) [Kontra-A-M]
+(7) Kontra-Abwägungsprinzip
+----
+(8) [A vermeiden!]
+
+### Stützargumente für die Abwägungsprinzipien
+
+<Argument für das Pro-A-Abwägungsprinzip> #pro
+
+(1) Prämisse 1
+(2) Prämisse 2
+(3) ggf. weitere Prämissen
+----
+(4) Konklusion: Pro-Abwägungsprinzip
+ +> <Abwägungs-Pro-Argument>
+ /*-> <Argument für das Kontra-A-Abwägungsprinzip>*/
+ 
+ <Argument für das Kontra-A-Abwägungsprinzip> #contra
+
+(1) Prämisse 1
+(2) Prämisse 2
+(3) ggf. weitere Prämissen
+----
+(4) Konklusion: Kontra-Abwägungsprinzip
+ +> <Abwägungs-Kontra-Argument>
+ /*-> <Argument für das Pro-A-Abwägungsprinzip>*/
+
+```
+<!--
 <div class="w-full flex flex-row justify-center gap-4">
   <figure class="flex flex-col items-center">
     <img
@@ -197,6 +449,8 @@ Die zentrale Leistung ist somit: Transparenz über Differenzen herstellen – st
     </figcaption>
   </figure>
 </div>
+
+-->
 
 <p class="abstand-bottom">
 
