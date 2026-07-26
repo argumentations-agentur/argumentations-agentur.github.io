@@ -1,5 +1,5 @@
 // .eleventy.js (ESM)
-import htmlmin from 'html-minifier';
+import htmlmin from 'html-minifier-terser';
 import markdownIt from 'markdown-it';
 import { EleventyHtmlBasePlugin } from '@11ty/eleventy';
 import { DateTime } from "luxon";
