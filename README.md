@@ -6,7 +6,7 @@ Website based on the 11ty starter <https://github.com/ttntm/11ty-landing-page>.
 
 **Requirements:**
 
-1. Eleventy (developed and tested with version 0.12.1)
+1. Eleventy (developed and tested with version 0.12.1; updated to the version 3.1.6)
 2. Tailwind CSS
 
 All other dependencies are either linked from a CDN or included in this repository.
