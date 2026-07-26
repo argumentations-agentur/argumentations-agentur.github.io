@@ -1,4 +1,4 @@
 {
-    "layout": "page",
+    "layout": "page.njk",
     "tags":  ["portfolio"]
 }

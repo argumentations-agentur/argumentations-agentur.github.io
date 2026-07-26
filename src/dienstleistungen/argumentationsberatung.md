@@ -7,12 +7,12 @@ title: Argumentationsberatung
         <div class="max-w-xl mx-auto  xl:max-w-2xl">
             <p class="mb-4 sm:text-1.5xl">Viele Prozesse der Entscheidungsfindung enden damit, Listen von Vor- und Nachteilen zu den verfügbaren Handlungsoptionen zu erstellen. Die für uns interessante Herausforderung beginnt erst hier:</p>
 			<div class="w-full flex justify-center">
-    			<img src="{{ '/img/entschfind-herausforder2.svg' | url }}" class="h-auto w-full max-w-[600px]">
+    			<img src="{{ env.baseUrl }}img/entschfind-herausforder2.svg" class="h-auto w-full max-w-[600px]">
 			</div>
 			<h1 class="font-bold tracking-wide text-3xl text-center mt-12 mb-4">Argumentationsanalyse als Prozess der Entscheidungsfindung</h1>
             <p class="mb-4 sm:text-1.5xl">Die Argumentationsanalyse bietet eine Methode, um eine wohlbegründete Entscheidung angesichts vielfältiger Vor- und Nachteile mehrerer Handlungsoptionen zu treffen.</p>
 			<div class="w-full flex justify-center">
-    			<img src="{{ '/img/arg-analysis-structure-prozess-kl3.svg' | url }}" class="h-auto w-full max-w-[600px]">
+    			<img src="{{ env.baseUrl }}img/arg-analysis-structure-prozess-kl3.svg" class="h-auto w-full max-w-[600px]">
 			</div>
 			<p class="mt-4 sm:text-1.5xl">Wir unterstützen Sie mit unseren Kompetenzen in der Argumentationstheorie und -praxis bei Ihrer strategischen Entscheidungsfindung.</p>
         </div>

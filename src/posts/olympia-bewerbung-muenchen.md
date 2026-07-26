@@ -49,7 +49,6 @@ dot:
             charactersInLine: 20
         text:
             charactersInLine: 30
-
 webComponent:
   withoutLogo: true
 selection:
@@ -91,7 +90,8 @@ Die nachfolgende Graphik bildet das Ergebnis meiner Identifikation von **Gründe
 
 ```argdown-map
 ===
-title: Olympia-Bewerbung München 2025 -- Pro-Gründe
+title: Pro-Gründe Olympia-Bewerbung München 2025
+subtitle: Positive Konsequenzen für die Stadt und ihre Bewohner\*innen
 color:
     colorizeByTag: true
     tagColors:
@@ -121,39 +121,42 @@ selection:
     excludeDisconnected: false
 ===
 
-# Vorgebrachte Gründe für eine Bewerbung: Positive Konsequenzen für die Stadt und ihre Bewohner\*innen
+<Ausbau der Infrastruktur in Kombination mit öffentlicher Aufmerksamkeit für Sport>: durch den Ausbau der Sport- und Freizeit-Infrastruktur wird ermöglicht, dass mehr Menschen an Sportaktivitäten teilhaben und durch die öffentliche Aufmerksamkeit für Olympische Spiele werden auch mehr Menschen zu sportlichen Aktivitäten motiviert. #(pro)
+ +> [7. Unterstützung Breitensports]
+ 
+<Finanzielle Zuschüsse vom Bund und Land>: Durch eine Olympia-Bewerbung werden zusätzliche Finanzmittel fließen, die sonst nicht verfügbar wären. Diese Gelder sollen die Stadtentwicklung beschleunigen und die Kommunalfinanzen entlasten. #pro
+ +> [1. Neuer Wohnraum]
+ +> [2. Verbesserung der städtischen Mobilität]
+ +> [3. Sanierung von Sportstätten]
+ +> [4. Ausbau einer barierefreien Stadt]
+ +> [5. Realisierung von Renaturierungs- und Klimaanpassungsmaßnahmen]
 
-## Realisierung wichtiger Stadtentwicklungsprojekte 
+# Realisierung wichtiger Stadtentwicklungsprojekte 
 
 [1. Neuer Wohnraum]: Bei einem Zuschlag für die Austragung von Olympischen Spielen in München wird zusätzlicher Wohnraum in München geschaffen, der ohne die Austragung der Spiele nicht oder nur viel später geschaffen werden würde: 4000 Wohnungen im neuen Olympischen Dorf. #pro
-  <+ <Finanzielle Zuschüsse vom Bund und Land>: Durch eine Olympia-Bewerbung werden zusätzliche Finanzmittel fließen, die sonst nicht verfügbar wären. Diese Gelder sollen die Stadtentwicklung beschleunigen und die Kommunalfinanzen entlasten. #pro {rank: "r2"}
 
 [2. Verbesserung der städtischen Mobilität]: Bei einem Zuschlag für die Austragung von Olympischen Spielen in München werden zahlreiche Mobilitätsprojekte realisiert, die sonst nicht oder viel später realisiert werden würden: Ausbau des öffentlichen Nahverkehrs (Ausbau U4, U9, S-Bahn-Ringschluss Nord), Radschnellwege, Mobility Hubs. #(pro)
-  <+ <Finanzielle Zuschüsse vom Bund und Land> #pro
 
 [3. Sanierung von Sportstätten]: Bei einem Zuschlag für die Austragung von Olympischen Spielen in München werden Sport- und Freizeitstätten saniert und ausgebaut, die von der Öffentlichkeit genutzt werden können. #(pro)
-  <+ <Finanzielle Zuschüsse vom Bund und Land> #pro
 
 [4. Ausbau einer barierefreien Stadt]: Bei einem Zuschlag für die Austragung von Olympischen Spielen in München wird die Barrierefreiheit in der Stadt konsequent umgesetzt. #(pro)
-  <+ <Finanzielle Zuschüsse vom Bund und Land> #pro
 
 [5. Realisierung von Renaturierungs- und Klimaanpassungsmaßnahmen]: Bei einem Zuschlag für die Austragung von Olympischen Spielen in München werden Renaturierungs- und Klimaanpassungsmaßnahmen umgesetzt, die sonst nicht in der Frist realisiert werden würden. #(pro)
-  <+ <Finanzielle Zuschüsse vom Bund und Land> #pro
 
 
-## Weitere positive Konsequenzen von Olympischen Spielen in der Stadt 
+# Weitere positive Konsequenzen von Olympischen Spielen in der Stadt 
 
 [6. Stärkung lokaler Wirtschaft]: Von der Ausrichtung von Olympischen Spielen in München profitieren lokale Unternehmen durch zusätzlich erzeugte Nachfrage. #(pro)
   
-
 [7. Unterstützung Breitensports]: Breitensport erhält durch die Ausrichtung der Olympischen Spiele größeren Zulauf als ohne ihre Ausrichtung. #(pro)
-  <+ <Ausbau der Infrastruktur in Kombination mit öffentlicher Aufmerksamkeit für Sport>: durch den Ausbau der Sport- und Freizeit-Infrastruktur wird ermöglicht, dass mehr Menschen an Sportaktivitäten teilhaben und durch die öffentliche Aufmerksamkeit für Olympische Spiele werden auch mehr Menschen zu sportlichen Aktivitäten motiviert. #(pro) {rank: "r2"}
+
 
 [8. Stärkung gesellschaftlichen Zusammenhalts]: Die Ausrichtung von Olympischen Spielen in München "schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander". #(pro)
   
 [9. Einzigartige Erlebnisse für Stadtbewohner*innen]: Ausrichtung von Olympischen Spielen in München schafft einzigartige emotionale Erlebnisse in der Stadt. #(pro)
 
 ```
+
 Die grün umrandeten Kästchen repräsentieren jeweils einen beitragenden Grund für die Bewerbung. Sie habe ich in zwei Gruppen unterteilt:
 * Eine erfolgreiche Olympia-Bewerbung Münchens trägt zur Realisierung von wichtigen Stadtentwicklungsprojekten bei;
 * Eine erfolgreiche Olympia-Bewerbung Münchens bringt weitere positive Konsequenzen für die Stadt und ihre Bewohner\*innen.

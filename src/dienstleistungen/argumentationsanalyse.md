@@ -23,7 +23,7 @@ title: Argumentationsanalyse
                        <div class="flex items-center mb-3">
                         <div
                            class="mr-3 inline-flex items-center justify-center flex-shrink-0">
-                           <img src="{{ '/img/logo_analyse.svg' | url }}" alt="" class="mt-2 h-12 w-12">
+                           <img src="{{ env.baseUrl }}img/logo_analyse.svg" alt="" class="mt-2 h-12 w-12">
                         </div>
                         <h3 class="mt-2 text-2xl font-bold text-gray-900 ">Debattenanalyse</h3>
                        </div>
@@ -68,7 +68,7 @@ title: Argumentationsanalyse
    </div>
    <div class="p-1 flex justify-center">
       <button onclick="location.href='mailto:kontakt@argumentationsagentur.de'" class="mt-4 overflow-hidden text-2xl font-bold bg-white text-gray-800 hover:bg-main_gray hover:text-main_heavy_1 py-2 px-4 rounded focus:outline-none focus:shadow-outline flex items-center">
-      	<img src="{{ '/img/email-svgrepo.svg' | url }}" alt="Logo-Email" class="h-12 w-12 mr-2">Kontaktiere uns!
+      	<img src="{{ env.baseUrl }}img/email-svgrepo.svg" alt="Logo-Email" class="h-12 w-12 mr-2">Kontaktiere uns!
       </button>
 	</div> 
 </section>

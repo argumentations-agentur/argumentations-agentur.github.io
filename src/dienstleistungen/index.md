@@ -1,13 +1,10 @@
 ---
-layout: page
+layout: page.njk
 title: Unsere Dienstleistungen
-description: Capitalize on low hanging fruit to identify a ballpark value added
-  activity to beta test. Override the digital divide with additional
-  clickthroughs from DevOps.
 ---
 
 <!--
-Das kann doch vollkommen weg, oder?
+Diese Datei kann doch vollkommen weg, oder?
 -->
 
 # <span style="color:#805AD5">[Argumentationsanalyse]({{'/dienstleistungen/argumentationsanalyse' | url }}) </span>

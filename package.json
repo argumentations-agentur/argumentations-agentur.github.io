@@ -1,29 +1,35 @@
 {
+  "type": "module",
   "name": "Argumentationsagentur Website",
   "version": "0.0.1",
   "description": "Website of Argumentationsagentur",
   "scripts": {
     "serve": "eleventy --serve",
-    "deploy": "gh-pages -d _site -t true",
+    "deploy": "gh-pages -d _site -t",
     "build": "eleventy"
   },
   "author": "ttntm",
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^3.1.6",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "autoprefixer": "^10.2.5",
-    "cssnano": "^4.1.10",
-    "gh-pages": "^6.1.1",
-    "html-minifier": "^4.0.0",
+    "cssnano": "^8.0.2",
+    "gh-pages": "^6.3.0",
     "luxon": "^2.3.0",
     "postcss": "^8.2.9",
     "postcss-import": "^14.0.0",
     "tailwindcss": "^2.0.4"
   },
   "dependencies": {
-    "@argdown/markdown-it-plugin": "^1.7.7",
-    "markdown-it": "^14.0.0"
+    "@argdown/markdown-it-plugin": "^2.0.0",
+    "html-minifier": "^4.0.0",
+    "html-minifier-terser": "^7.2.0",
+    "markdown-it": "^14.3.0",
+    "markdown-it-container": "^4.0.0",
+    "markdown-it-emoji": "^3.0.0",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-task-lists": "^2.1.1"
   },
   "homepage": "/"
 }

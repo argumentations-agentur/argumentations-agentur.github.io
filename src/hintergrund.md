@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: page.njk
 title: Hintergund
-description: Hier beschreiben wir unseren Hintergrund.
+description: Hier beschreiben wir unseren Hintergrund
 ---
 
 Wenn Menschen miteinander diskutieren, Meinungsverschiedenheiten austragen, Auseinandersetzungen führen, andere zu überzeugen suchen oder sich an gesellschaftlichen Debatten beteiligen, geht es idealerweise darum, **Gründe** zu artikulieren. Wenn wir unsere Meinungen daraufhin überprüfen, ob sie gerechtfertigt sind, suchen wir idealerweise nach Gründen für unsere Meinungen und bewerten diese Gründe.

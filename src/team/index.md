@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page.njk
 title: Unser Team
 ---
 
@@ -11,7 +11,7 @@ title: Unser Team
         <div class="max-w-sm w-full lg:max-w-full lg:flex mx-auto my-10">
             <div class="h-48 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center border-r border-t border-l border-gray-400 lg:border-r-0 lg:border-b lg:border-gray-400 bg-white"
                 title="Eugen Pissarskoi">
-                <img class="w-28 mx-auto my-6 rounded-full" src="{{ '/img/eugen.jpeg' | url }}">
+                <img class="w-28 mx-auto my-6 rounded-full" src="{{ env.baseUrl }}img/eugen.jpeg">
             </div>
             <div
                 class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4">
@@ -28,10 +28,10 @@ title: Unser Team
                     </p>
                     <div class="my-4 flex gap-2">
                         <a href="https://eugenpissarskoi.de/" target="_blank">
-                        <img src="{{ '/img/logo-globe-website.svg' | url }}" alt="" class="h-6 w-6"/>
+                        <img src="{{ env.baseUrl }}img/logo-globe-website.svg" alt="" class="h-6 w-6"/>
                         </a>
                         <a href="mailto:eugen@argumentationsagentur.de" target="_blank">
-                            <img src="{{ '/img/email-svgrepo.svg' | url }}" alt="" class="h-6 w-6"/>
+                            <img src="{{ env.baseUrl }}img/email-svgrepo.svg" alt="" class="h-6 w-6"/>
                         </a>
                     </div>
                 </div>
@@ -41,7 +41,7 @@ title: Unser Team
         <div class="max-w-sm w-full lg:max-w-full lg:flex mx-auto my-10">
             <div class="h-48 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center border-r border-t border-l border-gray-400 lg:border-r-0 lg:border-b lg:border-gray-400 bg-white"
                 title="Sebastian Cacean">
-                <img class="w-28 mx-auto my-6 rounded-full" src="{{ '/img/cacean-sw-2.jpg' | url }}">
+                <img class="w-28 mx-auto my-6 rounded-full" src="{{ env.baseUrl }}img/cacean-sw-2.jpg">
             </div>
             <div
                 class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4">
@@ -52,17 +52,17 @@ title: Unser Team
                         Gründer & Trainer
                     </p>
                     <p class="text-gray-500 text-base mt-4">
-                    Sebastian ist studierter Philosoph und Physiker und derzeit wissenschaftlicher Mitarbeiter am Karlsruher Institut für Technologie. Zu seinen Forschungsschwerpunkten gehören Argumentationstheorie, angewandte Ethik und Wissenschaftstheorie. Er hat langjährige Erfahrungen in der Hochschullehre und der Anwendung argumentationstheoretischer Methoden auf gesellschaftsrelevante Themen. 
+                    Sebastian ist studierter Philosoph und Physiker und derzeit wissenschaftlicher Mitarbeiter an der <a href="https://www.hhu.de/news/neu-im-team-sebastian-cacean" target="_blank">Heinrich Heine Universität Düsseldorf</a>. Zu seinen Forschungsschwerpunkten gehören Argumentationstheorie, angewandte Ethik und Wissenschaftstheorie. Er hat langjährige Erfahrungen in der Hochschullehre und der Anwendung argumentationstheoretischer Methoden auf gesellschaftsrelevante Themen. 
                     </p>
                     <div class="my-4 flex gap-2">
                         <a href="https://sebastiancacean.de/" target="_blank">
-                        <img src="{{ '/img/logo-globe-website.svg' | url }}" alt="" class="h-6 w-6"/>
+                        <img src="{{ env.baseUrl }}img/logo-globe-website.svg" alt="" class="h-6 w-6"/>
                         </a>
                         <a href="mailto:sebastian@argumentationsagentur.de" target="_blank">
-                            <img src="{{ '/img/email-svgrepo.svg' | url }}" alt="" class="h-6 w-6"/>
+                            <img src="{{ env.baseUrl }}img/email-svgrepo.svg" alt="" class="h-6 w-6"/>
                         </a>
                         <a href="https://www.linkedin.com/in/sebastian-cacean/" target="_blank">
-                            <img src="{{ '/img/linkedin-logo.svg' | url }}" alt="" class="h-6 w-6"/>
+                            <img src="{{ env.baseUrl }}img/linkedin-logo.svg" alt="" class="h-6 w-6"/>
                         </a>
                     </div>
                     </div>
@@ -73,7 +73,7 @@ title: Unser Team
         <div class="max-w-sm w-full lg:max-w-full lg:flex mx-auto my-10">
             <div class="h-48 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center border-r border-t border-l border-gray-400 lg:border-r-0 lg:border-b lg:border-gray-400 bg-white"
                 title="David Lanius">
-                <img class="w-28 mx-auto my-6 rounded-full" src="{{ '/img/Lanius-David-Profilbild.jpg' | url }}">
+                <img class="w-28 mx-auto my-6 rounded-full" src="{{ env.baseUrl }}img/Lanius-David-Profilbild.jpg">
             </div>
             <div
                 class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4">
@@ -91,22 +91,22 @@ title: Unser Team
                     </p>
                     <div class="my-4 flex gap-2">
                         <a href="https://davidlanius.de/" target="_blank">
-                        <img src="{{ '/img/logo-globe-website.svg' | url }}" alt="" class="h-6 w-6"/>
+                        <img src="{{ env.baseUrl }}img/logo-globe-website.svg" alt="" class="h-6 w-6"/>
                         </a>
                         <a href="mailto:david@argumentationsagentur.de" target="_blank">
-                        <img src="{{ '/img/email-svgrepo.svg' | url }}" alt="" class="h-6 w-6"/>
+                        <img src="{{ env.baseUrl }}img/email-svgrepo.svg" alt="" class="h-6 w-6"/>
                         </a>
                         <a href="https://www.linkedin.com/in/david-lanius/" target="_blank">
-                        <img src="{{ '/img/linkedin-logo.svg' | url }}" alt="" class="h-6 w-6"/>
+                        <img src="{{ env.baseUrl }}img/linkedin-logo.svg" alt="" class="h-6 w-6"/>
                         </a>
                         <a href="https://www.researchgate.net/profile/David_Lanius" target="_blank">
-                        <img src="{{ '/img/logo-researchgate.svg' | url }}" alt="" class="h-6 w-6"/>
+                        <img src="{{ env.baseUrl }}img/logo-researchgate.svg" alt="" class="h-6 w-6"/>
                         </a>
                         <a href="https://kit.academia.edu/DavidLanius" target="_blank">
-                        <img src="{{ '/img/logo-academia.svg' | url }}" alt="" class="h-6 w-6"/>
+                        <img src="{{ env.baseUrl }}img/logo-academia.svg" alt="" class="h-6 w-6"/>
                         </a>
                         <a href="https://www.facebook.com/davidlanius" target="_blank">
-                        <img src="{{ '/img/logo-fb-sq.svg' | url }}" alt="" class="h-6 w-6"/>
+                        <img src="{{ env.baseUrl }}img/logo-facebook.svg" alt="" class="h-6 w-6"/>
                         </a>
                     </div>
                 </div>

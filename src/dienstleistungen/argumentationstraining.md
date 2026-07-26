@@ -31,7 +31,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
             <div class="relative">
                 <div class="relative overflow-hidden bg-white hover:bg-main_gray shadow-md rounded-xl h-full">
                     <div class="p-9">
-                      <img src="{{ '/img/logo_kritisches_denken2.svg' | url }}" alt="" class="mt-6 h-12 w-12">
+                      <img src="{{ env.baseUrl }}img/logo_kritisches_denken2.svg" alt="" class="mt-6 h-12 w-12">
                       <h3 class="mt-6 sm:mt-10  text-2xl font-bold text-gray-900 ">Werkzeugkasten 'Kritisches Denken'</h3>
                       <p class="mt-6 text-base text-gray-600">In diesen Workshops trainieren wir Grundkompetenzen und Werkzeuge kritischen Urteilens.</p>
                       <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#kritisches_denken">Erfahre mehr 
@@ -47,7 +47,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
             <!-- Kachel:  Umgang mit Wertkonflikten -->
             <div class="overflow-hidden bg-white  hover:bg-main_gray shadow-md rounded-xl">
                 <div class="p-9">
-                    <img src="{{ '/img/logo_wertkonflikte.svg' | url }}" alt="" class="mt-6 h-12 w-12">
+                    <img src="{{ env.baseUrl }}img/logo_wertkonflikte.svg" alt="" class="mt-6 h-12 w-12">
                     <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Umgang mit Wertkonflikten</h3>
                     <p class="mt-6 text-base text-gray-600">Argumente nutzen, um in Wertkonflikten zu vermitteln</p>
                     <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#wertkonflikte">Erfahre mehr 
@@ -63,7 +63,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
             <div class="relative">
                 <div class="relative overflow-hidden bg-white hover:bg-main_gray shadow-md rounded-xl h-full">
                     <div class="p-9">
-                        <img src="{{ '/img/logo_entscheidungsfindung2.svg' | url }}" alt="" class="mt-6 h-12 w-12">
+                        <img src="{{ env.baseUrl }}img/logo_entscheidungsfindung2.svg" alt="" class="mt-6 h-12 w-12">
                         <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Entscheidungsfindung</h3>
                         <p class="mt-6 text-base text-gray-600">Argumente nutzen, um strategische Entscheidungen zu finden</p>
                         <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#entscheidungsfindung">Erfahre mehr 
@@ -79,7 +79,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
             <!-- Kachel: Rhetorik -->
             <div class="overflow-hidden bg-white hover:bg-main_gray shadow-md rounded-xl">
                 <div class="p-9">
-                    <img src="{{ '/img/logo_rhetorik2.svg' | url }}" alt="" class="mt-6 h-12 w-12">
+                    <img src="{{ env.baseUrl }}img/logo_rhetorik2.svg" alt="" class="mt-6 h-12 w-12">
                     <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Rhetorik</h3>
                     <p class="mt-6 text-base text-gray-600">Wie argumentiert man überzeugend und kompetent?</p>
                     <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#rhetorik">Erfahre mehr 
@@ -95,7 +95,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
             <div class="relative">
                 <div class="relative overflow-hidden bg-white hover:bg-main_gray shadow-md rounded-xl h-full">
                     <div class="p-9">
-                        <img src="{{ '/img/logo_destruktive_argumentation.svg' | url }}" alt="" class="mt-6 h-12 w-12">
+                        <img src="{{ env.baseUrl }}img/logo_destruktive_argumentation.svg" alt="" class="mt-6 h-12 w-12">
                         <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Umgang mit destruktiver Argumentation</h3>
                         <p class="mt-6 text-base text-gray-600">Was tun, wenn andere destruktiv argumentieren?</p>
                         <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#destruktive_argumentation">Erfahre mehr 
@@ -111,7 +111,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
             <!-- Kachel:  Speziell zugeschnittene Workshops -->
             <div class="overflow-hidden bg-white hover:bg-main_gray shadow-md rounded-xl">
                 <div class="p-9">
-                    <img src="{{ '/img/logo_workshops_speziell.svg' | url }}" alt="" class="mt-6 h-12 w-12">
+                    <img src="{{ env.baseUrl }}img/logo_workshops_speziell.svg" alt="" class="mt-6 h-12 w-12">
                     <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Speziell zugeschnittene Workshops</h3>
                     <p class="mt-6 text-base text-gray-600">Wir konzipieren Workshops die auf ihre spezifischen Bedarfe zugeschnitten sind.</p>
                     <a class="group inline-flex items-center rounded-full text-sm font-semibold whitespace-nowrap focus:outline-none focus:ring-2 bg-slate-100 text-gray-600 hover:bg-slate-200 hover:text-slate-900 focus:ring-slate-500 mt-1" href="#spezielle_workshops">Erfahre mehr 
@@ -133,7 +133,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                       <div class="flex items-center mb-3">
                         <div
                             class="mr-3 inline-flex items-center justify-center flex-shrink-0">
-                            <img src="{{ '/img/logo_kritisches_denken2.svg' | url }}" alt="" class="mt-2 h-12 w-12">
+                            <img src="{{ env.baseUrl }}img/logo_kritisches_denken2.svg" alt="" class="mt-2 h-12 w-12">
                         </div>
                         <h3 class="mt-2 text-2xl font-bold text-gray-900 ">Werkzeugkasten 'Kritisches Denken'</h3>
                       </div>
@@ -167,7 +167,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                       <div class="flex items-center mb-3">
                         <div
                             class="mr-3 inline-flex items-center justify-center flex-shrink-0">
-                            <img src="{{ '/img/logo_wertkonflikte.svg' | url }}" alt="" class="mt-2 h-12 w-12">
+                            <img src="{{ env.baseUrl }}img/logo_wertkonflikte.svg" alt="" class="mt-2 h-12 w-12">
                         </div>
                         <h3 class="mt-2 text-2xl font-bold text-gray-900 ">Umgang mit Wertkonflikten</h3>
                       </div>
@@ -192,7 +192,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                       <div class="flex items-center mb-3">
                         <div
                             class="mr-3 inline-flex items-center justify-center flex-shrink-0">
-                            <img src="{{ '/img/logo_entscheidungsfindung2.svg' | url }}" alt="" class="mt-2 h-12 w-12">
+                            <img src="{{ env.baseUrl }}img/logo_entscheidungsfindung2.svg" alt="" class="mt-2 h-12 w-12">
                         </div>
                         <h3 class="mt-2 text-2xl font-bold text-gray-900 ">Entscheidungsfindung</h3>
                       </div>
@@ -220,7 +220,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                       <div class="flex items-center mb-3">
                         <div
                             class="mr-3 inline-flex items-center justify-center flex-shrink-0">
-                            <img src="{{ '/img/logo_rhetorik2.svg' | url }}" alt="" class="mt-2 h-12 w-12">
+                            <img src="{{ env.baseUrl }}img/logo_rhetorik2.svg" alt="" class="mt-2 h-12 w-12">
                         </div>
                         <h3 class="mt-2 text-2xl font-bold text-gray-900 ">Rhetorik</h3>
                       </div>
@@ -244,7 +244,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                       <div class="flex items-center mb-3">
                         <div
                             class="mr-3 inline-flex items-center justify-center flex-shrink-0">
-                            <img src="{{ '/img/logo_destruktive_argumentation.svg' | url }}" alt="" class="mt-2 h-12 w-12">
+                            <img src="{{ env.baseUrl }}img/logo_destruktive_argumentation.svg" alt="" class="mt-2 h-12 w-12">
                         </div>
                         <h3 class="mt-2 text-2xl font-bold text-gray-900 ">Umgang mit destruktiver Argumentation</h3>
                       </div>
@@ -274,7 +274,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
                       <div class="flex items-center mb-3">
                         <div
                             class="mr-3 inline-flex items-center justify-center flex-shrink-0">
-                            <img src="{{ '/img/logo_workshops_speziell.svg' | url }}" alt="" class="mt-2 h-12 w-12">
+                            <img src="{{ env.baseUrl }}img/logo_workshops_speziell.svg" alt="" class="mt-2 h-12 w-12">
                         </div>
                         <h3 class="mt-2 text-2xl font-bold text-gray-900">Speziell zugeschnittene Workshops</h3>
                       </div>
@@ -287,7 +287,7 @@ esp.: https://www.svgrepo.com/collection/neuicons-oval-line-icons/9
         </div>
         <div class="p-1 flex justify-center">
           <button onclick="location.href='mailto:kontakt@argumentationsagentur.de'" class="mt-4 overflow-hidden text-2xl font-bold bg-white text-gray-800 hover:bg-main_gray hover:text-main_heavy_1 py-2 px-4 rounded focus:outline-none focus:shadow-outline flex items-center">
-            <img src="{{ '/img/email-svgrepo.svg' | url }}" alt="Logo-Email" class="h-12 w-12 mr-2">Kontaktiere uns!
+            <img src="{{ env.baseUrl }}img/email-svgrepo.svg" alt="Logo-Email" class="h-12 w-12 mr-2">Kontaktiere uns!
           </button>
         </div>
     </div>

@@ -294,6 +294,7 @@ color:
   - <GG-A1 Lebensschutz gilt nicht absolut>: Gesundheit und das Leben müssen gegen andere Freiheitsrechte abgewogen werden. #Ros 
 ----
 (3) [Pflicht zur Impfung gegen Sars-Cov2]
+
 ```
 
 Montgomerys Argumentation:
